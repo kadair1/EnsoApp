@@ -1,0 +1,902 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Let's do a Salon</title>
+    <!--set favicon to favicon.png--> 
+    <link rel="shortcut icon" href="logo.png" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <style>
+      #container  {
+        width : 100%; 
+        height : 100%; 
+        position : absolute; 
+        top : 0px; 
+        left : 0px;
+        margin : 0px;
+        padding : 0px;
+        
+      }
+      .small {
+        font-size: 10px;
+      }
+
+      .md {
+        background-color: #fff;
+        border : 1px solid #888;
+        padding : 8px;
+        border-radius: 4px;
+      }
+      .action {
+        background-color: #eff4f8;
+        border-radius: 4px;
+        padding: 8px;
+      }
+
+      input[type="button"]  {
+        background-color: #fff;
+        border-radius: 4px;
+        border: 1px solid #888;
+        padding: 8px;
+        cursor: pointer;
+      }
+
+      .info {
+        background-color: #FFFEF8;
+        color: #222;
+        border-radius: 4px;
+        padding: 4px;
+      }
+      body {
+        overflow : hidden;
+        font-family: 'Roboto', sans-serif;
+      }
+
+      pre {
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        user-select: true;
+        word-wrap: break-word;
+        white-space: pre-wrap;       /* css-3 */
+        white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+        white-space: -pre-wrap;      /* Opera 4-6 */
+        white-space: -o-pre-wrap;    /* Opera 7 */
+        word-wrap: break-word;  
+      }
+      
+      #content {
+        background-color : #FFFEF8;
+        color: #000;
+        padding : 16px;
+        font-size: 40px;
+       
+        margin: 8px;
+        user-select: none;
+      }
+
+      #eventChecklist {
+        background-color : #FFFEF8;
+        color: #000;
+        padding : 16px;
+        font-size: 16px;
+        width: 80%;
+        margin: 8px;
+        user-select: none;
+      }
+
+      .hilight {
+        color : #94B9FF;
+      }
+    
+      span {
+        color : #94B9FF;
+      }
+      
+      #links a {
+        text-decoration: none;
+        color : #888;
+        font-size: 24;
+      }
+      
+
+      .main {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+        overflow-y: scroll;
+      }
+
+
+      .go {
+        color : #fff !important;
+        background-color:#94B9FF !important;
+        font-weight: bold;
+        cursor: pointer;
+        padding: 16px 32px !important;
+        border-radius: 4px;
+      }
+
+      .go:hover {
+       opacity : 0.8;
+      }
+
+
+      #statusView {
+        display: none;
+      }
+
+      #endView {
+        display: none;
+      }
+
+      #todoView {
+        display: none;
+        justify-content: flex-start;
+        align-items: center;
+      }
+
+      .lds-ellipsis {
+      display: inline-block;
+      position: relative;
+      width: 80px;
+      height: 40px;
+    }
+    .lds-ellipsis div {
+      position: absolute;
+      top: 36px;
+      width: 5px;
+      height: 5px;
+      border-radius: 50%;
+      background: #888;
+      animation-timing-function: cubic-bezier(0, 1, 1, 0);
+    }
+    .lds-ellipsis div:nth-child(1) {
+      left: 8px;
+      animation: lds-ellipsis1 0.6s infinite;
+    }
+    .lds-ellipsis div:nth-child(2) {
+      left: 8px;
+      animation: lds-ellipsis2 0.6s infinite;
+    }
+    .lds-ellipsis div:nth-child(3) {
+      left: 32px;
+      animation: lds-ellipsis2 0.6s infinite;
+    }
+    .lds-ellipsis div:nth-child(4) {
+      left: 56px;
+      animation: lds-ellipsis3 0.6s infinite;
+    }
+    @keyframes lds-ellipsis1 {
+      0% {
+        transform: scale(0);
+      }
+      100% {
+        transform: scale(1);
+      }
+    }
+    @keyframes lds-ellipsis3 {
+      0% {
+        transform: scale(1);
+      }
+      100% {
+        transform: scale(0);
+      }
+    }
+    @keyframes lds-ellipsis2 {
+      0% {
+        transform: translate(0, 0);
+      }
+      100% {
+        transform: translate(24px, 0);
+      }
+    }
+
+
+      </style>
+  </head>
+
+
+  <body>
+    <div id="container"><canvas width="1680" height="818"></canvas></div>
+    
+    <div style="position: absolute">
+      <img src="logo.png" />
+    </div>
+    <div class="main" id='interviewView'>
+
+      <div id="content" class='first'>
+        I want to organize a salon about <span contenteditable="true" id="what"> AI Art</span>
+      </div>
+  
+  
+      <div id="content" class="second">
+        In <span contenteditable="true" id="where"> Palo Alto</span>
+      </div>
+  
+      <div id="content" class="third">
+        When <span contenteditable="true" id="when"> Next week</span>
+      </div>
+  
+      <div id="content" class="fourth">
+        With a budget of $<span contenteditable="true" id="budget">500</span>
+      </div>
+  
+      <div id="content" class="fith">
+       An it will be <span contenteditable="true" id="mood">Relax and classy</span>
+      </div>
+  
+      <div id="content" class="go" onclick="go()">
+        Let the Magic Happen!
+      </div>
+
+    </div>
+
+    <div class="main" id='statusView'>
+
+      <div id="content" class='first'>
+          <span>🤞 AI is working 🤞</span>
+      </div>
+  
+  
+      <div id="content" class="second">
+        Finding venue <span class="progress" id="progress_venue"><div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div></span>
+      </div>
+  
+      <div id="content" class="second">
+        Finding Music <span class="progress" id="progress_music"><div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div></span>
+      </div>
+
+      <div id="content" class="second">
+        Finding Food Provider <span class="progress" id="progress_food"><div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div></span>
+      </div>
+
+      <div id="content" class="second">
+        Finding Drinks <span class="progress" id="progress_drinks"><div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div></span>
+      </div>
+
+      <div id="content" class="second">
+        Building Communication material <span class="progress" id=""><div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div></span>
+      </div>
+
+
+    </div>
+
+    <div class="main" id='endView'>
+
+      <div id="content" class='first'>
+          <span> All good !</span>
+      </div>
+  
+      <div id="content" class="go" onclick="dl()">
+        Go to your event planing page!
+      </div>
+
+    </div>
+
+    <div class="main" id='todoView'>
+      <div id="content">
+        Event organizer Checklist
+      </div>
+
+      <div id="eventChecklist">
+      </div>
+    </div>
+
+ 
+    <script>
+
+      let EVENT_ID = null;
+
+      // find hashbang id
+
+      let hash = window.location.hash;
+      if (hash) {
+        EVENT_ID = hash.substr(1);
+        checkstatus();
+      }
+
+      async function renderTodo() {
+
+        interviewView.style.display = 'none';
+        statusView.style.display = 'none';
+        endView.style.display = 'none';
+        document.getElementById('todoView').style.display = 'flex';
+        
+        let res = await fetch(`/status/${EVENT_ID}`);
+        let data = await res.json();
+
+        let todoView = document.getElementById('todoView');
+         DATA =data;
+        document.getElementById('eventChecklist').innerHTML = `
+        
+          <h1 class='hilight'>${data.where} ${data.what} Salon</h1>
+         
+          <h2> Venue </h2>
+          <h3> ${data.venue.name}</h3>
+          <p> <img src="${data.venue.metadata['Venue Image\r']}" width="500px"/></p>
+
+          <p> ${data.venue.why}</p>
+
+          <table>
+            <tr><td>👥 Capacity</td><td>${data.venue.metadata.Capacity}</td></tr>
+            <tr><td>💰 Price per hour</td><td>${data.venue.metadata["Price per hour"]}</td></tr>
+          </table>
+          <h3>✉️ Booking Request </h3>
+          <div class='info'>ℹ️ Here is a message to send to the venue to book it!</div>
+
+          <div class='action'>
+          <p> <b>To:</b> <span contenteditable=true>${data.bookingRequest.To}</span></p>
+          <p> <b>Subject:</b>  <span contenteditable=true>${data.bookingRequest.Subject}</span></p>
+          <pre contenteditable=true>${data.bookingRequest.Body}</pre>
+          <p>
+          <input type="button" value="Copy" /> 
+          <input type="button" value="🤖 Handle It for me!" onclick="this.value='🤖 working...'"/>
+          </p>
+          </div>
+          
+          <h2>Food</h2>
+          <h3>🥡${data.food.name}</h3>
+          <p> ${data.food.why}</p>
+          
+          <p> 💰 Price per person ${data.food.metadata["Price per person"]}</td></tr></p>
+
+          <div class='action'>
+          <p> <b>To:</b> <span contenteditable=true>${data.getFoodBookingRequest.To}</span></p>
+          <p> <b>Subject:</b>  <span contenteditable=true>${data.getFoodBookingRequest.Subject}</span></p>
+          <pre contenteditable=true>${data.getFoodBookingRequest.Body}</pre>
+          <p>
+          <input type="button" value="Copy" /> 
+          <input type="button" value="🤖 Handle It for me!" onclick="this.value='🤖 working...'"/>
+          </p>
+          </div>
+
+          <h2>🎹 Music </h2>
+
+          <h3>${data.music.name}</h3>
+          <p> ${data.music.why}</p>
+
+          <div class='action'>
+          <p> <b>To:</b> <span contenteditable=true>${data.musicBookingRequest.To}</span></p>
+          <p> <b>Subject:</b>  <span contenteditable=true>${data.musicBookingRequest.Subject}</span></p>
+          <pre contenteditable=true>${data.musicBookingRequest.Body}</pre>
+          <p>
+          <input type="button" value="Copy" /> 
+          <input type="button" value="🤖 Handle It for me!" onclick="this.value='🤖 working...'"/>
+          </p>
+          </div>
+
+          <h2> 🍸 Drinks </h2>
+          <div class='md'>  ${marked.parse(data.drinks)}
+            
+          </div>
+
+          <h2> 👩🏻‍💼 Bartender</h2>
+
+          <h3 ${data.barServer.name}</h3>
+          <p> ${data.barServer.why}</p>
+
+          <div class='action'>
+          <p> <b>To:</b> <span contenteditable=true>${data.BartenderBookingRequest.To}</span></p>
+          <p> <b>Subject:</b>  <span contenteditable=true>${data.BartenderBookingRequest.Subject}</span></p>
+          <pre contenteditable=true>${data.BartenderBookingRequest.Body}</pre>
+          <p>
+          <input type="button" value="Copy" /> 
+          <input type="button" value="🤖 Handle It for me!" onclick="this.value='🤖 working...'"/>
+          </p>
+          </div>
+                
+          <h2> 🪧 Social media post </h2>
+          <p> ${data.socialposts}</p>
+
+          <h2> Sponsor pack </h2>
+
+          <div class='md'>
+            ${marked.parse(data.getSponsorPitchDeck)}
+          </div>
+
+          <h2> Invitation </h2>
+          <p> ${data.invitation.invitation.message}</p>
+
+          `;
+       
+
+      }
+
+
+      async function go() {
+        let data = {
+          what : document.getElementById('what').innerText,
+          where : document.getElementById('where').innerText,
+          when : document.getElementById('when').innerText,
+          budget : document.getElementById('budget').innerText,
+          mood : document.getElementById('mood').innerText
+        };
+
+        interviewView.style.display = 'none';
+        statusView.style.display = 'flex';
+
+        colorHilight = '#94B9FF';
+
+        let res = await fetch('/create', {
+          method: 'POST', // or 'PUT'
+          body: JSON.stringify(data), // data can be `string` or {object}!
+          headers:{
+            'Content-Type': 'application/json'
+          }
+        });
+
+        let answer = await res.json();
+
+        EVENT_ID = answer.id;
+
+        window.location.hash = EVENT_ID;
+        setTimeout(checkstatus, 1000);
+
+      }
+    
+      function dl() {
+        // add hash EVENT_ID  to url
+        window.location.hash = EVENT_ID;
+
+        checkstatus();
+        
+      }
+
+      async function checkstatus() {
+        interviewView.style.display = 'none';
+        statusView.style.display = 'flex';
+        if (!EVENT_ID) {
+          setTimeout(checkstatus, 1000);
+        }
+        let res = await fetch(`/status/${EVENT_ID}`);
+        let data = await res.json();
+
+        if (data.venue) {
+          progress_venue.innerHTML = `<span>👍</span>`;
+        }
+        if (data.music) {
+          progress_music.innerHTML = `<span>🎹</span>`;
+        }
+        if (data.food) {
+          progress_food.innerHTML = `<span>😋</span>`;
+        }
+        if (data.drinks) {
+          progress_drinks.innerHTML = `<span>🍸</span>`;
+        }
+
+
+        // update based on status
+
+        if (data.ready) {
+            endView.style.display = 'flex';
+            statusView.style.display = 'none';
+            renderTodo();
+        }
+        else {
+          setTimeout(checkstatus, 1000);
+        }
+       
+      }
+ 
+      var colorHilight = '#000';
+    
+    var Engine = function(el, Experiment) {
+  // container infos
+  this.el = el;
+
+
+  this.width = this.el.offsetWidth;
+  this.height = this.el.offsetHeight;
+
+  var deltaTop = this.el.offsetTop;
+  var deltaLeft = this.el.offsetLeft;
+
+  // an Array of inputs
+  this.inputs = [];
+
+  // WHY SHOULD NAME BE A FUNCTION???
+
+  // CanvasInfos
+  this.canvas =  null;
+  this.ctx =  null;
+
+  this.start = function() {
+    // We call the run function
+    run.bind(this)();
+  };
+
+  this.destroy = function() {
+    // Notify gameObject
+    this.gameObject.destroy();
+    // kill it!
+    this.gameObject = null;
+  };
+
+  this.reset = function() {
+    // we call game object reseter
+    this.gameObject.reset();
+  };
+
+  this.getImage = function() {
+    return this.canvas.toDataURL();
+  };
+
+  // The current Date
+  this.now = 0;
+
+  // Device capture Time
+  this.captureTime = 0;
+
+
+  /**
+   * Private Methods
+   */
+  
+  function initCanvas() {
+    // create The Canvas
+    this.canvas = document.createElement('canvas');
+    this.canvas.width =  this.width;
+    this.canvas.height =  this.height;
+
+    // we clean the DOM
+    this.el.innerHTML = '';
+    // append canvas to DOM
+    this.el.appendChild(this.canvas);
+
+    // get 2d Context
+    this.ctx = this.canvas.getContext('2d');
+  }
+
+  function initGameObject() {
+    this.gameObject = new Experiment(this);
+    this.gameObject.init();
+  }
+
+  function initInputListener() {
+    
+    // Multitouch Events!
+    this.canvas.addEventListener('touchstart', manageTouch.bind(this));
+    this.canvas.addEventListener('touchmove', manageTouch.bind(this));
+    this.canvas.addEventListener('touchend', manageTouch.bind(this));
+    this.canvas.addEventListener('touchleave', manageTouch.bind(this));
+    this.canvas.addEventListener('touchcancel', manageTouch.bind(this));
+    this.canvas.addEventListener('touchenter', manageTouch.bind(this));
+
+    this.canvas.addEventListener('mousedown', mouseDown.bind(this));
+    this.canvas.addEventListener('mousemove', mouseMove.bind(this));
+    this.canvas.addEventListener('mouseup', mouseUp.bind(this));
+    this.canvas.addEventListener('mouseout', mouseUp.bind(this));
+  }
+
+  /**
+   * Inputs methods
+   */
+  var lastCapture = 0;
+  function manageTouch(event) {
+    var inputs = [];
+    for (var i = 0; i < event.targetTouches.length; ++i) {
+      var type = event.type;
+
+      if (type === 'touchstart') {
+        type = 'start';
+        lastCapture = 0;
+      } else if (type === 'touchmove') {
+        type = 'move';
+
+        var now = new Date().getTime();
+
+        if (lastCapture) {
+          this.captureTime = lastCapture - now;
+        }
+
+        lastCapture = now;
+      } else  {
+        type = 'up';
+        lastCapture = 0;
+      }
+
+
+      targetTouche = event.targetTouches[i];
+      inputs.push({
+        x : targetTouche.clientX - deltaLeft - window.scrollX,
+        y : targetTouche.clientY - deltaTop + window.scrollY,
+        id : targetTouche.identifier,
+        type : type
+      });
+    }
+    event.preventDefault();
+    event.stopPropagation();
+    this.inputs = inputs;
+  }
+
+  var mouseIsDown = 0;
+  var mouseId = 0;
+
+
+  function mouseDown(event) {
+    mouseIsDown = 1;
+    lastCapture = 0;
+    this.inputs = [{
+      x : event.clientX - deltaLeft - window.scrollX,
+      y : event.clientY - deltaTop + window.scrollY,
+      id : ++mouseId,
+      type : 'down'
+    }];
+  }
+
+
+  function mouseMove(event) {
+    if (mouseIsDown) {
+      this.inputs = [{
+        x : event.clientX - deltaLeft - window.scrollX,
+        y : event.clientY - deltaTop + window.scrollY,
+        id : mouseId,
+        type : 'move'
+      }];
+    }
+
+    var now = new Date().getTime();
+
+    if (lastCapture) {
+      this.captureTime = lastCapture - now;
+    }
+
+    lastCapture = now;
+
+  }
+
+  function mouseUp(event) {
+    mouseIsDown = 0;
+    lastCapture = 0;
+    this.inputs = [{
+      x : event.clientX - deltaLeft - window.scrollX,
+      y : event.clientY - deltaTop + window.scrollY,
+      id : mouseId,
+      type : 'up'
+    }];
+  }
+
+
+  function run() {
+    requestAnimFrame(run.bind(this));
+    // update inputs!
+    this.now = new Date().getTime();
+
+    // run game
+    this.gameObject.run();
+  }
+
+  // Paul irish requestAnimFramePolyfill
+  var requestAnimFrame = (function() {
+    return window.requestAnimationFrame ||
+       window.webkitRequestAnimationFrame ||
+       window.mozRequestAnimationFrame ||
+       window.oRequestAnimationFrame ||
+       window.msRequestAnimationFrame ||
+       function(/* function FrameRequestCallback */ callback, /* DOMElement Element */ element) {
+         window.setTimeout(callback, 1000/60);
+       };
+  })();
+
+  // Call the initers
+  initCanvas.bind(this)();
+  initInputListener.bind(this)();
+  initGameObject.bind(this)();
+
+};
+
+
+var MagnetField = function(engine) {
+  /**
+   * engine has the following proprieties
+   * engine.width : the width of the experience
+   * engine.height : the height of the experience
+   * engine.ctx : the 2d context of main canvas
+   * engine.canvas : the main canvas (used image saved to server!)
+   * engine.inputs : an array of current input
+   *                 An input is an object containing :
+   *                 {x,y} : the coordinate of input
+   *                 id : a unique id relative with this input (unique per 'touch')
+   */
+  
+  this.engine = engine;
+
+  var COLORS = [
+    [150,85,100],
+    [130,140,153],
+    [55,63,75]
+  ];
+  // ideal to fine tune your brush!
+  var PARAMETERS = {
+    squareSize  : 10
+  };
+
+
+  var FLUIDMAP = [];
+  var PARTICLES = [];
+  
+  var WIDTH = this.engine.width / 20 + 1| 0;
+  var HEIGHT = this.engine.width / 20 + 1| 0;
+  /**
+   * This function is called after we created your pobject
+   */
+  this.init = function() {
+    // Init your experience here
+    
+    // example : we paint canvas with blue color
+    this.engine.ctx.fillStyle = '#222';
+    this.engine.ctx.fillRect(0,0, this.engine.width, this.engine.height);
+
+    for (var x = 0; x < WIDTH; ++x) {
+      FLUIDMAP[x] = [];
+      for (var y = 0; y < HEIGHT; ++y) {
+        FLUIDMAP[x][y] = {
+          x : Math.random() * 10 - 5,
+          y :  Math.random() * 10 - 5
+        };
+      }
+    }
+
+    
+
+  };
+
+  var ctx = engine.ctx;
+
+  /**
+   * This function is called every frames
+   */
+  this.run = function () {
+    // you should manage input, render and animation here
+    // TIPS : Just create functions, avoid code wall!
+    
+    // example : we run throught input and draw red squares
+   
+    this.input();
+    this.animate();
+    this.render();
+
+
+  };
+
+  var inputsDelta = {};
+  var colorToId = {};
+
+  var CURRENT_COLOR = 0;
+
+  var getInput = false;
+
+  this.particles = [
+    {x : 0, y : 0, xs : 0, ys: 0},
+    {x : 0, y : 0, xs : 0, ys: 0},
+    {x : 0, y : 0, xs : 0, ys: 0},
+    {x : 0, y : 0, xs : 0, ys: 0}
+  ]
+  this.input = function() {
+
+    for (let particle of this.particles) {
+      FLUIDMAP[particle.x| 0][particle.y | 0].x = particle.xs * 5;
+      FLUIDMAP[particle.x| 0][particle.y | 0].y= particle.ys * 5;
+    }
+    return;
+  };
+
+  this.animate = function() {
+
+    for (let particle of this.particles) {
+      particle.x += particle.xs;
+      particle.y += particle.ys;
+
+      particle.xs += Math.random() * .1 -.05;
+      particle.ys += Math.random() * .1 -.05;
+      
+      particle.x %= WIDTH;
+      if (particle.x < 0) {
+        particle.x += WIDTH;
+      }
+      particle.y %= HEIGHT;
+      if (particle.y < 0) {
+        particle.y += HEIGHT;
+      }
+    }
+
+    var newFluid = [];
+
+    for (var x = 0; x < WIDTH; ++x) {
+      newFluid[x] = [];
+      for (var y = 0; y < HEIGHT; ++y) {
+        var dx = FLUIDMAP[x][y].x * .7;
+        var dy = FLUIDMAP[x][y].y * .7;
+
+        if (x > 0) {
+          dx += FLUIDMAP[x - 1][y].x * .05;
+          dy += FLUIDMAP[x - 1][y].y * .05;
+        }
+
+        if (x < WIDTH -1) {
+          dx += FLUIDMAP[x + 1][y].x * .05;
+          dy += FLUIDMAP[x + 1][y].y * .05;
+        }
+
+        if (y > 0) {
+          dx += FLUIDMAP[x][y - 1].x * .05;
+          dy += FLUIDMAP[x][y - 1].y * .05;
+        }
+
+        if (y < HEIGHT - 1) {
+          dx += FLUIDMAP[x][y + 1].x * .05;
+          dy += FLUIDMAP[x][y + 1].y * .05;
+        }
+        newFluid[x][y] = {
+          x : dx,
+          y : dy
+        };
+      }
+    }
+
+    FLUIDMAP = newFluid;
+
+    for (var i = 0; i < PARTICLES.length; ++i) {
+      var p = PARTICLES[i];
+
+      p.lx = p.x;
+      p.ly = p.y;
+      p.xs = p.xs * 0.9;
+      p.ys = p.ys * 0.9;
+
+      if (p.x >= 0 && p.x < 800 && p.y >= 0 && p.y < 600) {
+        p.xs += FLUIDMAP[p.x / 20 | 0][p.y / 20 | 0].x;
+        p.ys += FLUIDMAP[p.x / 20 | 0][p.y / 20 | 0].y;
+      }
+      p.x += p.xs;
+      p.y += p.ys;
+      
+      if (p.x < 0 || p.x > 800) {
+        p.xs = -p.xs;
+      }
+
+      if (p.y < 0 || p.y > 600) {
+        p.xs = -p.xs;
+      }
+    }
+
+  }
+
+  this.render = function() {
+    ctx.fillStyle = '#FFFEF8';
+   
+    ctx.globalAlpha = 1.0;
+    ctx.fillRect(0,0, this.engine.width, this.engine.height);
+    ctx.strokeStyle = colorHilight;
+
+    for (var x = 0; x < WIDTH; ++x) {
+      for (var y = 0; y < HEIGHT; ++y) {
+        var p = FLUIDMAP[x][y];
+        ctx.beginPath();
+        ctx.moveTo(x * 20, y * 20);
+        ctx.lineTo(x * 20 + p.x * 20, y * 20 + p.y * 20);
+        ctx.stroke();
+      }
+    }
+  
+
+  };
+};
+
+
+var engine = new Engine(document.getElementById('container'), MagnetField);
+engine.start();
+    </script>
+  
+</body>
+</html> 

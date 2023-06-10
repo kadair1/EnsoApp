@@ -19,9 +19,19 @@ async function  getTextConfirmation(data) {
   let answer = await promptIt(prompt);
 
   console.log(answer);
-
-  data.textConfirmation = JSON.parse(answer.answer);
-
+  try {
+    data.textConfirmation = JSON.parse(answer.answer);
+  }
+  catch(e) {
+    try {
+      eval("answer = "  + answer.answer);
+      data.textConfirmation = answer;
+    }
+    catch (e) { 
+      console.log("bad JSON, retry");
+      await getTextConfirmation(data);
+    }
+  }
 }
 
 

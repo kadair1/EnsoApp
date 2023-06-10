@@ -20,7 +20,21 @@ async function  getInvitation(data) {
 
   console.log(answer);
 
-  data.invitation = JSON.parse(answer.answer);
+  try {
+    data.invitation = JSON.parse(answer.answer);
+  }
+  catch (e) {
+    console.log("bad JSON, retry");
+    try {
+      eval("answer = "  + answer.answer);
+      data.invitation = answer;
+    }
+    catch (e) { 
+      await getInvitation(data);
+    }
+    
+  }
+  
 
 }
 

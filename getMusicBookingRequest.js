@@ -28,9 +28,19 @@ async function  getMusicBookingRequest(data) {
   let answer = await promptIt(prompt);
 
   console.log(answer);
-
-  data.musicBookingRequest = JSON.parse(answer.answer);
-
+  try {
+    data.musicBookingRequest = JSON.parse(answer.answer);
+  }
+  catch (e) {
+    console.log("bad JSON, retry");
+    try {
+      eval("answer = "  + answer.answer);
+      data.musicBookingRequest = answer;
+    }
+    catch (e) { 
+      await getMusicBookingRequest(data);
+    }
+  }
 }
 
 

@@ -29,8 +29,19 @@ async function  getFoodBookingRequest(data) {
 
   console.log(answer);
 
-  data.getFoodBookingRequest = JSON.parse(answer.answer);
-
+  try {
+    data.getFoodBookingRequest = JSON.parse(answer.answer);
+  }
+  catch (e) {
+    console.log("FOOD FAILS bad JSON, retry");
+    try {
+      eval("answer = "  + answer.answer);
+      data.getFoodBookingRequest = answer;
+    }
+    catch (e) { 
+      await getFoodBookingRequest(data);
+    }
+  }
 }
 
 

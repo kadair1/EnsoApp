@@ -7,14 +7,12 @@ const colors = require('colors/safe');
 const configuration = new Configuration({
   apiKey: process.env.OPEN_AI_KEY
 });
-
-console.log(process.env.OPEN_AI_KEY)
   
   const openai = new OpenAIApi(configuration);
 
 
 
-/*const { TextServiceClient } = require("@google-ai/generativelanguage");
+const { TextServiceClient } = require("@google-ai/generativelanguage");
 const { GoogleAuth } = require("google-auth-library");
 
 const MODEL_NAME = "models/text-bison-001";
@@ -22,7 +20,7 @@ const MODEL_NAME = "models/text-bison-001";
 
 const client = new TextServiceClient({
   authClient: new GoogleAuth().fromAPIKey(process.env.PALM_KEY),
-});*/
+});
 
 
 const openAIModelToPricePer1K = {
@@ -49,10 +47,10 @@ function sleep(time) {
    return new Promise(resolve => setTimeout(resolve, time));
 }
 
-async function promptIt(prompt, model='gpt-4', option={}) {
+async function promptIt(prompt, model='gpt-3.5-turbo', option={}) {
 
   const start = new Date().getTime();
-  model='gpt-4'
+  model="gpt-3.5-turbo"
   option.model = model;
   
   try {

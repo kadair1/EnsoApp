@@ -19,8 +19,19 @@ async function  getReminderEmail(data) {
   let answer = await promptIt(prompt);
 
   console.log(answer);
-
-  data.ReminderEmail = JSON.parse(answer.answer);
+  try {
+    data.ReminderEmail = JSON.parse(answer.answer);
+  }
+  catch (e) {
+    console.log("bad JSON, retry");
+    try {
+      eval("answer = "  + answer.answer);
+      data.ReminderEmail = answer;
+    }
+    catch (e) { 
+      await getReminderEmail(data);
+    }
+  }
 
 }
 

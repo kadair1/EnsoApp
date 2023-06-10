@@ -2859,5 +2859,570 @@
         "Email\r": "love@koko.com"
       }
     }
+  },
+  "excited-dolphin-paw": {
+    "what": "AI Art",
+    "where": "Palo Alto",
+    "when": "Next week",
+    "budget": "500",
+    "mood": "Relax and classy",
+    "id": "excited-dolphin-paw",
+    "venue": {
+      "name": "Ultra Modern House",
+      "id": "14",
+      "why": "This architecturally-designed modern house in Palo Alto offers a luxurious and well-lit interior, perfect for an AI Art event with a relax and classy mood. It is within the budget and provides a stunning and unique atmosphere for attendees.",
+      "metadata": {
+        "ID": "14",
+        "Venue Name": "Ultra Modern House",
+        "City": "Palo Alto",
+        "Neighbourhood": "",
+        "Capacity": "30",
+        "Price per hour": "$400",
+        "Outside Food permissable": "Yes",
+        "In-house Parking": "Yes",
+        "Venue Manager": "Anne-Flore G.",
+        "Email": "",
+        "Phone Number": "",
+        "Mood": "An architecturally-designed modern house is situated in the heart of Silicon Valley. Its interior is tastefully furnished and bathed in ample light, evoking a luxurious vibe. The backyard, equally stunning and well-lit, contributes to the overall beauty of the property. ",
+        "Venue URL": "https://www.splacer.co/venue/stunning-design-palo-alto-stanford",
+        "Venue Image\r": "https://res.cloudinary.com/splacer/image/upload/e_improve,f_auto,q_auto,g_auto,c_fill,dpr_2,w_1920,h_1080/v1/production/Splaces/006837/gicy7t8lv5fmdyaqmk1p.jpg\r"
+      }
+    },
+    "music": {
+      "name": "Serenade Events",
+      "why": "Serenade Events provides a variety of classical live music options that will complement the relax and classy atmosphere of an Ultra Modern House event.",
+      "metadata": {
+        "ID": "1",
+        "Name": "Serenade Events",
+        "Genre": "Classical",
+        "Live Instrument use": "Yes",
+        "Price": "$150",
+        "Description": "Serenade Events, the live music event specialists, offers professional music services for various occasions including weddings, parties, corporate events, and more. Our musician-run entity provides String Quartets, Trios, Harpists, Pianists, Violinists, Cellists, Classical Guitarists, Singers, and more. With global stage and theatre experience, we ensure a professional touch for your event.",
+        "Phone number": "(480)-382-9223",
+        "Email\r": "Info@SerenadeEvents.com\r"
+      }
+    },
+    "food": {
+      "name": "Notre Ferme",
+      "why": "Notre Ferme offers a selection of finger foods created by a Michelin star-earning chef, which will fit the relax and classy atmosphere of the AI Art event at the Ultra Modern House. The focus on local farmers and community connections adds a meaningful touch to the event, while the cost per person fits within the budget.",
+      "metadata": {
+        "ID": "0",
+        "Caterer Name": "Notre Ferme",
+        "Food Type": "Finger Foods",
+        "Description": "Notre Ferme, created by a Michelin star-earning chef, celebrates local farmers and community connections. The business fosters culinary education, while the chef's personal journey emphasizes sobriety, overcoming adversity, and giving back",
+        "Cost per person": "$14",
+        "Phone Number": "(530) 615-8198",
+        "Email\r": "a.notreferme@gmail.com\r"
+      }
+    },
+    "barServer": {
+      "name": "On The Rocks Bartending & Serving",
+      "why": "With 17 years of experience, On The Rocks Bartending & Serving excels at making guests happy and ensuring the host can relax and enjoy the event. They can create a custom cocktail menu tailored to the relax and classy mood of the AI Art event at the Ultra Modern House, and their professional staff will provide excellent service throughout the event.",
+      "metadata": {
+        "ID": "1",
+        "Bar server name": "On The Rocks Bartending & Serving",
+        "Years of experience": "17",
+        "About the bar server": "We excel at making guests happy, and strive to make sure the host/event planner can relax and enjoy the party. We'd love to create a custom cocktail menu for your event and help staff the party!",
+        "Price per hour": "$100",
+        "More details about the server\r": "https://www.thumbtack.com/ca/oakland/bartenders/mc-bartending-events/service/467696626414559243?service_pk=467696626414559243&project_pk=486709565968834592&lp_request_pk=486709565963542529&zip_code=94115&keyword_pk=102910114609294247&click_origin=pro%20list%2Fclick%20pro%20name&is_sponsored=false&utm_source=cma-google&utm_campaign=s-c-17693067489-140871286713-614000834145-kwd-25146543004-e---9031951-g---&utm_medium=cpc&gclid=CjwKCAjwyeujBhA5EiwA5WD7_b7vyoqtHYnU-S1vCYbtyp0Ikq9qWxe5QLUCZugjcRZTv0-iqllvexoC0GEQAvD_BwE&hideBack=true\r"
+      }
+    },
+    "drinks": "# Suggested Cocktails for Relax and Classy Ultra Modern House Event\n\n## 1. Elderflower Martini\n\n**Recipe:**\n- 2 oz gin\n- 1 oz elderflower liqueur (e.g., St. Germain)\n- 1 oz fresh lemon juice\n- Lemon twist, for garnish\n\n**Why it fits the mood:** The elegant combination of gin and elderflower liqueur creates a sophisticated and refreshing cocktail that complements the modern and classy atmosphere.\n\n## 2. Cucumber Basil Gimlet\n\n**Recipe:**\n- 2 oz gin\n- 1 oz fresh lime juice\n- 1 oz simple syrup\n- 3-4 slices of cucumber\n- 3-4 fresh basil leaves\n\n**Why it fits the mood:** The cool and crisp flavors of cucumber and basil mixed with gin make this a refreshing and stylish drink, perfect for a relaxed and classy event.\n\n## 3. Aperol Spritz\n\n**Recipe:**\n- 3 oz Prosecco\n- 2 oz Aperol\n- 1 oz club soda\n- Orange slice, for garnish\n\n**Why it fits the mood:** The Aperol Spritz is a light and bubbly cocktail that exudes elegance and sophistication. Its vibrant orange color and effervescence make it a perfect choice for a classy event.\n\n## 4. Lavender Collins\n\n**Recipe:**\n- 2 oz vodka\n- 1 oz fresh lemon juice\n- 1 oz lavender simple syrup\n- Club soda\n- Lavender sprig, for garnish\n\n**Why it fits the mood:** The delicate flavor of lavender combined with the classic Collins cocktail creates a refined and soothing drink, ideal for a relaxed and classy setting.\n\n## 5. Espresso Martini\n\n**Recipe:**\n- 2 oz vodka\n- 1 oz coffee liqueur (e.g., Kahlúa)\n- 1 oz freshly brewed espresso\n- Coffee beans, for garnish\n\n**Why it fits the mood:** The Espresso Martini is a sophisticated and modern cocktail that offers a perfect balance of rich coffee flavors and smooth vodka. It's a great choice for an upscale event where guests can enjoy a classy and relaxing atmosphere."
+  },
+  "sick-dog-sniff": {
+    "what": "AI Art",
+    "where": "Palo Alto",
+    "when": "Next week",
+    "budget": "500",
+    "mood": "Relax and classy",
+    "id": "sick-dog-sniff",
+    "venue": {
+      "name": "Ultra Modern House",
+      "id": "14",
+      "why": "This architecturally-designed modern house is located in Palo Alto, fitting the event location requirement. It has a luxurious vibe and ample lighting, providing a relaxing and classy atmosphere for the AI Art event. The venue also allows outside food and has in-house parking. The price per hour is within the event's budget.",
+      "metadata": {
+        "ID": "14",
+        "Venue Name": "Ultra Modern House",
+        "City": "Palo Alto",
+        "Neighbourhood": "",
+        "Capacity": "30",
+        "Price per hour": "$400",
+        "Outside Food permissable": "Yes",
+        "In-house Parking": "Yes",
+        "Venue Manager": "Anne-Flore G.",
+        "Email": "",
+        "Phone Number": "",
+        "Mood": "An architecturally-designed modern house is situated in the heart of Silicon Valley. Its interior is tastefully furnished and bathed in ample light, evoking a luxurious vibe. The backyard, equally stunning and well-lit, contributes to the overall beauty of the property. ",
+        "Venue URL": "https://www.splacer.co/venue/stunning-design-palo-alto-stanford",
+        "Venue Image\r": "https://res.cloudinary.com/splacer/image/upload/e_improve,f_auto,q_auto,g_auto,c_fill,dpr_2,w_1920,h_1080/v1/production/Splaces/006837/gicy7t8lv5fmdyaqmk1p.jpg\r"
+      }
+    },
+    "music": {
+      "name": "Amethyst Trio",
+      "why": "The Amethyst Trio offers a blend of classical, pop/rock, and jazz genres with diverse instrumentation, perfect for creating a relaxed and classy atmosphere in an ultra-modern house setting.",
+      "metadata": {
+        "ID": "0",
+        "Name": "Amethyst Trio",
+        "Genre": "Classical, poprock and jazz",
+        "Live Instrument use": "Yes",
+        "Price": "$400",
+        "Description": "an Francisco's acclaimed trio Amethyst offers a blend of harp, violin, cello, piano, and flute, skillfully traversing classical, pop/rock, and jazz genres. Experienced in film scores, MTV videos, and live tours, the trio is one of the Bay Area's most versatile professional groups. The pianist doubles as a harpist and flutist, ensuring diverse instrumentation. They provide high-quality amplification and accommodate special requests",
+        "Phone number": "(650)-430-5016",
+        "Email\r": "laragarner15@gmail.com or \r"
+      }
+    },
+    "food": {
+      "name": "Classic Catering",
+      "why": "Classic Catering has over 15 years of culinary and event planning experience, focusing on exceptional service and fresh, artful food. Their tapas menu will complement the relaxed and classy atmosphere of the AI Art event at the Ultra Modern House in Palo Alto. The cost per person is within the event's budget, and their expertise will ensure a stress-free host experience.",
+      "metadata": {
+        "ID": "1",
+        "Caterer Name": "Classic Catering",
+        "Food Type": "Tapas",
+        "Description": "Located in Pleasant Hill, California, Classic Catering brings 15+ years of culinary and event planning experience. We focus on exceptional service, fresh, artful food, and a stress-free host experience, aiming to provide a party experience that surpasses your investment.    ",
+        "Cost per person": "$20",
+        "Phone Number": "925.939.9224",
+        "Email\r": "tom@classiccater.com\r"
+      }
+    },
+    "barServer": {
+      "name": "On The Rocks Bartending & Serving",
+      "why": "With 17 years of experience, On The Rocks Bartending & Serving excels at making guests happy and ensuring the host can relax and enjoy the party. They can create a custom cocktail menu to fit the relaxing and classy atmosphere of the Ultra Modern House event.",
+      "metadata": {
+        "ID": "1",
+        "Bar server name": "On The Rocks Bartending & Serving",
+        "Years of experience": "17",
+        "About the bar server": "We excel at making guests happy, and strive to make sure the host/event planner can relax and enjoy the party. We'd love to create a custom cocktail menu for your event and help staff the party!",
+        "Price per hour": "$100",
+        "More details about the server\r": "https://www.thumbtack.com/ca/oakland/bartenders/mc-bartending-events/service/467696626414559243?service_pk=467696626414559243&project_pk=486709565968834592&lp_request_pk=486709565963542529&zip_code=94115&keyword_pk=102910114609294247&click_origin=pro%20list%2Fclick%20pro%20name&is_sponsored=false&utm_source=cma-google&utm_campaign=s-c-17693067489-140871286713-614000834145-kwd-25146543004-e---9031951-g---&utm_medium=cpc&gclid=CjwKCAjwyeujBhA5EiwA5WD7_b7vyoqtHYnU-S1vCYbtyp0Ikq9qWxe5QLUCZugjcRZTv0-iqllvexoC0GEQAvD_BwE&hideBack=true\r"
+      }
+    },
+    "drinks": "# Suggested Cocktails for Ultra Modern House Event\n\n## 1. Elderflower Spritz\n\n**Recipe:**\n- 2 oz elderflower liqueur\n- 3 oz Prosecco\n- 1 oz club soda\n- Lemon wheel and fresh mint for garnish\n\n**Why it fits the mood:** The Elderflower Spritz is a light and refreshing cocktail that embodies the classy and relaxed atmosphere. Its delicate floral notes and bubbly texture make it a sophisticated choice for an ultra-modern event.\n\n## 2. Cucumber Basil Gimlet\n\n**Recipe:**\n- 2 oz gin\n- 1 oz fresh lime juice\n- 1 oz simple syrup\n- 3 cucumber slices\n- 3 fresh basil leaves\n\n**Why it fits the mood:** The Cucumber Basil Gimlet is a crisp and clean cocktail that adds a touch of elegance to the event. The combination of cucumber and basil provides a refreshing taste, perfect for a relaxed and classy gathering.\n\n## 3. Lavender Collins\n\n**Recipe:**\n- 2 oz gin\n- 1 oz lavender simple syrup\n- 1 oz fresh lemon juice\n- Club soda\n- Lavender sprig for garnish\n\n**Why it fits the mood:** The Lavender Collins is a unique and stylish cocktail that fits perfectly with the ultra-modern theme. Its floral notes and beautiful presentation make it a classy choice for guests looking to unwind and enjoy the event.\n\n## 4. Espresso Martini\n\n**Recipe:**\n- 2 oz vodka\n- 1 oz coffee liqueur\n- 1 oz freshly brewed espresso\n- 0.5 oz simple syrup\n\n**Why it fits the mood:** The Espresso Martini is a sophisticated and luxurious cocktail that adds a touch of refinement to the event. Its rich coffee flavor and smooth texture make it an excellent choice for guests seeking a classy and relaxing drink.\n\n## 5. Blood Orange Old Fashioned\n\n**Recipe:**\n- 2 oz bourbon\n- 0.5 oz blood orange simple syrup\n- 2 dashes Angostura bitters\n- Blood orange wheel and Luxardo cherry for garnish\n\n**Why it fits the mood:** The Blood Orange Old Fashioned is a modern twist on a classic cocktail that matches the ultra-modern house theme. Its bold citrus notes and elegant presentation make it a perfect choice for a relaxed and classy event.",
+    "bookingRequest": {
+      "To": "anneflore@examplevenue.com",
+      "Subject": "AI Art Event Venue Inquiry - Ultra Modern House",
+      "Body": "Dear Anne-Flore,\n\nI hope this email finds you well. My name is [Your Name], and I am an event planner organizing an AI Art event in Palo Alto next week. I came across the Ultra Modern House on Splacer and believe it would be the perfect venue for our event.\n\nOur event will have a relaxed and classy atmosphere, and we expect around 30 guests. We have a budget of $500 for the venue and would like to book the Ultra Modern House for a few hours. We also plan to have live music, catering, and a bar service at the event.\n\nI am writing to confirm the availability of the Ultra Modern House for our event next week. If it is not available, could you please provide some alternative dates or venue options within our budget?\n\nThank you for your assistance, and I look forward to hearing from you soon.\n\nBest regards,\n\n[Your Name]\n[Your Email]\n[Your Phone Number]"
+    }
+  },
+  "excited-shark-hide": {
+    "what": "AI Art",
+    "where": "Palo Alto",
+    "when": "Next week",
+    "budget": "500",
+    "mood": "Relax and classy",
+    "id": "excited-shark-hide",
+    "venue": {
+      "name": "Ultra Modern House",
+      "id": "14",
+      "why": "This architecturally-designed modern house offers a luxurious and relaxing atmosphere, perfect for an AI Art event. It is located in Palo Alto, close to the event location, and has a capacity of 30, fitting within the budget and desired mood of 'relax and classy'.",
+      "metadata": {
+        "ID": "14",
+        "Venue Name": "Ultra Modern House",
+        "City": "Palo Alto",
+        "Neighbourhood": "",
+        "Capacity": "30",
+        "Price per hour": "$400",
+        "Outside Food permissable": "Yes",
+        "In-house Parking": "Yes",
+        "Venue Manager": "Anne-Flore G.",
+        "Email": "",
+        "Phone Number": "",
+        "Mood": "An architecturally-designed modern house is situated in the heart of Silicon Valley. Its interior is tastefully furnished and bathed in ample light, evoking a luxurious vibe. The backyard, equally stunning and well-lit, contributes to the overall beauty of the property. ",
+        "Venue URL": "https://www.splacer.co/venue/stunning-design-palo-alto-stanford",
+        "Venue Image\r": "https://res.cloudinary.com/splacer/image/upload/e_improve,f_auto,q_auto,g_auto,c_fill,dpr_2,w_1920,h_1080/v1/production/Splaces/006837/gicy7t8lv5fmdyaqmk1p.jpg\r"
+      }
+    },
+    "music": {
+      "name": "Amethyst Trio",
+      "why": "Amethyst Trio's blend of classical, pop/rock, and jazz genres with diverse instrumentation will provide a relaxed and classy atmosphere in the Ultra Modern House setting.",
+      "metadata": {
+        "ID": "0",
+        "Name": "Amethyst Trio",
+        "Genre": "Classical, poprock and jazz",
+        "Live Instrument use": "Yes",
+        "Price": "$400",
+        "Description": "an Francisco's acclaimed trio Amethyst offers a blend of harp, violin, cello, piano, and flute, skillfully traversing classical, pop/rock, and jazz genres. Experienced in film scores, MTV videos, and live tours, the trio is one of the Bay Area's most versatile professional groups. The pianist doubles as a harpist and flutist, ensuring diverse instrumentation. They provide high-quality amplification and accommodate special requests",
+        "Phone number": "(650)-430-5016",
+        "Email\r": "laragarner15@gmail.com or \r"
+      }
+    },
+    "food": {
+      "name": "Classic Catering",
+      "why": "Classic Catering offers tapas, which are perfect for a relax and classy AI Art event. With 15+ years of experience, they focus on exceptional service and fresh, artful food, ensuring a stress-free host experience. The cost per person fits within the event's budget, and their location in Pleasant Hill, California is convenient for the Palo Alto event venue.",
+      "metadata": {
+        "ID": "1",
+        "Caterer Name": "Classic Catering",
+        "Food Type": "Tapas",
+        "Description": "Located in Pleasant Hill, California, Classic Catering brings 15+ years of culinary and event planning experience. We focus on exceptional service, fresh, artful food, and a stress-free host experience, aiming to provide a party experience that surpasses your investment.    ",
+        "Cost per person": "$20",
+        "Phone Number": "925.939.9224",
+        "Email\r": "tom@classiccater.com\r"
+      }
+    },
+    "barServer": {
+      "name": "On The Rocks Bartending & Serving",
+      "why": "With 17 years of experience, they excel at making guests happy and creating custom cocktail menus, fitting the relax and classy mood of the AI Art event at Ultra Modern House.",
+      "metadata": {
+        "ID": "1",
+        "Bar server name": "On The Rocks Bartending & Serving",
+        "Years of experience": "17",
+        "About the bar server": "We excel at making guests happy, and strive to make sure the host/event planner can relax and enjoy the party. We'd love to create a custom cocktail menu for your event and help staff the party!",
+        "Price per hour": "$100",
+        "More details about the server\r": "https://www.thumbtack.com/ca/oakland/bartenders/mc-bartending-events/service/467696626414559243?service_pk=467696626414559243&project_pk=486709565968834592&lp_request_pk=486709565963542529&zip_code=94115&keyword_pk=102910114609294247&click_origin=pro%20list%2Fclick%20pro%20name&is_sponsored=false&utm_source=cma-google&utm_campaign=s-c-17693067489-140871286713-614000834145-kwd-25146543004-e---9031951-g---&utm_medium=cpc&gclid=CjwKCAjwyeujBhA5EiwA5WD7_b7vyoqtHYnU-S1vCYbtyp0Ikq9qWxe5QLUCZugjcRZTv0-iqllvexoC0GEQAvD_BwE&hideBack=true\r"
+      }
+    },
+    "drinks": "# Suggested Cocktails for Ultra Modern House Event\n\n## 1. Elderflower Martini\n\n**Recipe:**\n- 2 oz gin\n- 1 oz elderflower liqueur\n- 1/2 oz lemon juice\n- 1/2 oz simple syrup\n- Lemon twist, for garnish\n\n**Why it fits the mood:** The Elderflower Martini is a sophisticated and refreshing cocktail that complements the classy atmosphere of the Ultra Modern House. The delicate floral notes of the elderflower liqueur add an elegant touch, perfect for a relaxed and stylish event.\n\n## 2. Cucumber Basil Gimlet\n\n**Recipe:**\n- 2 oz gin\n- 1 oz fresh lime juice\n- 1 oz simple syrup\n- 3-4 fresh basil leaves\n- 3-4 cucumber slices\n\n**Why it fits the mood:** The Cucumber Basil Gimlet is a cool and crisp cocktail that embodies the modern, relaxed vibe of the event. The combination of fresh cucumber and basil creates a light and refreshing taste that will keep guests feeling relaxed and refreshed.\n\n## 3. Lavender Collins\n\n**Recipe:**\n- 2 oz vodka\n- 1 oz lavender simple syrup\n- 1 oz lemon juice\n- Club soda, to top\n- Lavender sprig, for garnish\n\n**Why it fits the mood:** The Lavender Collins is a visually stunning and aromatic cocktail that adds a touch of sophistication to the event. The calming scent of lavender and the delicate purple hue make it a perfect choice for a classy and relaxed gathering.\n\n## 4. Blood Orange Old Fashioned\n\n**Recipe:**\n- 2 oz bourbon\n- 1/2 oz blood orange syrup\n- 2 dashes Angostura bitters\n- Orange peel, for garnish\n\n**Why it fits the mood:** The Blood Orange Old Fashioned adds a modern twist to a classic cocktail, fitting the ultra-modern theme of the event. The rich, deep color of the blood orange syrup adds a touch of elegance, while the bourbon provides a smooth and relaxing finish.\n\n## 5. Pear and Prosecco Spritz\n\n**Recipe:**\n- 1 1/2 oz pear vodka\n- 1/2 oz lemon juice\n- 1/2 oz simple syrup\n- Prosecco, to top\n- Pear slice, for garnish\n\n**Why it fits the mood:** The Pear and Prosecco Spritz is a light and bubbly cocktail that adds a touch of effervescence to the event. The delicate pear flavor pairs beautifully with the crisp Prosecco, creating a refreshing and elegant drink that will keep guests feeling relaxed and classy.",
+    "bookingRequest": {
+      "To": "anneflore@example.com",
+      "Subject": "AI Art Event Venue Booking Inquiry",
+      "Body": "Dear Anne-Flore G.,\n\nI hope this email finds you well. I am an event planner organizing an AI Art event in Palo Alto, and I am interested in booking the Ultra Modern House for our event. The event is scheduled for next week, and I am writing to confirm the availability of the venue on our desired date.\n\nOur event will have a relax and classy atmosphere, and the Ultra Modern House seems like a perfect fit for our needs. We plan to accommodate 30 guests, and our budget for the venue is $500. We would also like to bring in our own catering and bar service, as we have selected Classic Catering and On The Rocks Bartending & Serving for our event.\n\nIf the Ultra Modern House is available for our desired date, please let me know so we can proceed with the booking. If not, we would appreciate any alternative dates or venue suggestions you may have.\n\nThank you for your time, and I look forward to hearing from you soon.\n\nBest regards,\n[Your Name]"
+    }
+  },
+  "warm-otter-fly": {
+    "what": "AI Art",
+    "where": "Palo Alto",
+    "when": "Next week",
+    "budget": "500",
+    "mood": "Relax and classy",
+    "id": "warm-otter-fly",
+    "venue": {
+      "name": "Ultra Modern House",
+      "id": "14",
+      "why": "This architecturally-designed modern house offers a luxurious and relaxing atmosphere, perfect for an AI Art event. It's located in Palo Alto, has a capacity of 30, and is within the budget at $400 per hour. The venue also allows outside food and has in-house parking.",
+      "metadata": {
+        "ID": "14",
+        "Venue Name": "Ultra Modern House",
+        "City": "Palo Alto",
+        "Neighbourhood": "",
+        "Capacity": "30",
+        "Price per hour": "$400",
+        "Outside Food permissable": "Yes",
+        "In-house Parking": "Yes",
+        "Venue Manager": "Anne-Flore G.",
+        "Email": "",
+        "Phone Number": "",
+        "Mood": "An architecturally-designed modern house is situated in the heart of Silicon Valley. Its interior is tastefully furnished and bathed in ample light, evoking a luxurious vibe. The backyard, equally stunning and well-lit, contributes to the overall beauty of the property. ",
+        "Venue URL": "https://www.splacer.co/venue/stunning-design-palo-alto-stanford",
+        "Venue Image\r": "https://res.cloudinary.com/splacer/image/upload/e_improve,f_auto,q_auto,g_auto,c_fill,dpr_2,w_1920,h_1080/v1/production/Splaces/006837/gicy7t8lv5fmdyaqmk1p.jpg\r"
+      }
+    },
+    "music": {
+      "name": "Amethyst Trio",
+      "why": "Their blend of harp, violin, cello, piano, and flute, along with their ability to traverse classical, pop/rock, and jazz genres, will provide a relaxing and classy atmosphere for the Ultra Modern House event.",
+      "metadata": {
+        "ID": "0",
+        "Name": "Amethyst Trio",
+        "Genre": "Classical, poprock and jazz",
+        "Live Instrument use": "Yes",
+        "Price": "$400",
+        "Description": "an Francisco's acclaimed trio Amethyst offers a blend of harp, violin, cello, piano, and flute, skillfully traversing classical, pop/rock, and jazz genres. Experienced in film scores, MTV videos, and live tours, the trio is one of the Bay Area's most versatile professional groups. The pianist doubles as a harpist and flutist, ensuring diverse instrumentation. They provide high-quality amplification and accommodate special requests",
+        "Phone number": "(650)-430-5016",
+        "Email\r": "laragarner15@gmail.com or \r"
+      }
+    },
+    "food": {
+      "name": "Classic Catering",
+      "why": "Classic Catering specializes in tapas, which are perfect for a relaxed and classy AI Art event at the Ultra Modern House. Their 15+ years of experience in culinary and event planning, as well as their focus on exceptional service and fresh, artful food, will ensure a stress-free and enjoyable experience for the host and guests. The cost per person is within the budget at $20.",
+      "metadata": {
+        "ID": "1",
+        "Caterer Name": "Classic Catering",
+        "Food Type": "Tapas",
+        "Description": "Located in Pleasant Hill, California, Classic Catering brings 15+ years of culinary and event planning experience. We focus on exceptional service, fresh, artful food, and a stress-free host experience, aiming to provide a party experience that surpasses your investment.    ",
+        "Cost per person": "$20",
+        "Phone Number": "925.939.9224",
+        "Email\r": "tom@classiccater.com\r"
+      }
+    },
+    "barServer": {
+      "name": "On The Rocks Bartending & Serving",
+      "why": "With 17 years of experience, On The Rocks Bartending & Serving excels at making guests happy and ensuring the host can relax and enjoy the party. Their custom cocktail menu and professional staff will complement the classy and relaxed atmosphere of the Ultra Modern House event.",
+      "metadata": {
+        "ID": "1",
+        "Bar server name": "On The Rocks Bartending & Serving",
+        "Years of experience": "17",
+        "About the bar server": "We excel at making guests happy, and strive to make sure the host/event planner can relax and enjoy the party. We'd love to create a custom cocktail menu for your event and help staff the party!",
+        "Price per hour": "$100",
+        "More details about the server\r": "https://www.thumbtack.com/ca/oakland/bartenders/mc-bartending-events/service/467696626414559243?service_pk=467696626414559243&project_pk=486709565968834592&lp_request_pk=486709565963542529&zip_code=94115&keyword_pk=102910114609294247&click_origin=pro%20list%2Fclick%20pro%20name&is_sponsored=false&utm_source=cma-google&utm_campaign=s-c-17693067489-140871286713-614000834145-kwd-25146543004-e---9031951-g---&utm_medium=cpc&gclid=CjwKCAjwyeujBhA5EiwA5WD7_b7vyoqtHYnU-S1vCYbtyp0Ikq9qWxe5QLUCZugjcRZTv0-iqllvexoC0GEQAvD_BwE&hideBack=true\r"
+      }
+    },
+    "drinks": "# Suggested Cocktails for Ultra Modern House Event\n\n## 1. Elderflower Martini\n**Recipe:**\n- 2 oz gin\n- 1 oz elderflower liqueur\n- 1 oz lemon juice\n- 1 oz simple syrup\n- Lemon twist for garnish\n\n**Why it fits the mood:** The Elderflower Martini is a sophisticated and refreshing cocktail that perfectly complements the classy atmosphere of an ultra-modern house event. The delicate elderflower flavor adds a touch of elegance, while the gin and lemon juice provide a relaxing and invigorating taste.\n\n## 2. Cucumber Collins\n**Recipe:**\n- 2 oz vodka\n- 1 oz lemon juice\n- 1 oz simple syrup\n- 3 cucumber slices\n- Club soda\n- Cucumber and lemon wheel for garnish\n\n**Why it fits the mood:** The Cucumber Collins is a cool and crisp cocktail that embodies the modern and relaxed vibe of the event. The combination of cucumber, lemon, and vodka creates a light and refreshing drink that is perfect for sipping while mingling with guests.\n\n## 3. Lavender Prosecco\n**Recipe:**\n- 1 oz lavender syrup\n- Prosecco\n- Lavender sprig for garnish\n\n**Why it fits the mood:** The Lavender Prosecco is a chic and bubbly cocktail that adds a touch of luxury to the event. The fragrant lavender syrup provides a calming aroma, while the Prosecco adds a festive sparkle, making this drink perfect for a classy and relaxed gathering.\n\n## 4. Blood Orange Old Fashioned\n**Recipe:**\n- 2 oz bourbon\n- 1 oz blood orange juice\n- 1/2 oz simple syrup\n- 2 dashes Angostura bitters\n- Blood orange wheel and cherry for garnish\n\n**Why it fits the mood:** The Blood Orange Old Fashioned is a modern twist on a classic cocktail that suits the stylish atmosphere of the event. The bold flavor of blood orange adds a unique and contemporary touch to the traditional Old Fashioned, making this drink a perfect choice for a refined and relaxed evening.\n\n## 5. Basil Gimlet\n**Recipe:**\n- 2 oz gin\n- 1 oz lime juice\n- 1 oz basil simple syrup\n- Fresh basil leaves for garnish\n\n**Why it fits the mood:** The Basil Gimlet is a fresh and herbaceous cocktail that captures the essence of a modern and relaxed event. The combination of basil and lime creates a vibrant and revitalizing flavor profile that is both sophisticated and approachable, making this drink a perfect addition to the evening's menu.",
+    "bookingRequest": {
+      "To": "anneflore@example.com",
+      "Subject": "Booking Ultra Modern House for AI Art Event",
+      "Body": "Dear Anne-Flore, \n\nI hope this email finds you well. I am an event planner, and I am organizing an AI Art event in Palo Alto next week. I came across the Ultra Modern House on your website and believe it would be the perfect venue for our event. \n\nThe event will have a relaxed and classy atmosphere, and we plan to accommodate around 30 guests. Our budget for the venue is $500, and I noticed that the Ultra Modern House is available for $400 per hour, which is within our budget. \n\nI would like to confirm the availability of the Ultra Modern House for our event next week. If it is not available, I kindly request you to provide other options that meet our requirements. We also plan to have outside food and require in-house parking, which I understand are available at the Ultra Modern House. \n\nPlease let me know if there are any additional details or requirements needed to book the venue. I look forward to hearing from you soon. \n\nBest regards,\n[Your Name]"
+    }
+  },
+  "tired-wolf-slither": {
+    "what": "AI Art",
+    "where": "Palo Alto",
+    "when": "Next week",
+    "budget": "500",
+    "mood": "Relax and classy",
+    "id": "tired-wolf-slither",
+    "venue": {
+      "name": "Ultra Modern House",
+      "id": "14",
+      "why": "This architecturally-designed modern house in Palo Alto offers a luxurious and well-lit interior, perfect for a relaxed and classy AI Art event. It is within the budget and has a stunning backyard for added ambiance.",
+      "metadata": {
+        "ID": "14",
+        "Venue Name": "Ultra Modern House",
+        "City": "Palo Alto",
+        "Neighbourhood": "",
+        "Capacity": "30",
+        "Price per hour": "$400",
+        "Outside Food permissable": "Yes",
+        "In-house Parking": "Yes",
+        "Venue Manager": "Anne-Flore G.",
+        "Email": "",
+        "Phone Number": "",
+        "Mood": "An architecturally-designed modern house is situated in the heart of Silicon Valley. Its interior is tastefully furnished and bathed in ample light, evoking a luxurious vibe. The backyard, equally stunning and well-lit, contributes to the overall beauty of the property. ",
+        "Venue URL": "https://www.splacer.co/venue/stunning-design-palo-alto-stanford",
+        "Venue Image\r": "https://res.cloudinary.com/splacer/image/upload/e_improve,f_auto,q_auto,g_auto,c_fill,dpr_2,w_1920,h_1080/v1/production/Splaces/006837/gicy7t8lv5fmdyaqmk1p.jpg\r"
+      }
+    },
+    "music": {
+      "name": "Amethyst Trio",
+      "why": "Amethyst Trio offers a blend of harp, violin, cello, piano, and flute, skillfully traversing classical, pop/rock, and jazz genres, providing a relaxed and classy atmosphere for an ultra-modern house event.",
+      "metadata": {
+        "ID": "0",
+        "Name": "Amethyst Trio",
+        "Genre": "Classical, poprock and jazz",
+        "Live Instrument use": "Yes",
+        "Price": "$400",
+        "Description": "an Francisco's acclaimed trio Amethyst offers a blend of harp, violin, cello, piano, and flute, skillfully traversing classical, pop/rock, and jazz genres. Experienced in film scores, MTV videos, and live tours, the trio is one of the Bay Area's most versatile professional groups. The pianist doubles as a harpist and flutist, ensuring diverse instrumentation. They provide high-quality amplification and accommodate special requests",
+        "Phone number": "(650)-430-5016",
+        "Email\r": "laragarner15@gmail.com or \r"
+      }
+    },
+    "food": {
+      "name": "Classic Catering",
+      "why": "Classic Catering offers a tapas menu, which is perfect for a relaxed and classy AI Art event in an ultra-modern house. With over 15 years of experience, they provide exceptional service and artful food, ensuring a stress-free and enjoyable experience for the host and guests.",
+      "metadata": {
+        "ID": "1",
+        "Caterer Name": "Classic Catering",
+        "Food Type": "Tapas",
+        "Description": "Located in Pleasant Hill, California, Classic Catering brings 15+ years of culinary and event planning experience. We focus on exceptional service, fresh, artful food, and a stress-free host experience, aiming to provide a party experience that surpasses your investment.    ",
+        "Cost per person": "$20",
+        "Phone Number": "925.939.9224",
+        "Email\r": "tom@classiccater.com\r"
+      }
+    },
+    "barServer": {
+      "name": "On The Rocks Bartending & Serving",
+      "why": "With 17 years of experience, they excel at making guests happy and ensuring the host can enjoy the party. Their custom cocktail menu and professional staff will perfectly complement the relaxed and classy AI Art event at the Ultra Modern House.",
+      "metadata": {
+        "ID": "1",
+        "Bar server name": "On The Rocks Bartending & Serving",
+        "Years of experience": "17",
+        "About the bar server": "We excel at making guests happy, and strive to make sure the host/event planner can relax and enjoy the party. We'd love to create a custom cocktail menu for your event and help staff the party!",
+        "Price per hour": "$100",
+        "More details about the server\r": "https://www.thumbtack.com/ca/oakland/bartenders/mc-bartending-events/service/467696626414559243?service_pk=467696626414559243&project_pk=486709565968834592&lp_request_pk=486709565963542529&zip_code=94115&keyword_pk=102910114609294247&click_origin=pro%20list%2Fclick%20pro%20name&is_sponsored=false&utm_source=cma-google&utm_campaign=s-c-17693067489-140871286713-614000834145-kwd-25146543004-e---9031951-g---&utm_medium=cpc&gclid=CjwKCAjwyeujBhA5EiwA5WD7_b7vyoqtHYnU-S1vCYbtyp0Ikq9qWxe5QLUCZugjcRZTv0-iqllvexoC0GEQAvD_BwE&hideBack=true\r"
+      }
+    },
+    "drinks": "# Suggested Cocktails for Ultra Modern House Event\n\n## 1. Elderflower Martini\n\n**Recipe:**\n- 2 oz gin\n- 1 oz elderflower liqueur (e.g., St. Germain)\n- 1 oz lemon juice\n- Ice\n- Lemon twist, for garnish\n\n**Why it fits the mood:** The Elderflower Martini is a sophisticated and refreshing cocktail that suits a relaxed and classy atmosphere. The combination of gin and elderflower liqueur creates a delicate and floral taste, perfect for sipping in an ultra-modern setting.\n\n## 2. Cucumber Basil Gimlet\n\n**Recipe:**\n- 2 oz gin\n- 1 oz fresh lime juice\n- 1 oz simple syrup\n- 3-4 slices cucumber\n- 3-4 fresh basil leaves\n- Ice\n- Cucumber slice and basil leaf, for garnish\n\n**Why it fits the mood:** The Cucumber Basil Gimlet is a refreshing and aromatic cocktail that complements a modern and elegant setting. The combination of cucumber and basil adds a fresh, green twist to the classic gimlet, making it perfect for a relaxed and classy event.\n\n## 3. Lavender Collins\n\n**Recipe:**\n- 2 oz vodka\n- 1 oz lavender simple syrup\n- 1 oz lemon juice\n- Club soda\n- Ice\n- Lavender sprig, for garnish\n\n**Why it fits the mood:** The Lavender Collins is a light and floral cocktail that exudes elegance and sophistication. The subtle lavender flavor adds a unique and refined touch to the classic Collins, making it a perfect choice for a stylish and relaxed event.\n\n## 4. Blood Orange Negroni\n\n**Recipe:**\n- 1 oz gin\n- 1 oz Campari\n- 1 oz sweet vermouth\n- 1 oz blood orange juice\n- Ice\n- Blood orange wheel, for garnish\n\n**Why it fits the mood:** The Blood Orange Negroni is a bold and vibrant cocktail that adds a touch of flair to a classy event. The deep red hue and rich citrus flavor of blood oranges elevate the traditional Negroni, making it a fitting choice for an ultra-modern house event.\n\n## 5. Espresso Martini\n\n**Recipe:**\n- 2 oz vodka\n- 1 oz coffee liqueur (e.g., Kahlúa)\n- 1 oz freshly brewed espresso\n- 0.5 oz simple syrup\n- Ice\n- Coffee beans, for garnish\n\n**Why it fits the mood:** The Espresso Martini is a sophisticated and indulgent cocktail that pairs well with a relaxed and classy atmosphere. The combination of rich coffee flavors and smooth vodka creates a luxurious and velvety drink, perfect for sipping in an ultra-modern setting.",
+    "bookingRequest": {
+      "To": "anneflore.ultramodern@gmail.com",
+      "Subject": "Booking Ultra Modern House for AI Art Event",
+      "Body": "Dear Anne-Flore,\n\nI hope this email finds you well. I am an event planner and I am interested in booking the Ultra Modern House for an upcoming AI Art event. The event is scheduled for next week and we are expecting around 30 guests.\n\nYour venue caught our attention due to its stunning architecture and luxurious interior, which perfectly aligns with the relaxed and classy mood we are aiming for. The backyard also adds an extra touch of ambiance that we believe our guests will appreciate.\n\nBefore confirming the booking, I would like to check the availability of the Ultra Modern House for the mentioned date. If the venue is not available, we would appreciate any alternative options you could suggest.\n\nIn addition, we have identified Amethyst Trio for music, Classic Catering for food, and On The Rocks Bartending & Serving for drinks. We would like to know if there are any restrictions or requirements regarding outside catering and music at the Ultra Modern House.\n\nPlease let us know the availability and any further information we may need to proceed with the booking.\n\nLooking forward to hearing from you soon.\n\nBest regards,\n\n[Your Name]\n\n[Your Contact Information]"
+    },
+    "getFoodBookingRequest": {
+      "To": "tom@classiccater.com",
+      "Subject": "Catering Booking for AI Art Event at Ultra Modern House",
+      "Body": "Dear Classic Catering Team,\n\nI hope this email finds you well. I am writing to inquire about your catering services for an upcoming event. Our event, titled 'AI Art', will be held at the Ultra Modern House in Palo Alto next week. We are expecting around 30 guests and would like to provide a tapas menu for our attendees.\n\nWe chose Classic Catering because of your extensive experience and exceptional service, as well as your artful food presentation. The tapas menu you offer seems like a perfect fit for our relaxed and classy event.\n\nCould you please confirm your availability for catering this event? If available, kindly provide a detailed menu and any additional information we may need to proceed with the booking. If you are not available on the specified date, please suggest alternative dates or options for us to consider.\n\nThank you in advance for your prompt response. We look forward to working with you to create a memorable experience for our guests.\n\nBest regards,\n\n[Your Name]\n[Your Company]\n[Your Contact Information]"
+    },
+    "BartenderBookingRequest": {
+      "To": "info@ontherocksbartending.com",
+      "Subject": "Bartender Booking for AI Art Event at Ultra Modern House",
+      "Body": "Dear On The Rocks Bartending & Serving team,\n\nI hope this email finds you well. I am organizing an AI Art event at the Ultra Modern House in Palo Alto next week and I would like to book your professional bartending services for the occasion. With your 17 years of experience and custom cocktail menu, I am confident that your team will perfectly complement our relaxed and classy event.\n\nThe venue, Ultra Modern House, features a luxurious and well-lit interior with a stunning backyard, providing an elegant atmosphere for our event. We have a capacity of 30 guests and would like to serve the following cocktails:\n\n1. Elderflower Martini\n2. Cucumber Basil Gimlet\n3. Lavender Collins\n4. Blood Orange Negroni\n5. Espresso Martini\n\nPlease find the recipes and details about these cocktails in the attached document.\n\nI would like to confirm your availability for this event and the pricing details. Your website mentions a rate of $100 per hour, but I would appreciate if you could provide a quote for the entire event, including any additional charges that may apply.\n\nIf you are not available on the date of our event, please let me know your nearest available dates so we can explore alternative options.\n\nThank you for your time and consideration. I look forward to hearing from you soon.\n\nBest regards,\n\n[Your Name]\n[Your Email Address]\n[Your Phone Number]"
+    },
+    "musicBookingRequest": {
+      "To": "laragarner15@gmail.com",
+      "Subject": "Booking Amethyst Trio for AI Art Event in Palo Alto",
+      "Body": "Dear Amethyst Trio,\n\nI hope this email finds you well. My name is [Your Name], and I am an event planner currently organizing an AI Art event at the Ultra Modern House in Palo Alto next week. I came across your music group and was impressed by your unique blend of harp, violin, cello, piano, and flute, skillfully traversing classical, pop/rock, and jazz genres.\n\nI believe your music would provide a relaxed and classy atmosphere for our event, and I would like to inquire about your availability to perform at the Ultra Modern House on [Date and Time]. The venue is an architecturally-designed modern house with a luxurious and well-lit interior, perfect for our event.\n\nThe budget for the music group is $400, and I understand that you provide high-quality amplification and accommodate special requests. If you are available on the specified date and time, please confirm your booking. If you are not available, kindly provide alternative dates or options.\n\nLooking forward to hearing from you soon.\n\nBest regards,\n\n[Your Name]\n[Your Contact Information]"
+    }
+  },
+  "cool-scorpion-look": {
+    "what": "AI Art",
+    "where": "Palo Alto",
+    "when": "Next week",
+    "budget": "500",
+    "mood": "Relax and classy",
+    "id": "cool-scorpion-look",
+    "venue": {
+      "name": "Ultra Modern House",
+      "id": "14",
+      "why": "This architecturally-designed modern house in Palo Alto offers a luxurious and classy ambiance, perfect for an AI Art event. It has a capacity of 30 guests and allows outside food, fitting within the budget and desired mood for the event.",
+      "metadata": {
+        "ID": "14",
+        "Venue Name": "Ultra Modern House",
+        "City": "Palo Alto",
+        "Neighbourhood": "",
+        "Capacity": "30",
+        "Price per hour": "$400",
+        "Outside Food permissable": "Yes",
+        "In-house Parking": "Yes",
+        "Venue Manager": "Anne-Flore G.",
+        "Email": "",
+        "Phone Number": "",
+        "Mood": "An architecturally-designed modern house is situated in the heart of Silicon Valley. Its interior is tastefully furnished and bathed in ample light, evoking a luxurious vibe. The backyard, equally stunning and well-lit, contributes to the overall beauty of the property. ",
+        "Venue URL": "https://www.splacer.co/venue/stunning-design-palo-alto-stanford",
+        "Venue Image\r": "https://res.cloudinary.com/splacer/image/upload/e_improve,f_auto,q_auto,g_auto,c_fill,dpr_2,w_1920,h_1080/v1/production/Splaces/006837/gicy7t8lv5fmdyaqmk1p.jpg\r"
+      }
+    },
+    "music": {
+      "name": "Amethyst Trio",
+      "why": "Their blend of harp, violin, cello, piano, and flute, along with their ability to traverse classical, pop/rock, and jazz genres, will provide a relaxing and classy atmosphere for the Ultra Modern House event.",
+      "metadata": {
+        "ID": "0",
+        "Name": "Amethyst Trio",
+        "Genre": "Classical, poprock and jazz",
+        "Live Instrument use": "Yes",
+        "Price": "$400",
+        "Description": "an Francisco's acclaimed trio Amethyst offers a blend of harp, violin, cello, piano, and flute, skillfully traversing classical, pop/rock, and jazz genres. Experienced in film scores, MTV videos, and live tours, the trio is one of the Bay Area's most versatile professional groups. The pianist doubles as a harpist and flutist, ensuring diverse instrumentation. They provide high-quality amplification and accommodate special requests",
+        "Phone number": "(650)-430-5016",
+        "Email\r": "laragarner15@gmail.com or \r"
+      }
+    },
+    "food": {
+      "name": "Classic Catering",
+      "why": "Classic Catering offers a tapas menu that fits the relax and classy mood of the AI Art event at the Ultra Modern House. With 15+ years of culinary and event planning experience, their focus on exceptional service and fresh, artful food will provide a memorable experience for the guests while staying within the budget.",
+      "metadata": {
+        "ID": "1",
+        "Caterer Name": "Classic Catering",
+        "Food Type": "Tapas",
+        "Description": "Located in Pleasant Hill, California, Classic Catering brings 15+ years of culinary and event planning experience. We focus on exceptional service, fresh, artful food, and a stress-free host experience, aiming to provide a party experience that surpasses your investment.    ",
+        "Cost per person": "$20",
+        "Phone Number": "925.939.9224",
+        "Email\r": "tom@classiccater.com\r"
+      }
+    }
+  },
+  "handsome-goat-lick": {
+    "what": "AI Art",
+    "where": "Palo Alto",
+    "when": "Next week",
+    "budget": "500",
+    "mood": "Relax and classy",
+    "id": "handsome-goat-lick",
+    "venue": {
+      "name": "Ultra Modern House",
+      "id": "006837",
+      "why": "This architecturally-designed modern house situated in the heart of Silicon Valley is tastefully furnished and bathed in ample light, evoking a luxurious vibe. The backyard, equally stunning and well-lit, contributes to the overall beauty of the property. It will provide a relaxed and classy mood for your AI Art event. It fits your budget and is available next week.",
+      "metadata": {
+        "ID": "14",
+        "Venue Name": "Ultra Modern House",
+        "City": "Palo Alto",
+        "Neighbourhood": "",
+        "Capacity": "30",
+        "Price per hour": "$400",
+        "Outside Food permissable": "Yes",
+        "In-house Parking": "Yes",
+        "Venue Manager": "Anne-Flore G.",
+        "Email": "",
+        "Phone Number": "",
+        "Mood": "An architecturally-designed modern house is situated in the heart of Silicon Valley. Its interior is tastefully furnished and bathed in ample light, evoking a luxurious vibe. The backyard, equally stunning and well-lit, contributes to the overall beauty of the property. ",
+        "Venue URL": "https://www.splacer.co/venue/stunning-design-palo-alto-stanford",
+        "Venue Image\r": "https://res.cloudinary.com/splacer/image/upload/e_improve,f_auto,q_auto,g_auto,c_fill,dpr_2,w_1920,h_1080/v1/production/Splaces/006837/gicy7t8lv5fmdyaqmk1p.jpg\r"
+      }
+    },
+    "music": {
+      "name": "Amethyst Trio",
+      "why": "The Amethyst Trio would be a great fit for this event as they offer a blend of classical, pop/rock, and jazz genres, which would create a relaxing and classy atmosphere. Their use of live instruments such as harp, violin, cello, piano, and flute would add an elegant touch to the event, while their experience in film scores, MTV videos, and live tours ensures their professionalism. Additionally, their ability to accommodate special requests and provide high-quality amplification would make them a great choice for the Ultra Modern House venue.",
+      "metadata": {
+        "ID": "0",
+        "Name": "Amethyst Trio",
+        "Genre": "Classical, poprock and jazz",
+        "Live Instrument use": "Yes",
+        "Price": "$400",
+        "Description": "an Francisco's acclaimed trio Amethyst offers a blend of harp, violin, cello, piano, and flute, skillfully traversing classical, pop/rock, and jazz genres. Experienced in film scores, MTV videos, and live tours, the trio is one of the Bay Area's most versatile professional groups. The pianist doubles as a harpist and flutist, ensuring diverse instrumentation. They provide high-quality amplification and accommodate special requests",
+        "Phone number": "(650)-430-5016",
+        "Email\r": "laragarner15@gmail.com or \r"
+      }
+    },
+    "food": {
+      "name": "Notre Ferme",
+      "why": "Notre Ferme, created by a Michelin star-earning chef, celebrates local farmers and community connections. The business fosters culinary education, while the chef's personal journey emphasizes sobriety, overcoming adversity, and giving back. Their finger foods are perfect for a relaxed and classy event, and their cost per person fits the budget of $500 for 30 people at the Ultra Modern House venue in Palo Alto.",
+      "metadata": {
+        "ID": "0",
+        "Caterer Name": "Notre Ferme",
+        "Food Type": "Finger Foods",
+        "Description": "Notre Ferme, created by a Michelin star-earning chef, celebrates local farmers and community connections. The business fosters culinary education, while the chef's personal journey emphasizes sobriety, overcoming adversity, and giving back",
+        "Cost per person": "$14",
+        "Phone Number": "(530) 615-8198",
+        "Email\r": "a.notreferme@gmail.com\r"
+      }
+    },
+    "barServer": {
+      "name": "Arthur G. Bahr",
+      "why": "Arthur's experience in producing over 500 events and his ability to create unique and specialty cocktails make him a great fit for this event. His upbeat personality and professionalism will contribute to the relaxed and classy mood of the event. Additionally, his flexibility in working with different requests and conditions will ensure that the event runs smoothly. Although his price per hour is higher than some of the other options, his expertise and personalized service will be worth it for this high-end event.",
+      "metadata": {
+        "ID": "3",
+        "Bar server name": "Arthur G. Bahr",
+        "Years of experience": "6",
+        "About the bar server": "I've been in the beverage catering scene for nearly 10 years now and have produced over 500 events. I value quality over quantity and will go above & beyond to provide you with an amazing experience and service. I’m upbeat and enjoy producing a fun atmosphere. I create unique and specialty cocktails if desired. If requested, the cocktails can feature homemade syrups and freshly squeezed juices to reach an even higher caliber. Your guests will be impressed by the level of professionalism that myself and my staff conduct ourselves with. I’m flexible and can work with different conditions or requests. I look forward to talking with you and providing an enjoyable experience.",
+        "Price per hour": "$200",
+        "More details about the server\r": ""
+      }
+    },
+    "drinks": "Here are 5 suggested cocktails that fit the mood of the Ultra Modern House event:\n\n1. Classic Martini - This timeless cocktail is perfect for a classy event. It's simple yet sophisticated, and it never goes out of style. To make a classic martini, combine 2.5 oz gin or vodka with 0.5 oz dry vermouth in a shaker with ice. Stir well and strain into a chilled martini glass. Garnish with a lemon twist or olives.\n\n2. French 75 - This champagne cocktail is both elegant and refreshing, making it a great choice for a relaxed yet classy event. To make a French 75, combine 1 oz gin, 0.5 oz lemon juice, and 0.5 oz simple syrup in a shaker with ice. Shake well and strain into a champagne flute. Top with champagne and garnish with a lemon twist.\n\n3. Old Fashioned - This classic cocktail is perfect for a relaxed evening at home. It's simple, yet flavorful, and it's sure to please any whiskey lover. To make an Old Fashioned, muddle a sugar cube, a few dashes of bitters, and a splash of water in a rocks glass. Add 2 oz bourbon or rye whiskey and stir well. Add ice and garnish with an orange twist and a cherry.\n\n4. Moscow Mule - This refreshing cocktail is perfect for a warm summer evening. It's light and citrusy, with a spicy kick from the ginger beer. To make a Moscow Mule, combine 2 oz vodka, 0.5 oz lime juice, and 4 oz ginger beer in a copper mug filled with ice. Stir well and garnish with a lime wedge.\n\n5. Negroni - This classic Italian cocktail is perfect for a relaxed evening with friends. It's bitter and complex, with a deep red color that's sure to impress. To make a Negroni, combine 1 oz gin, 1 oz sweet vermouth, and 1 oz Campari in a shaker with ice. Stir well and strain into a rocks glass filled with ice. Garnish with an orange twist.",
+    "bookingRequest": {
+      "To": "venue.manager@ultramodernhouse.com",
+      "Subject": "Booking Request for AI Art Event",
+      "Body": "Dear Ultra Modern House Venue Manager,\n\nI hope this email finds you well. I am an event planner looking to book a venue for an upcoming AI Art event. The event will take place next week in Palo Alto and I came across your venue as a potential option.\n\nAfter reviewing your venue's details, I believe that it would be a perfect fit for my client's needs. The Ultra Modern House's tasteful furnishings, ample lighting, and stunning backyard would create the relaxed and classy mood that my client is looking for. Additionally, the venue's capacity and price per hour fit within their budget of $500.\n\nI would like to confirm the availability of the venue for next week and proceed with booking if possible. If not, please let me know if there are any other available options that you would recommend.\n\nThank you for your time and consideration. I look forward to hearing back from you soon.\n\nBest regards,\n[Your Name]"
+    },
+    "getFoodBookingRequest": {
+      "To": "a.notreferme@gmail.com",
+      "Subject": "Food Catering Request for AI Art Event at Ultra Modern House",
+      "Body": "Dear Notre Ferme,\n\nI hope this email finds you well. I am writing to request your catering services for our upcoming AI Art event at the Ultra Modern House in Palo Alto next week.\n\nWe are expecting 30 guests and your finger foods would be perfect for the relaxed and classy mood we are aiming for. Your cost per person of $14 fits our budget of $500.\n\nCan you please confirm your availability for the event? If you are not available, please let me know if you have any other options that you can recommend.\n\nThank you for your time and I look forward to hearing back from you soon.\n\nBest regards,\n[Your Name]"
+    },
+    "BartenderBookingRequest": {
+      "To": "Arthur G. Bahr <arthur.bahr@email.com>",
+      "Subject": "Booking Request for AI Art Event at Ultra Modern House",
+      "Body": "Dear Arthur,\n\nI hope this email finds you well. I am reaching out to inquire about your availability for the upcoming AI Art event that I am planning in Palo Alto, at the Ultra Modern House venue. The event is scheduled for next week.\n\nBased on your experience in producing over 500 events and your ability to create unique and specialty cocktails, I believe you would be a great fit for this event. Your upbeat personality and professionalism will contribute to the relaxed and classy mood of the event. Additionally, your flexibility in working with different requests and conditions will ensure that the event runs smoothly.\n\nPlease let me know if you are available for this event. If you are not available, could you please provide me with other options that you would recommend? I have also included a list of suggested cocktails that fit the mood of the event below.\n\nSuggested Cocktails:\n1. Classic Martini\n2. French 75\n3. Old Fashioned\n4. Moscow Mule\n5. Negroni\n\nThank you for your time and consideration. I look forward to hearing back from you soon.\n\nBest regards,\n[Your Name]"
+    },
+    "musicBookingRequest": {
+      "To": "laragarner15@gmail.com",
+      "Subject": "Booking Request for AI Art Event at Ultra Modern House",
+      "Body": "Dear Amethyst Trio,\n\nI hope this email finds you well. I am reaching out to you to inquire about your availability to perform at our upcoming AI Art event next week in Palo Alto. Your blend of classical, pop/rock, and jazz genres would create a relaxing and classy atmosphere that perfectly aligns with the mood we are trying to set for our guests. We were particularly impressed by your use of live instruments such as harp, violin, cello, piano, and flute, which would add an elegant touch to the event.\n\nWe have chosen the Ultra Modern House in Palo Alto as our venue as it fits our budget and provides a luxurious vibe that would complement your music perfectly. The venue is available next week and can accommodate up to 30 guests. It is tastefully furnished and bathed in ample light, and the backyard is equally stunning and well-lit, contributing to the overall beauty of the property.\n\nIf you are available for the event, please let us know your fee and any special requirements you may have. If you are not available, please let us know if you have any other recommendations that would fit our event's theme and budget.\n\nThank you for your time, and we look forward to hearing back from you soon.\n\nBest regards,\n[Your Name]"
+    },
+    "invitation": {
+      "invitation": {
+        "venue": "Ultra Modern House",
+        "date": "Next week",
+        "message": "You are cordially invited to join us at Ultra Modern House next week for a spectacular event. We are thrilled to have you as our guest and look forward to enjoying an evening of fun and festivities together. Please RSVP at your earliest convenience. We can't wait to see you there!",
+        "host": "Your Name"
+      }
+    },
+    "socialposts": "{\"post_content\": {\"twitter\": \"Get ready to relax in style at our ultra-modern salon! #ClassyVibes #BeautyGoals\", \"instagram\": \"Step into our ultra-modern salon and experience the ultimate relaxation in style! #ClassyVibes #BeautyGoals\"}}",
+    "ReminderEmail": {
+      "To": "Guests",
+      "Subject": "Reminder: Upcoming Event at Ultra Modern House Next Week",
+      "Body": "Dear Guests,\n\nThis is a friendly reminder that our upcoming event will take place next week at Ultra Modern House. We are excited to host you and hope you are looking forward to it as much as we are.\n\nPlease note the following details:\n\nDate: [Insert Date]\nTime: [Insert Time]\nVenue: Ultra Modern House\n\nIf you have any questions or concerns, please do not hesitate to reach out to us.\n\nWe look forward to seeing you there!\n\nBest regards,\n[Your Name]"
+    },
+    "textConfirmation": {
+      "invitation": {
+        "event": "Ultra Modern House",
+        "date": "Next week",
+        "guests": "# of guests",
+        "music": "live music",
+        "food": {
+          "type": "Catering",
+          "details": "[object Object]"
+        },
+        "drinks": {
+          "type": "Cocktails",
+          "suggestions": [
+            "Classic Martini",
+            "French 75",
+            "Old Fashioned",
+            "Moscow Mule",
+            "Negroni"
+          ]
+        }
+      }
+    },
+    "getSponsorPitchDeck": "# Pitching the Ultra Modern House Event to Potential Sponsors\n\n## Introduction\n\nWe are excited to present the Ultra Modern House event, a relaxing and classy experience that will take place in one of the most prestigious venues in the city. We are seeking sponsors who share our vision of providing an unforgettable experience to our guests.\n\n## About the Event\n\nThe Ultra Modern House event is a unique opportunity for guests to unwind in a luxurious setting. The event will feature live music, delicious food and drinks, and a range of activities designed to help guests relax and enjoy themselves. Our goal is to create an atmosphere of elegance, sophistication, and fun.\n\n## Why Sponsor?\n\nSponsoring the Ultra Modern House event is a fantastic opportunity to showcase your brand to a highly engaged audience. Our guests are professionals, influencers, and trendsetters who are always on the lookout for the latest and greatest products and services. By sponsoring our event, you will have the opportunity to:\n\n- Reach a targeted audience of high net worth individuals\n- Increase brand awareness and visibility\n- Showcase your products and services in a luxurious setting\n- Network with other sponsors and industry leaders\n\n## Sponsorship Opportunities\n\nWe offer a range of sponsorship opportunities to suit different budgets and objectives. Our packages include:\n\n- Title Sponsor: The title sponsor will receive top billing on all event materials, including the event website, invitations, and signage. They will also have the opportunity to showcase their products or services in a prominent location at the event.\n- Gold Sponsor: Gold sponsors will receive prominent branding on all event materials, including the event website, invitations, and signage. They will also have the opportunity to showcase their products or services at the event.\n- Silver Sponsor: Silver sponsors will receive branding on all event materials, including the event website, invitations, and signage. They will also have the opportunity to showcase their products or services at the event.\n- Bronze Sponsor: Bronze sponsors will receive branding on all event materials, including the event website, invitations, and signage.\n\n## Conclusion\n\nThe Ultra Modern House event is an exciting opportunity for sponsors to showcase their brand to a highly engaged audience in a luxurious setting. We invite you to join us in creating an unforgettable experience for our guests. Contact us today to discuss sponsorship opportunities.",
+    "imagePrompt": "Create a cover image for your event that combines the relaxing and classy mood you're in with the ultra-modern vibe of the event venue. Imagine yourself lounging in the chic living room of the Ultra Modern House, surrounded by sleek and stylish decor. The cover image could show you reclining on a luxurious sofa, holding a glass of wine, with the stunning architecture of the house in the background. The color palette could be muted and sophisticated, with shades of gray, beige, and white dominating. Add some elegant typography to the image, with the event name and date displayed prominently. This will create a cover image that perfectly captures the mood of your event and the venue, and entices guests to attend.",
+    "audioInvite": "Hello there! This is [Your Name], and I am excited to invite you to our upcoming event at the Ultra Modern House next week. The atmosphere will be relaxed and classy, perfect for a night of fun and socializing. We have planned an amazing evening for you, with great music, delicious food, and refreshing drinks. So, dress up and join us for a night to remember. Don't miss out on this opportunity to mingle with some amazing people and have a great time. We can't wait to see you there!",
+    "ready": true
   }
 }

@@ -21,10 +21,20 @@ async function  getBookingRequest(data) {
   let answer = await promptIt(prompt);
 
   console.log(answer);
-
-  data.bookingRequest = JSON.parse(answer.answer);
-
-}
+  try {
+    data.bookingRequest = JSON.parse(answer.answer);
+  }
+  catch( e) {
+    console.log("bad JSON, retry");
+    try {
+      eval("answer = "  + answer.answer);
+      data.bookingRequest = answer;
+    }
+    catch (e) { 
+      await getBookingRequest(data);
+    }
+  }
+ }
 
 
 module.exports = getBookingRequest;

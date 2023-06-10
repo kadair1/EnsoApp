@@ -26,7 +26,20 @@ async function  getBarServer(data) {
 
   let answer = await promptIt(prompt);
 
-  answer = JSON.parse(answer.answer);
+  try {
+    answer = JSON.parse(answer.answer);
+  }
+  catch (e) {
+    console.log("bad request");
+    try {
+      eval("answer = "  + answer.answer);
+    }
+    catch (e) {
+      await getBarServer(data);
+      return;
+    }
+
+  }
 
   answer.metadata = {};
   // find the metadata in the csv

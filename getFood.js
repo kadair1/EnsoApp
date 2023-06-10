@@ -23,7 +23,22 @@ ${cateringList}
   ]
 
   let answer = await promptIt(prompt);
-  answer = JSON.parse(answer.answer);
+
+  try {
+    answer = JSON.parse(answer.answer);
+  }
+  catch (e) {
+    console.log("bad request");
+    try {
+      eval("answer = "  + answer.answer);
+    }
+    catch (e) { 
+      await getFood(data);
+      return;
+    }
+
+  }
+  
   if (answer.food) {
     answer = answer.food;
   }

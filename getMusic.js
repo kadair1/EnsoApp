@@ -20,9 +20,21 @@ async function  getMusic(data) {
 
   let answer = await promptIt(prompt);
   
+  try {
+    answer = JSON.parse(answer.answer);
+  }
+  catch (e) {
+    console.log("bad request");
 
-  answer = JSON.parse(answer.answer);
+     try {
+      eval("answer = "  + answer.answer);
+    }
+    catch (e) { 
+      await getMusic(data);
+      return;
+    }
 
+  }
   answer.metadata = {};
   // find the metadata in the csv
   

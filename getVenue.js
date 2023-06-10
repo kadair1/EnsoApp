@@ -22,8 +22,20 @@ You need to select the good venue among theses: ${venueList}.`
   ]
 
   let answer = await promptIt(prompt);
-  answer = JSON.parse(answer.answer);
-
+  try{
+    answer = JSON.parse(answer.answer);
+  }
+  catch(e) {
+    console.log("bad request");
+    try {
+      eval("answer = "  + answer.answer);
+    }
+    catch (e) { 
+      console.log("bad JSON, retry");
+      await getVenue(data);
+      return;
+    }
+  }
   answer.metadata = {};
   // find the metadata in the csv
   

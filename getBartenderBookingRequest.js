@@ -33,7 +33,19 @@ async function  getBartenderBookingRequest(data) {
 
   console.log(answer);
 
-  data.BartenderBookingRequest = JSON.parse(answer.answer);
+  try {
+    data.BartenderBookingRequest = JSON.parse(answer.answer);
+  }
+  catch (e) {
+    console.log("bad JSON, retry");
+    try {
+      eval("answer = "  + answer.answer);
+      data.BartenderBookingRequest = answer;
+    }
+    catch (e) { 
+      await getBartenderBookingRequest(data);
+    }
+  }
 
 }
 

@@ -1,7 +1,19 @@
+
 <!DOCTYPE html>
+
+<html>
+<head>
+<head>
+<body>
+    <h1>Welcome!</h1>
+    <p>This is a secure area of the app.</p>
+    <script src="firebaseAuth.js"></script>
+</body>
+</html>
+
 <html lang="en">
   <head>
-    <title>Let's do a Salon</title>
+    <title>Let's create a private event!</title>
     <!--set favicon to favicon.png--> 
     <link rel="shortcut icon" href="logo.png" type="image/x-icon">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -220,23 +232,23 @@
   
   
       <div id="content" class="second">
-        In <span contenteditable="true" id="where"> Palo Alto</span>
+        In <span contenteditable="true" id="where"> </span>
       </div>
   
       <div id="content" class="third">
-        When <span contenteditable="true" id="when"> Next week</span>
+        When <span contenteditable="true" id="when"> </span>
       </div>
   
       <div id="content" class="fourth">
-        With a budget of $<span contenteditable="true" id="budget">500</span>
+        With a budget of $<span contenteditable="true" id="budget"></span>
       </div>
   
       <div id="content" class="fith">
-       An it will be <span contenteditable="true" id="mood">Relax and classy</span>
+       An it will be <span contenteditable="true" id="mood">for example Relaxed and classy</span>
       </div>
   
       <div id="content" class="go" onclick="go()">
-        Let the Magic Happen!
+        Power the AI
       </div>
 
     </div>
@@ -244,7 +256,7 @@
     <div class="main" id='statusView'>
 
       <div id="content" class='first'>
-          <span>🤞 AI is working 🤞</span>
+          <span>🤞 Processing, it'll take a few minutes 🤞</span>
       </div>
   
   
@@ -261,7 +273,7 @@
       </div>
 
       <div id="content" class="second">
-        Finding Drinks <span class="progress" id="progress_drinks"><div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div></span>
+        Creating a drinks menu and finding a bartender <span class="progress" id="progress_drinks"><div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div></span>
       </div>
 
       <div id="content" class="second">

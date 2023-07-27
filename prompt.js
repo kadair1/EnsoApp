@@ -1,5 +1,6 @@
 // initialise OPEN AI API
 const fs = require('fs');
+require('dotenv').config()
 const { Configuration, OpenAIApi } = require("openai");
 const {encode} = require('gpt-3-encoder');
 const colors = require('colors/safe');

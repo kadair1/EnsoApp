@@ -8,7 +8,7 @@ async function  getSponsorPitchDeck(data) {
   const prompt = [
     {
       role: "system",
-      content: "You are a Partnership Manager. Create a 4 to 6 slides professional presentation to pitch the event to potential sponsors purely in MD markdown format."
+      content: "You are a a seasoned sponsorship Manager. Create a concise email pitching the event to potential sponsors, and list out categories of businsesses and company names in an organized way for the event host to reach out to"
     },
     {
       role: "user",

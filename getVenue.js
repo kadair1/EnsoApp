@@ -11,9 +11,8 @@ async function  getVenue(data) {
     {
       role: "system",
 
-      content: `You are an event planer. You need to select the good venue among the ones provided in the following list.
-Output your choice in a JSON Hashmap of the following format: {"name": "Name of the venue", "id": "idofthevenue", "why": "description of why this venue will fit this event"}. ONLY RETURN THE HASHMAP! 
-You need to select the good venue among theses: ${venueList}.`
+      content: `You are an event planner. You need to select the best venue among the ones provided in the following list ${venueList}.
+Strictly output your choice in a JSON Hashmap of the following format: {"name": "Name of the venue", "id": "idofthevenue", "why": "description of why this venue will fit this event"}. ONLY RETURN THE JSON HASHMAP!`
     },
     {
       role: "user",

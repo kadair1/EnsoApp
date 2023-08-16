@@ -221,30 +221,30 @@
   <body>
     <div id="container"><canvas width="1680" height="818"></canvas></div>
     
-    <div style="position: absolute">
-      <img src="logo.png" />
+    <div style="position: absolute; top: 0; left: 0; padding: 10px;">
+      <img src="logo.png" style="width: 150px;" />
     </div>
     <div class="main" id='interviewView'>
 
       <div id="content" class='first'>
-        I want to organize a private event about <span contenteditable="true" id="what"> SF Artist gathering</span>
+        What's your event concept? <span contenteditable="true" id="what"> SF Artist gathering</span>
       </div>
   
   
       <div id="content" class="second">
-        In <span contenteditable="true" id="where">San Francisco</span>
+        Where is your ideal location? <span contenteditable="true" id="where">San Francisco</span>
       </div>
   
       <div id="content" class="third">
-        When <span contenteditable="true" id="when">June 3rd 2023</span>
+        What's the desired date? <span contenteditable="true" id="when">August 16th 2023</span>
       </div>
   
       <div id="content" class="fourth">
-        With a budget of $<span contenteditable="true" id="budget">5000</span>
+        What's your maximum budget? $<span contenteditable="true" id="budget">5000</span>
       </div>
   
       <div id="content" class="fith">
-       And the mood of the event will be <span contenteditable="true" id="mood">Relaxed and classy</span>
+       What vibe are you aiming for? <span contenteditable="true" id="mood">Relaxed and classy</span>
       </div>
   
       <div id="content" class="go" onclick="go()">
@@ -256,7 +256,7 @@
     <div class="main" id='statusView'>
 
       <div id="content" class='first'>
-          <span>🤞 Processing, it'll take a few minutes 🤞</span>
+          <span> Processing, it'll take a few minutes </span>
       </div>
   
   
@@ -297,7 +297,7 @@
 
     <div class="main" id='todoView'>
       <div id="content">
-        Event organizer Checklist
+        Event Checklist
       </div>
 
       <div id="eventChecklist">
@@ -407,10 +407,10 @@
           </p>
           </div>
                 
-          <h2> 🪧 Social media post </h2>
+          <h2> 🪧 Twitter and IG media posts </h2>
           <p> ${data.socialposts}</p>
 
-          <h2> Sponsor pack </h2>
+          <h2> Sponsorship Engagement Email </h2>
 
           <div class='md'>
             ${marked.parse(data.getSponsorPitchDeck)}
@@ -474,16 +474,16 @@
         let data = await res.json();
 
         if (data.venue) {
-          progress_venue.innerHTML = `<span>👍</span>`;
+          progress_venue.innerHTML = `<span>✔</span>`;
         }
         if (data.music) {
-          progress_music.innerHTML = `<span>🎹</span>`;
+          progress_music.innerHTML = `<span>✔</span>`;
         }
         if (data.food) {
-          progress_food.innerHTML = `<span>😋</span>`;
+          progress_food.innerHTML = `<span>✔</span>`;
         }
         if (data.drinks) {
-          progress_drinks.innerHTML = `<span>🍸</span>`;
+          progress_drinks.innerHTML = `<span>✔</span>`;
         }
 
 

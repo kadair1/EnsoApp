@@ -1,22 +1,17 @@
 const promptIt = require('./prompt.js');
 
-
-async function  getMusicBookingRequest(data) {
-
-
+async function getMusicBookingRequest(data) {
   const prompt = [
     {
       role: "system",
-      content: `You are an event planer. Draft an email to the music group to book the musician for the event, and confirm availability or ask for other options. 
-      Strictly Output your email in a JSON Hashmap. ONLY generate JSON.
-      Use the format {"To" : "To address", "Subject" : "Subject of the email", "Body" : "Body of the email"}`
+      content: `You are an event planner. Draft an email to the music group to book the musician for the event, and confirm availability or ask for other options.`
     },
     {
       role: "user",
       content: `
-      Musician  info :
-       ${JSON.stringify(data.music)},
-      Venue info : 
+      Musician info:
+      ${JSON.stringify(data.music)},
+      Venue info: 
       ${JSON.stringify(data.venue)},
 
       Event Details:
@@ -28,20 +23,19 @@ async function  getMusicBookingRequest(data) {
   let answer = await promptIt(prompt);
 
   console.log(answer);
+
   try {
-    data.musicBookingRequest = JSON.parse(answer.answer);
+    let emailParts = answer.answer.split('\n');
+    data.musicBookingRequest = {
+      "To" : emailParts[0],
+      "Subject" : emailParts[1],
+      "Body" : emailParts.slice(2).join('\n')
+    };
   }
   catch (e) {
     console.log("bad JSON, retry");
-    try {
-      eval("answer = "  + answer.answer);
-      data.musicBookingRequest = answer;
-    }
-    catch (e) { 
-      await getMusicBookingRequest(data);
-    }
+    await getMusicBookingRequest(data);
   }
 }
-
 
 module.exports = getMusicBookingRequest;

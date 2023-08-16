@@ -8,7 +8,7 @@ async function  getSocialPosts(data) {
   const prompt = [
     {
       role: "system",
-      content: `You are a trained social media marketing manager. Create two concise (100 characters) separate posts, clearly labeled, for Twitter and Instagram to promote the Salon. Strictly output your choice in a JSON Hashmap with the key post_content.`
+      content: `You are a trained social media marketing manager. Create two concise separate posts, clearly labeled, for Twitter and Instagram to promote the event. The post should be cool and hip`
     },
     {
       role: "user",

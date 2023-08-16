@@ -1,26 +1,20 @@
 const promptIt = require('./prompt.js');
 
-
-async function  getBartenderBookingRequest(data) {
-
-
+async function getBartenderBookingRequest(data) {
   const prompt = [
     {
       role: "system",
-      content: `You are an event planer. Draft an email to the bartender to book the bartender for the event, and confirm availability or ask for other options. 
-      Strictly Output your email in a JSON Hashmap. ONLY generate JSON.
-      Use the format {"To" : "To address", "Subject" : "Subject of the email", "Body" : "Body of the email"}`
+      content: `You are an event planner. Draft an email to the bartender to book them for the event, and confirm availability or ask for other options.`
     },
     {
       role: "user",
       content: `
-      Bartender  info :
-       ${JSON.stringify(data.barServer)},
-      Venue info : 
+      Bartender info:
+      ${JSON.stringify(data.barServer)},
+      Venue info: 
       ${JSON.stringify(data.venue)},
 
       Drinks info:
-
       ${data.drinks}
 
       Event Details:
@@ -34,20 +28,17 @@ async function  getBartenderBookingRequest(data) {
   console.log(answer);
 
   try {
-    data.BartenderBookingRequest = JSON.parse(answer.answer);
+    let emailParts = answer.answer.split('\n');
+    data.BartenderBookingRequest = {
+      "To" : emailParts[0],
+      "Subject" : emailParts[1],
+      "Body" : emailParts.slice(2).join('\n')
+    };
   }
   catch (e) {
     console.log("bad JSON, retry");
-    try {
-      eval("answer = "  + answer.answer);
-      data.BartenderBookingRequest = answer;
-    }
-    catch (e) { 
-      await getBartenderBookingRequest(data);
-    }
+    await getBartenderBookingRequest(data);
   }
-
 }
-
 
 module.exports = getBartenderBookingRequest;

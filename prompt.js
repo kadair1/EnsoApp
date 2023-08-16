@@ -51,7 +51,7 @@ function sleep(time) {
 async function promptIt(prompt, model='gpt-3.5-turbo', option={}) {
 
   const start = new Date().getTime();
-  model="gpt-3.5-turbo"
+  model="gpt-4"
   option.model = model;
   
   try {

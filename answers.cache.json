@@ -3533,5 +3533,850 @@
     "imagePrompt": "Design a cover image that perfectly captures the essence of our event at the Cool SoMa Gallery. Combine the relaxed and classy mood that you're feeling with the undefined mood of the venue to create a visually stunning image.\n\nImagine a sleek black and white photograph of the gallery's entrance, with its modern glass doors and chic signage. The lighting is soft and inviting, creating an atmosphere of tranquility and elegance. As you walk through the doors, you're greeted by the sight of beautiful artwork adorning the walls, adding a touch of sophistication to the space.\n\nIn the foreground, place a comfortable lounge chair, draped with a luxurious cashmere throw blanket. The chair is positioned next to a small side table, adorned with a crystal glass filled with a refreshing drink. This arrangement symbolizes the relaxed atmosphere of the event, inviting guests to unwind and enjoy the evening.\n\nTo add a touch of class, incorporate a subtle element of glamour into the image. Perhaps a chandelier hangs from the ceiling, casting a soft glow over the gallery, or a mirror reflects the artwork, creating an illusion of depth and sophistication.\n\nFinally, overlay the image with elegant typography that showcases the event details, using a combination of modern and classic fonts. The colors should be muted, with shades of charcoal and silver, to maintain the refined and relaxed mood.\n\nBy combining the relaxed and classy mood you're feeling with the undefined mood of the Cool SoMa Gallery, this cover image will capture the essence of the event and entice guests to join us for an evening of sophistication and relaxation.",
     "audioInvite": "[Background music playing]\n\nHost: Hey there, it's [Your Name]! I hope this message finds you well. I wanted to personally invite you to an event that I'm hosting at the Cool SoMa Gallery on June 3rd, 2023.\n\n[Pause]\n\nHost: The theme for the evening is relaxed and classy, and I can't think of anyone better to join us for an unforgettable night. Picture this: a beautiful gallery space filled with stunning artwork, dimmed lights, and an atmosphere that exudes elegance.\n\n[Pause]\n\nHost: We'll have a selection of delicious hors d'oeuvres and refreshing drinks to tantalize your taste buds, along with some fantastic music to set the mood just right. It's going to be an evening to remember, and I truly hope you can be a part of it.\n\n[Pause]\n\nHost: So mark your calendars for June 3rd, 2023, and get ready to indulge in a night of art, culture, and great company. Dress your best, because this is an event where style meets sophistication.\n\n[Pause]\n\nHost: I can't wait to see you there and catch up in person. Please RSVP by [RSVP deadline] so we can make sure everything is prepared for your arrival. Feel free to bring a plus one, as the more, the merrier!\n\n[Pause]\n\nHost: If you have any questions or need more information, don't hesitate to reach out to me. You can find all the details in the invitation I'll be sending your way soon.\n\n[Pause]\n\nHost: Thank you for being a part of my life, and I truly hope you can join me at the Cool SoMa Gallery on June 3rd, 2023. Until then, take care and have a wonderful day!\n\n[Music fades out]",
     "ready": true
+  },
+  "pretty-monkey-pounce": {
+    "what": "SF Artist gathering",
+    "where": "San Francisco",
+    "when": "June 3rd 2023",
+    "budget": "5000",
+    "mood": "Relaxed and classy",
+    "id": "pretty-monkey-pounce",
+    "venue": {
+      "name": "Cool SoMa Gallery",
+      "id": "0",
+      "why": "This elegant art gallery, spacious with a minimalist design, is intimate and flooded with natural light from skylights and large windows. The venue, boasting a high ceiling and wooden floors, strictly prohibits furniture, loud music, dancing, open house events, smoking, open flames, and late-night parties. It provides the perfect setting for a relaxed and classy artist gathering in San Francisco.",
+      "metadata": {
+        "ID": "0",
+        "Venue Name": "Cool SoMa Gallery ",
+        "City": "San Francisco",
+        "Neighbourhood": "SOMA",
+        "Capacity": "80",
+        "Price per hour": "$200",
+        "Outside Food permissable": "Yes",
+        "In-house Parking": "No",
+        "Venue Manager": "Tony Wessling",
+        "Email": "",
+        "Phone Number": "",
+        "Mood": "This elegant art gallery, spacious with a minimalist design, is intimate and flooded with natural light from skylights and large windows. The venue, boasting a high ceiling and wooden floors, strictly prohibits furniture, loud music, dancing, open house events, smoking, open flames, and late-night parties.",
+        "Venue URL": "https://www.splacer.co/venue/cool-soma-gallery",
+        "Venue Image\r": "https://res.cloudinary.com/splacer/image/upload/e_improve,f_auto,q_auto,g_auto,c_fill,dpr_2,w_1920,h_1080/v1/production/Splaces/008884/_MGL5922_0_25x_p8jxrt.jpg\r"
+      }
+    },
+    "music": {
+      "name": "Amethyst Trio",
+      "why": "The Amethyst Trio would be a perfect fit for this event at the Cool SoMa Gallery. Their blend of classical, pop/rock, and jazz genres will create a relaxed and classy atmosphere. With their versatile instrumentation and experience in film scores and live tours, they will provide high-quality music that will elevate the event.",
+      "metadata": {
+        "ID": "0",
+        "Name": "Amethyst Trio",
+        "Genre": "Classical, poprock and jazz",
+        "Live Instrument use": "Yes",
+        "Price": "$400",
+        "Description": "an Francisco's acclaimed trio Amethyst offers a blend of harp, violin, cello, piano, and flute, skillfully traversing classical, pop/rock, and jazz genres. Experienced in film scores, MTV videos, and live tours, the trio is one of the Bay Area's most versatile professional groups. The pianist doubles as a harpist and flutist, ensuring diverse instrumentation. They provide high-quality amplification and accommodate special requests",
+        "Phone number": "(650)-430-5016",
+        "Email\r": "laragarner15@gmail.com or \r"
+      }
+    },
+    "food": {
+      "name": "Fork & Spoon",
+      "why": "Fork & Spoon's comprehensive approach and thoughtful, artisan dishes make them the perfect fit for this relaxed and classy artist gathering. With their experience in top SF Bay Area restaurants, they will provide high-quality food that complements the elegant atmosphere of the Cool SoMa Gallery.",
+      "metadata": {
+        "ID": "2",
+        "Caterer Name": "",
+        "Food Type": "Sushi, Cheese & Charcuterie Boards",
+        "Description": "With over 20 years' experience in top SF Bay Area restaurants, Fork & Spoon's leadership aims to revolutionize catering with their comprehensive approach, offering thoughtful, artisan dishes for meaningful, effortless entertaining.",
+        "Cost per person": "$20",
+        "Phone Number": "415.881.8846",
+        "Email\r": "love@koko.com"
+      }
+    },
+    "barServer": {
+      "name": "Hugo's bar service",
+      "why": "Hugo's bar service is an experienced bartender who offers tailored, top-shelf bar services for all events. They ensure a personalized, high-quality experience from cocktail design to efficient service. Their expertise and attention to detail will create a relaxed and classy atmosphere for the event at the Cool SoMa Gallery.",
+      "metadata": {
+        "ID": "0",
+        "Bar server name": "Hugo's bar service",
+        "Years of experience": "5",
+        "About the bar server": "An experienced bartender offering tailored, top-shelf bar services for all events, from weddings to house parties. Ensures personalized, high-quality experience from cocktail design to efficient service. Transitioning to independent work, confident in delivering beyond expectations.",
+        "Price per hour": "$75",
+        "More details about the server\r": "https://www.thumbtack.com/ca/san-francisco/bartenders/hugos-bar-service/service/466227613170450437?service_pk=466227613170450437&project_pk=486709103408267283&lp_request_pk=486709103408676865&zip_code=94115&keyword_pk=102910114609294247&click_origin=pro%20list%2Fclick%20pro%20name&is_sponsored=false&utm_source=cma-google&utm_campaign=s-c-17693067489-140871286713-614000834145-kwd-25146543004-e---9031951-g---&utm_medium=cpc&gclid=CjwKCAjwyeujBhA5EiwA5WD7_b7vyoqtHYnU-S1vCYbtyp0Ikq9qWxe5QLUCZugjcRZTv0-iqllvexoC0GEQAvD_BwE&hideBack=true\r"
+      }
+    },
+    "drinks": "## Cocktail Suggestions for a Relaxed and Classy Event\n\n1. **Classic Martini**\n   - Recipe: 2 1/2 oz gin, 1/2 oz dry vermouth, lemon twist or olive for garnish.\n   - Why it fits the mood: The Classic Martini is a timeless and sophisticated cocktail. Its simplicity and elegance make it a perfect choice for a classy event.\n\n2. **Old Fashioned**\n   - Recipe: 2 oz bourbon or rye whiskey, 1 sugar cube, 2 dashes Angostura bitters, orange twist and cherry for garnish.\n   - Why it fits the mood: The Old Fashioned is a classic cocktail that exudes a sense of refinement and relaxation. It's a drink that never goes out of style and is perfect for a classy gathering.\n\n3. **French 75**\n   - Recipe: 1 1/2 oz gin, 1/2 oz lemon juice, 1/2 oz simple syrup, 2 oz Champagne, lemon twist for garnish.\n   - Why it fits the mood: The French 75 is a sparkling and refreshing cocktail that adds a touch of sophistication to any event. Its bubbly nature and citrusy flavors make it a perfect choice for a relaxed yet classy atmosphere.\n\n4. **Negroni**\n   - Recipe: 1 oz gin, 1 oz Campari, 1 oz sweet vermouth, orange twist for garnish.\n   - Why it fits the mood: The Negroni is a bold and sophisticated cocktail that is sure to impress. Its bitter-sweet flavor profile and deep red color make it a classy choice for a relaxed gathering.\n\n5. **Mojito**\n   - Recipe: 2 oz white rum, 3/4 oz lime juice, 1 oz simple syrup, 6-8 fresh mint leaves, soda water, mint sprig and lime wedge for garnish.\n   - Why it fits the mood: The Mojito is a refreshing and vibrant cocktail that brings a sense of relaxation and tropical vibes. Its combination of rum, mint, and lime make it a perfect choice for a laid-back yet classy event.\n\nEnjoy these cocktails and have a fantastic event at the Cool SoMa Gallery!",
+    "bookingRequest": {
+      "To": "venue.manager@example.com",
+      "Subject": "Venue Booking Request - SF Artist Gathering",
+      "Body": "Dear Tony Wessling,\n\nI hope this email finds you well. I am reaching out to inquire about the availability of the Cool SoMa Gallery in San Francisco for an upcoming event.\n\nEvent Details:\n- Event Name: SF Artist Gathering\n- Date: June 3rd, 2023\n- Budget: $5000\n- Mood: Relaxed and classy\n\nThe Cool SoMa Gallery seems to be the perfect venue for this event. Its elegant and spacious design, flooded with natural light, creates an intimate atmosphere that would complement the gathering perfectly. The high ceiling and wooden floors add to the overall charm of the venue.\n\nCould you please confirm if the Cool SoMa Gallery is available on the specified date? If it is not available, I would appreciate it if you could suggest any alternative venues that would suit our requirements.\n\nThank you for your time and assistance. I look forward to hearing from you soon.\n\nBest regards,\n[Your Name]"
+    },
+    "getFoodBookingRequest": {
+      "To": "love@koko.com",
+      "Subject": "Food Booking for SF Artist Gathering",
+      "Body": "Dear Fork & Spoon,\n\nI hope this email finds you well. I am reaching out to book the food for the upcoming SF Artist Gathering event, which will take place on June 3rd, 2023 at the Cool SoMa Gallery in San Francisco.\n\nBased on the event's atmosphere and requirements, your comprehensive approach and thoughtful, artisan dishes make Fork & Spoon the perfect fit for this relaxed and classy gathering. Your experience in top SF Bay Area restaurants is highly valued.\n\nThe event details are as follows:\n- Event Name: SF Artist Gathering\n- Date: June 3rd, 2023\n- Venue: Cool SoMa Gallery, San Francisco\n\nThe Cool SoMa Gallery allows outside food, so we would like to inquire about the availability of the following food options:\n- Sushi\n- Cheese & Charcuterie Boards\n\nPlease let us know if these options are available for the event. If not, we would appreciate your suggestions for alternative food options that would complement the elegant atmosphere of the gallery.\n\nKindly provide us with the cost per person for the selected food options and any additional information or requirements we need to be aware of.\n\nWe look forward to hearing from you soon and finalizing the food arrangements for the SF Artist Gathering.\n\nThank you for your attention to this matter.\n\nBest regards,\n[Your Name]"
+    },
+    "BartenderBookingRequest": {
+      "To": "hugosbarservice@gmail.com",
+      "Subject": "Booking Request for SF Artist Gathering",
+      "Body": "Dear Hugo's Bar Service,\n\nI hope this email finds you well. I am reaching out to inquire about your availability for an upcoming event.\n\nEvent Details:\n- Event Name: SF Artist Gathering\n- Location: Cool SoMa Gallery, San Francisco\n- Date: June 3rd, 2023\n\nWe have read about your services and are impressed with your expertise and attention to detail. Your tailored, top-shelf bar services would be a perfect fit for our event at the Cool SoMa Gallery.\n\nCould you please confirm your availability for the date mentioned above? If you are unavailable, we would appreciate any alternative recommendations you may have.\n\nWe look forward to hearing from you and potentially working together to create a relaxed and classy atmosphere for our event.\n\nThank you!\n\nBest regards,\n[Your Name]"
+    },
+    "musicBookingRequest": {
+      "To": "laragarner15@gmail.com",
+      "Subject": "Booking Inquiry for SF Artist Gathering",
+      "Body": "Dear Amethyst Trio,\n\nI hope this email finds you well. I am reaching out to inquire about your availability for an upcoming event.\n\nWe are organizing an SF Artist Gathering at the Cool SoMa Gallery in San Francisco on June 3rd, 2023. The event aims to create a relaxed and classy atmosphere, and we believe that your blend of classical, pop/rock, and jazz genres would be a perfect fit.\n\nYour versatility in instrumentation, along with your experience in film scores and live tours, make you one of the most sought-after professional groups in the Bay Area. We are confident that your high-quality music will elevate the event and leave a lasting impression on our guests.\n\nIf you are available on the specified date, we would like to proceed with booking your trio for the event. Please let us know your availability and any other requirements or considerations we should be aware of.\n\nThank you for your attention to this matter. We look forward to hearing from you soon.\n\nBest regards,\n[Your Name]"
+    },
+    "invitation": {
+      "invitation": {
+        "venue": "Cool SoMa Gallery",
+        "date": "June 3rd, 2023"
+      }
+    },
+    "socialposts": "{\"post_content\": {\n  \"twitter\": \"Looking for a relaxed and classy event venue? Check out Cool SoMa Gallery! #eventvenue #soma #gallery\",\n  \"instagram\": \"Discover the perfect blend of relaxation and elegance at Cool SoMa Gallery. Book your event today! #eventvenue #soma #gallery\"\n}}"
+  },
+  "cool-squirrel-run": {
+    "what": "SF Artist gathering",
+    "where": "San Francisco",
+    "when": "August 16th 2023",
+    "budget": "5000",
+    "mood": "Relaxed and classy",
+    "id": "cool-squirrel-run",
+    "venue": {
+      "name": "Cool SoMa Gallery",
+      "id": "0",
+      "why": "This elegant art gallery, spacious with a minimalist design, is intimate and flooded with natural light from skylights and large windows. The venue, boasting a high ceiling and wooden floors, strictly prohibits furniture, loud music, dancing, open house events, smoking, open flames, and late-night parties. It provides a relaxed and classy ambiance, perfect for an SF Artist gathering.",
+      "metadata": {
+        "ID": "0",
+        "Venue Name": "Cool SoMa Gallery ",
+        "City": "San Francisco",
+        "Neighbourhood": "SOMA",
+        "Capacity": "80",
+        "Price per hour": "$200",
+        "Outside Food permissable": "Yes",
+        "In-house Parking": "No",
+        "Venue Manager": "Tony Wessling",
+        "Email": "",
+        "Phone Number": "",
+        "Mood": "This elegant art gallery, spacious with a minimalist design, is intimate and flooded with natural light from skylights and large windows. The venue, boasting a high ceiling and wooden floors, strictly prohibits furniture, loud music, dancing, open house events, smoking, open flames, and late-night parties.",
+        "Venue URL": "https://www.splacer.co/venue/cool-soma-gallery",
+        "Venue Image\r": "https://res.cloudinary.com/splacer/image/upload/e_improve,f_auto,q_auto,g_auto,c_fill,dpr_2,w_1920,h_1080/v1/production/Splaces/008884/_MGL5922_0_25x_p8jxrt.jpg\r"
+      }
+    },
+    "music": {
+      "name": "Amethyst Trio",
+      "why": "The Amethyst Trio offers a blend of classical, pop/rock, and jazz genres, making them a versatile choice for a relaxed and classy event. Their skilled musicianship and diverse instrumentation, including harp, violin, cello, piano, and flute, will create a sophisticated and elegant atmosphere at the Cool SoMa Gallery.",
+      "metadata": {
+        "ID": "0",
+        "Name": "Amethyst Trio",
+        "Genre": "Classical, poprock and jazz",
+        "Live Instrument use": "Yes",
+        "Price": "$400",
+        "Description": "an Francisco's acclaimed trio Amethyst offers a blend of harp, violin, cello, piano, and flute, skillfully traversing classical, pop/rock, and jazz genres. Experienced in film scores, MTV videos, and live tours, the trio is one of the Bay Area's most versatile professional groups. The pianist doubles as a harpist and flutist, ensuring diverse instrumentation. They provide high-quality amplification and accommodate special requests",
+        "Phone number": "(650)-430-5016",
+        "Email\r": "laragarner15@gmail.com or \r"
+      }
+    },
+    "food": {
+      "name": "Fork & Spoon",
+      "why": "Fork & Spoon's comprehensive approach to catering, offering thoughtful, artisan dishes, aligns perfectly with the relaxed and classy mood of the SF Artist gathering. Their experience in top SF Bay Area restaurants ensures high-quality food, and their sushi, cheese, and charcuterie boards will provide a sophisticated and diverse menu for the event.",
+      "metadata": {
+        "ID": "2",
+        "Caterer Name": "",
+        "Food Type": "Sushi, Cheese & Charcuterie Boards",
+        "Description": "With over 20 years' experience in top SF Bay Area restaurants, Fork & Spoon's leadership aims to revolutionize catering with their comprehensive approach, offering thoughtful, artisan dishes for meaningful, effortless entertaining.",
+        "Cost per person": "$20",
+        "Phone Number": "415.881.8846",
+        "Email\r": "love@koko.com"
+      }
+    },
+    "barServer": {
+      "name": "Classie Cocktails Mobile Bartending",
+      "why": "Classie Cocktails Mobile Bartending will be a great fit for this event at the Cool SoMa Gallery. With their goal of delivering a unique mobile bar experience, they can provide a customized drink menu and entertaining bartenders. Their interactive cocktails will add an element of fun and excitement to the event, while still maintaining a relaxed and classy atmosphere.",
+      "metadata": {
+        "ID": "2",
+        "Bar server name": "Classie Cocktails Mobile Bartending",
+        "Years of experience": "2",
+        "About the bar server": "At Classie Cocktails, we are professionals. My goal is to deliver a unique mobile bar experience by providing a customized drink menu, entertaining bartenders, and interactive cocktails.",
+        "Price per hour": "$100",
+        "More details about the server\r": "https://www.thumbtack.com/ca/san-francisco/bartenders/classie-cocktails-mobile-bartending/service/447827584678985730?service_pk=447827584678985730&project_pk=486709565968834592&lp_request_pk=486709565963542529&zip_code=94115&keyword_pk=102910114609294247&click_origin=pro%20list%2Fclick%20pro%20name&is_sponsored=false&utm_source=cma-google&utm_campaign=s-c-17693067489-140871286713-614000834145-kwd-25146543004-e---9031951-g---&utm_medium=cpc&gclid=CjwKCAjwyeujBhA5EiwA5WD7_b7vyoqtHYnU-S1vCYbtyp0Ikq9qWxe5QLUCZugjcRZTv0-iqllvexoC0GEQAvD_BwE&hideBack=true\r"
+      }
+    },
+    "drinks": "# Cocktail Suggestions for a Relaxed and Classy Event\n\n1. **Classic Martini**  \n   *Recipe:*  \n   - 2 1/2 oz gin\n   - 1/2 oz dry vermouth\n   - Lemon twist or olive, for garnish  \n   *Why it fits the mood:* The Classic Martini is a timeless and sophisticated cocktail that exudes class. Its simplicity and smoothness make it a perfect choice for a relaxed yet classy event.\n\n2. **Old Fashioned**  \n   *Recipe:*  \n   - 2 oz bourbon or rye whiskey\n   - 1 sugar cube\n   - 2-3 dashes Angostura bitters\n   - Orange twist, for garnish  \n   *Why it fits the mood:* The Old Fashioned is a classic cocktail that oozes elegance and refinement. Its rich flavors and slow sipping nature make it ideal for a relaxed and classy atmosphere.\n\n3. **French 75**  \n   *Recipe:*  \n   - 1 oz gin\n   - 1/2 oz lemon juice\n   - 1/2 oz simple syrup\n   - 2 oz Champagne or sparkling wine\n   - Lemon twist, for garnish  \n   *Why it fits the mood:* The French 75 is a sparkling cocktail that brings a touch of sophistication to any event. Its combination of gin, lemon, and Champagne creates a refreshing and elegant drink.\n\n4. **Negroni**  \n   *Recipe:*  \n   - 1 oz gin\n   - 1 oz Campari\n   - 1 oz sweet vermouth\n   - Orange twist, for garnish  \n   *Why it fits the mood:* The Negroni is a classic cocktail known for its bold flavors and stylish appeal. Its bitter-sweet taste and vibrant color make it a perfect choice for a relaxed yet classy gathering.\n\n5. **Mojito**  \n   *Recipe:*  \n   - 2 oz white rum\n   - 1 oz lime juice\n   - 2 tsp sugar\n   - 6-8 fresh mint leaves\n   - Club soda, to top\n   - Lime wedge and mint sprig, for garnish  \n   *Why it fits the mood:* The Mojito is a refreshing and invigorating cocktail that adds a touch of tropical elegance to any event. Its combination of rum, lime, and mint creates a vibrant and classy drink.\n\nEnjoy these handpicked cocktails that perfectly match the relaxed and classy mood of your event at the Cool SoMa Gallery! Cheers!",
+    "bookingRequest": {
+      "To": "venue.manager@example.com",
+      "Subject": "Venue Booking Inquiry - SF Artist Gathering",
+      "Body": "Dear Tony Wessling,\n\nI hope this email finds you well. I am an event planner and I am currently organizing an SF Artist Gathering on August 16th, 2023 in San Francisco. I came across the Cool SoMa Gallery and I believe it would be the perfect venue for our event.\n\nThe Cool SoMa Gallery's elegant and minimalist design, spaciousness, and abundant natural light from skylights and large windows create an intimate and relaxed ambiance that perfectly matches the mood of our gathering. The high ceiling and wooden floors add to the classy atmosphere we are aiming for.\n\nI would like to inquire about the availability of the Cool SoMa Gallery on August 16th, 2023 for our event. The gathering will have approximately 80 attendees, and we would require the venue for around 6 hours.\n\nAdditionally, I would like to confirm if outside food is permissible at the venue, as we are planning to work with Fork & Spoon, a catering service that specializes in sushi, cheese, and charcuterie boards. They align perfectly with the relaxed and classy mood of our event.\n\nPlease let me know if the Cool SoMa Gallery is available on the specified date, and if outside food is allowed. If the venue is not available, I would appreciate any alternative suggestions you may have that would fit our requirements.\n\nThank you for your time and consideration. I look forward to hearing from you soon.\n\nBest regards,\n[Your Name]\n[Your Email]\n[Your Phone Number]"
+    },
+    "getFoodBookingRequest": {
+      "To": "forkandspoon@example.com",
+      "Subject": "Catering Booking for SF Artist Gathering",
+      "Body": "Dear Fork & Spoon,\n\nI hope this email finds you well. I am reaching out to book the food for the upcoming SF Artist Gathering event, which will be held at the Cool SoMa Gallery in San Francisco on August 16th, 2023.\n\nBased on the information provided, your catering service seems to align perfectly with the relaxed and classy mood of the event. The sushi, cheese, and charcuterie boards you offer will provide a sophisticated and diverse menu for our guests.\n\nPlease confirm your availability for the event on the specified date. If you are unable to cater for this event, please let me know if you have any alternative options that would be suitable.\n\nThank you in advance for your prompt response. I look forward to hearing from you.\n\nBest regards,\n[Your Name]"
+    },
+    "BartenderBookingRequest": {
+      "To": "bartender@email.com",
+      "Subject": "Booking Request for SF Artist Gathering",
+      "Body": "Dear Classie Cocktails Mobile Bartending,\n\nI hope this email finds you well. I am reaching out to inquire about your availability for an upcoming event.\n\nWe are hosting an SF Artist Gathering at the Cool SoMa Gallery in San Francisco on August 16th, 2023. The venue provides a relaxed and classy ambiance, and we believe that your mobile bartending services would be a great fit for this event.\n\nBased on the information provided, we are impressed with your goal of delivering a unique mobile bar experience, providing a customized drink menu, and entertaining bartenders. We believe that your interactive cocktails will add an element of fun and excitement to the gathering.\n\nWe would like to confirm your availability for this event. If you are unavailable, please let us know if you have any other bartenders or recommendations that you can provide.\n\nThank you for your attention to this matter. We look forward to hearing from you soon.\n\nBest regards,\n[Your Name]"
+    },
+    "musicBookingRequest": {
+      "To": "laragarner15@gmail.com",
+      "Subject": "Booking Inquiry for SF Artist Gathering",
+      "Body": "Dear Amethyst Trio,\n\nI hope this email finds you well. I am reaching out to inquire about your availability for an upcoming event.\n\nWe are organizing an SF Artist Gathering at the Cool SoMa Gallery in San Francisco on August 16th, 2023. The event aims to bring together local artists and art enthusiasts for a relaxed and classy evening.\n\nAfter reviewing your profile and listening to your music, we believe that your blend of classical, pop/rock, and jazz genres would be a perfect fit for our event. Your skilled musicianship and diverse instrumentation, including harp, violin, cello, piano, and flute, will create a sophisticated and elegant atmosphere at the gallery.\n\nCould you please confirm your availability for this date? If you are unavailable, we would appreciate any recommendations you may have for alternative musicians who could provide a similar ambiance.\n\nThank you for considering our request. We look forward to hearing from you soon.\n\nBest regards,\n[Your Name]\n[Your Organization]"
+    },
+    "invitation": {
+      "invitation": {
+        "venue": "Cool SoMa Gallery",
+        "date": "August 16th, 2023"
+      }
+    },
+    "socialposts": "{\"post_content\": {\n  \"twitter_post\": \"Looking for a relaxed and classy event venue? Look no further! Join us at Cool SoMa Gallery. #eventvenue #soma\",\n  \"instagram_post\": \"Discover the perfect event venue at Cool SoMa Gallery. Experience a relaxed and classy atmosphere. #eventvenue #soma\"}}",
+    "ReminderEmail": {
+      "email": {
+        "to": "guests@example.com",
+        "subject": "Reminder: Upcoming Event at Cool SoMa Gallery",
+        "body": "Dear guests,\n\nWe hope this email finds you well. We wanted to send you a friendly reminder about the upcoming event that will be held at the Cool SoMa Gallery on August 16th, 2023.\n\nWe are excited to have you join us for this special occasion. The event promises to be a memorable experience filled with entertainment, networking opportunities, and delicious food.\n\nPlease mark your calendars and make sure to arrive at the venue on time. The address for Cool SoMa Gallery is [insert address here].\n\nIf you have any questions or need further information, please don't hesitate to reach out to us. We look forward to seeing you at the event!\n\nBest regards,\n[Your Name]\n[Your Company/Organization]"
+      }
+    },
+    "textConfirmation": {
+      "invitation": "Hey there! We are planning an event at the Cool SoMa Gallery on August 16th, 2023. We would like to inquire about the availability of the venue on that date. The event will be a relaxed and classy gathering with live music and catering. We are expecting around [# of guests] guests. Additionally, we have selected a list of cocktail suggestions that we would like to offer at the event. Please let us know if the venue is available and if you can accommodate our requests. Thank you!"
+    },
+    "getSponsorPitchDeck": "Subject: Exciting Sponsorship Opportunity for a Relaxed and Classy Event!\n\nDear [Potential Sponsor's Name],\n\nI hope this email finds you well. I am reaching out to you on behalf of [Event Host/Organization] to present an exciting sponsorship opportunity for our upcoming event at the Cool SoMa Gallery. We believe that your business aligns perfectly with the relaxed and classy atmosphere we are aiming to create.\n\n[Event Name] is set to be a remarkable gathering of [target audience] from [location/industry]. With its unique blend of [event highlights], it promises to be an unforgettable experience for all attendees. We are seeking sponsors who share our vision and are interested in gaining exposure to a diverse and influential audience.\n\nAs a sponsor, your brand will have the opportunity to:\n\n1. Increase brand visibility: Showcase your products/services to a captive audience, both during the event and through pre-event marketing efforts.\n\n2. Enhance brand reputation: Align your brand with a sophisticated and exclusive event, positioning your business as a leader in the industry.\n\n3. Engage with your target market: Interact with potential customers and industry professionals, establishing valuable connections and generating leads.\n\nWe have categorized sponsorship opportunities into different levels to accommodate varying budgets and marketing objectives. Please find below the categories along with a list of companies we believe would be a great fit for each:\n\n1. Platinum Sponsorship:\n   - [Company Name]\n   - [Company Name]\n   - [Company Name]\n\n2. Gold Sponsorship:\n   - [Company Name]\n   - [Company Name]\n   - [Company Name]\n\n3. Silver Sponsorship:\n   - [Company Name]\n   - [Company Name]\n   - [Company Name]\n\n4. Bronze Sponsorship:\n   - [Company Name]\n   - [Company Name]\n   - [Company Name]\n\nWe are open to discussing customized sponsorship packages to ensure your brand receives maximum exposure and meets your specific marketing goals.\n\nIf you are interested in partnering with us for this exciting event, please let us know your preferred sponsorship level, or if you would like to explore a tailored package. We are more than happy to provide you with additional information, answer any questions you may have, or arrange a meeting to discuss the details further.\n\nThank you for considering this opportunity. We look forward to the possibility of collaborating with your esteemed brand and creating a memorable experience for all involved.\n\nWarm regards,\n\n[Your Name]\n[Sponsorship Manager]\n[Event Host/Organization]\n[Contact Information]",
+    "imagePrompt": "Design a cover image that perfectly captures the essence of the Cool SoMa Gallery and your relaxed and classy mood. Blend the sophisticated ambiance of the venue with your laid-back vibe to create a visually stunning and captivating image. Let your imagination run wild and create a cover image that will make attendees eager to join this unforgettable event.",
+    "audioInvite": "[Background music playing softly]\n\nHost: Hey there, it's [Your Name]! I hope this message finds you well. I'm reaching out to personally invite you to a special event that I'm hosting at the Cool SoMa Gallery on August 16th, 2023.\n\n[Background music fades out]\n\nHost: The atmosphere for the evening will be relaxed and classy, creating the perfect ambiance for an unforgettable experience. We've curated a stunning collection of artwork that will be showcased throughout the gallery, providing a feast for the eyes and a source of inspiration.\n\nBut that's not all! We'll also have live music, delicious hors d'oeuvres, and a selection of fine wines to indulge in. It's going to be an evening filled with laughter, conversations, and the opportunity to mingle with fellow art enthusiasts.\n\nI genuinely believe that you would enjoy this event and your presence would add a special touch to the evening. So, mark your calendar for August 16th, 2023, and come join us at the Cool SoMa Gallery.\n\nTo RSVP, simply give me a call at [Your Phone Number] or reply to this voice message. I kindly ask that you let me know by [RSVP Deadline], so we can make the necessary arrangements to ensure your utmost comfort.\n\nI'm really looking forward to seeing you there, [Guest's Name]. It's going to be a night to remember. Thank you for considering my invitation, and I hope you have a fantastic day!\n\n[Background music fades in]\n\nHost: Take care, and until we meet again!\n\n[Background music fades out]",
+    "ready": true
+  },
+  "strange-cardinal-walk": {
+    "what": "SF Artist gathering",
+    "where": "San Francisco",
+    "when": "August 16th 2023",
+    "budget": "5000",
+    "mood": "Relaxed and classy",
+    "id": "strange-cardinal-walk",
+    "venue": {
+      "name": "Cool SoMa Gallery",
+      "id": "0",
+      "why": "This elegant art gallery, spacious with a minimalist design, is intimate and flooded with natural light from skylights and large windows. The venue, boasting a high ceiling and wooden floors, strictly prohibits furniture, loud music, dancing, open house events, smoking, open flames, and late-night parties.",
+      "metadata": {
+        "ID": "0",
+        "Venue Name": "Cool SoMa Gallery ",
+        "City": "San Francisco",
+        "Neighbourhood": "SOMA",
+        "Capacity": "80",
+        "Price per hour": "$200",
+        "Outside Food permissable": "Yes",
+        "In-house Parking": "No",
+        "Venue Manager": "Tony Wessling",
+        "Email": "",
+        "Phone Number": "",
+        "Mood": "This elegant art gallery, spacious with a minimalist design, is intimate and flooded with natural light from skylights and large windows. The venue, boasting a high ceiling and wooden floors, strictly prohibits furniture, loud music, dancing, open house events, smoking, open flames, and late-night parties.",
+        "Venue URL": "https://www.splacer.co/venue/cool-soma-gallery",
+        "Venue Image\r": "https://res.cloudinary.com/splacer/image/upload/e_improve,f_auto,q_auto,g_auto,c_fill,dpr_2,w_1920,h_1080/v1/production/Splaces/008884/_MGL5922_0_25x_p8jxrt.jpg\r"
+      }
+    },
+    "music": {
+      "name": "Amethyst Trio",
+      "why": "The Amethyst Trio would be a perfect fit for this event at the Cool SoMa Gallery. Their blend of classical, pop/rock, and jazz genres will create a relaxed and classy atmosphere. The live instruments they use, including harp, violin, cello, piano, and flute, will add an elegant touch to the event. Their versatility and experience in film scores and live tours make them a top choice for this event.",
+      "metadata": {
+        "ID": "0",
+        "Name": "Amethyst Trio",
+        "Genre": "Classical, poprock and jazz",
+        "Live Instrument use": "Yes",
+        "Price": "$400",
+        "Description": "an Francisco's acclaimed trio Amethyst offers a blend of harp, violin, cello, piano, and flute, skillfully traversing classical, pop/rock, and jazz genres. Experienced in film scores, MTV videos, and live tours, the trio is one of the Bay Area's most versatile professional groups. The pianist doubles as a harpist and flutist, ensuring diverse instrumentation. They provide high-quality amplification and accommodate special requests",
+        "Phone number": "(650)-430-5016",
+        "Email\r": "laragarner15@gmail.com or \r"
+      }
+    },
+    "food": {
+      "name": "Notre Ferme",
+      "why": "Notre Ferme, created by a Michelin star-earning chef, celebrates local farmers and community connections. The business fosters culinary education, while the chef's personal journey emphasizes sobriety, overcoming adversity, and giving back",
+      "metadata": {
+        "ID": "0",
+        "Caterer Name": "Notre Ferme",
+        "Food Type": "Finger Foods",
+        "Description": "Notre Ferme, created by a Michelin star-earning chef, celebrates local farmers and community connections. The business fosters culinary education, while the chef's personal journey emphasizes sobriety, overcoming adversity, and giving back",
+        "Cost per person": "$14",
+        "Phone Number": "(530) 615-8198",
+        "Email\r": "a.notreferme@gmail.com\r"
+      }
+    },
+    "barServer": {
+      "name": "Classie Cocktails Mobile Bartending",
+      "why": "Classie Cocktails Mobile Bartending would be a great fit for this event at the Cool SoMa Gallery. With their goal of delivering a unique mobile bar experience and providing a customized drink menu, they can create a relaxed and classy atmosphere for the guests. Their entertaining bartenders and interactive cocktails will add a touch of elegance to the event.",
+      "metadata": {
+        "ID": "2",
+        "Bar server name": "Classie Cocktails Mobile Bartending",
+        "Years of experience": "2",
+        "About the bar server": "At Classie Cocktails, we are professionals. My goal is to deliver a unique mobile bar experience by providing a customized drink menu, entertaining bartenders, and interactive cocktails.",
+        "Price per hour": "$100",
+        "More details about the server\r": "https://www.thumbtack.com/ca/san-francisco/bartenders/classie-cocktails-mobile-bartending/service/447827584678985730?service_pk=447827584678985730&project_pk=486709565968834592&lp_request_pk=486709565963542529&zip_code=94115&keyword_pk=102910114609294247&click_origin=pro%20list%2Fclick%20pro%20name&is_sponsored=false&utm_source=cma-google&utm_campaign=s-c-17693067489-140871286713-614000834145-kwd-25146543004-e---9031951-g---&utm_medium=cpc&gclid=CjwKCAjwyeujBhA5EiwA5WD7_b7vyoqtHYnU-S1vCYbtyp0Ikq9qWxe5QLUCZugjcRZTv0-iqllvexoC0GEQAvD_BwE&hideBack=true\r"
+      }
+    },
+    "drinks": "# Cocktail Suggestions for a Relaxed and Classy Event\n\n1. **Old Fashioned**  \n   *Recipe:*  \n   - 2 oz bourbon or rye whiskey\n   - 1 sugar cube\n   - 2 dashes Angostura bitters\n   - Orange twist, for garnish  \n   *Why it fits the mood:* The Old Fashioned is a classic cocktail that exudes sophistication and elegance. Its smooth and balanced flavors make it a perfect choice for a relaxed yet classy event.\n\n2. **Gin Martini**  \n   *Recipe:*  \n   - 2.5 oz gin\n   - 0.5 oz dry vermouth\n   - Lemon twist or olive, for garnish  \n   *Why it fits the mood:* The Gin Martini is a timeless and sophisticated cocktail. Its simplicity and clean flavors make it a favorite among those who appreciate a classic and refined drink.\n\n3. **Mojito**  \n   *Recipe:*  \n   - 2 oz white rum\n   - 1 oz fresh lime juice\n   - 2 teaspoons sugar\n   - 6-8 fresh mint leaves\n   - Club soda, to top\n   - Lime wedge and mint sprig, for garnish  \n   *Why it fits the mood:* The Mojito is a refreshing and vibrant cocktail that brings a touch of tropical relaxation to any event. Its combination of rum, lime, and mint creates a cool and invigorating drink.\n\n4. **Cosmopolitan**  \n   *Recipe:*  \n   - 1.5 oz vodka\n   - 1 oz cranberry juice\n   - 0.5 oz triple sec\n   - 0.5 oz fresh lime juice\n   - Lime twist, for garnish  \n   *Why it fits the mood:* The Cosmopolitan is a sophisticated and stylish cocktail that gained popularity through its association with cosmopolitan urban lifestyles. Its vibrant pink color and tangy flavors make it a perfect choice for a classy event.\n\n5. **Whiskey Sour**  \n   *Recipe:*  \n   - 2 oz whiskey\n   - 1 oz fresh lemon juice\n   - 0.75 oz simple syrup\n   - Lemon wheel and cherry, for garnish  \n   *Why it fits the mood:* The Whiskey Sour is a classic cocktail with a perfect balance of sweet, sour, and strong flavors. Its timeless appeal and smooth taste make it a great choice for a relaxed yet classy atmosphere.\n\nEnjoy these cocktail suggestions at your event and elevate the mood with their sophisticated flavors!",
+    "bookingRequest": {
+      "To": "venue_manager@example.com",
+      "Subject": "Venue Booking Inquiry",
+      "Body": "Dear Tony Wessling,\n\nI hope this email finds you well. I am reaching out to inquire about the availability of the Cool SoMa Gallery for an event that I am planning.\n\nEvent Details:\n- Event Name: SF Artist Gathering\n- Date: August 16th, 2023\n- Budget: $5000\n- Mood: Relaxed and classy\n\nThe Cool SoMa Gallery seems like the perfect venue for this event. Its elegant and spacious design, flooded with natural light, creates an intimate atmosphere that aligns perfectly with the mood we are aiming for. The high ceiling and wooden floors add to the overall charm of the venue.\n\nI would like to confirm if the Cool SoMa Gallery is available on the specified date. Additionally, if it is available, could you please provide me with the pricing details and any other relevant information?\n\nI have also made arrangements for live music by the Amethyst Trio, who specialize in classical, pop/rock, and jazz genres. Their blend of instruments, including harp, violin, cello, piano, and flute, will add an elegant touch to the event.\n\nFor catering, we have chosen Notre Ferme, a local business that celebrates local farmers and community connections. Their finger foods will be a perfect fit for the gathering, and their emphasis on culinary education aligns with the values of the event.\n\nTo enhance the experience, we would like to have Classie Cocktails Mobile Bartending as our bar server. Their unique mobile bar experience, customized drink menu, and entertaining bartenders will create a relaxed and classy atmosphere for our guests.\n\nI have attached the details of the event and the vendors for your reference.\n\nPlease let me know if the Cool SoMa Gallery is available on the specified date and if there are any additional requirements or procedures for booking the venue. I am open to discussing any other options you may have that fit within our budget and requirements.\n\nThank you for your time and consideration. I look forward to hearing from you soon.\n\nBest regards,\n[Your Name]\n"
+    },
+    "getFoodBookingRequest": {
+      "To": "a.notreferme@gmail.com",
+      "Subject": "Food Catering Booking for SF Artist gathering",
+      "Body": "Dear Notre Ferme,\n\nI hope this email finds you well. I am reaching out to inquire about the availability of your catering services for an event.\n\nEvent Details:\n- Event Name: SF Artist gathering\n- Location: Cool SoMa Gallery, San Francisco\n- Date: August 16th, 2023\n\nBased on the information provided, your catering service seems to align perfectly with the theme and requirements of our event. We are particularly interested in your finger foods.\n\nCould you please confirm your availability for the specified date? If you are unavailable, we would appreciate any alternative recommendations you may have.\n\nThank you in advance for your prompt response. We look forward to the possibility of working with you.\n\nBest regards,\n[Your Name]"
+    },
+    "BartenderBookingRequest": {
+      "To": "bartender@email.com",
+      "Subject": "Booking Request for SF Artist Gathering",
+      "Body": "Dear Classie Cocktails Mobile Bartending,\n\nI hope this email finds you well. I am reaching out to inquire about your availability for an upcoming event.\n\nI am currently planning the SF Artist Gathering, which will be held at the Cool SoMa Gallery in San Francisco on August 16th, 2023. The event aims to bring together artists from the local community for a relaxed and classy evening.\n\nAfter reviewing your profile and services, I believe that Classie Cocktails Mobile Bartending would be a perfect fit for this event. Your goal of delivering a unique mobile bar experience, providing a customized drink menu, and having entertaining bartenders aligns perfectly with the atmosphere we want to create.\n\nI would like to confirm your availability for the event on August 16th, 2023. If you are available, please let me know the number of bartenders you recommend for our expected guest count of 80 people. Additionally, if you have any specific cocktail suggestions or recommendations based on the event theme, please feel free to share them.\n\nPlease find more details about your services and pricing per hour in the following link: [More details about the server](https://www.thumbtack.com/ca/san-francisco/bartenders/classie-cocktails-mobile-bartending/service/447827584678985730?service_pk=447827584678985730&project_pk=486709565968834592&lp_request_pk=486709565963542529&zip_code=94115&keyword_pk=102910114609294247&click_origin=pro%20list%2Fclick%20pro%20name&is_sponsored=false&utm_source=cma-google&utm_campaign=s-c-17693067489-140871286713-614000834145-kwd-25146543004-e---9031951-g---&utm_medium=cpc&gclid=CjwKCAjwyeujBhA5EiwA5WD7_b7vyoqtHYnU-S1vCYbtyp0Ikq9qWxe5QLUCZugjcRZTv0-iqllvexoC0GEQAvD_BwE&hideBack=true)\n\nI look forward to hearing from you soon and discussing the details of the event further. Thank you for your attention and consideration.\n\nBest regards,\n[Your Name]\n[Your Contact Information]"
+    },
+    "musicBookingRequest": {
+      "To": "laragarner15@gmail.com",
+      "Subject": "Booking Request for Amethyst Trio",
+      "Body": "Dear Amethyst Trio,\n\nI hope this email finds you well. I am reaching out to inquire about your availability for an upcoming event.\n\nEvent Details:\nEvent Name: SF Artist Gathering\nLocation: Cool SoMa Gallery, San Francisco\nDate: August 16th, 2023\n\nBased on your versatile repertoire and elegant instrumentation, we believe that the Amethyst Trio would be a perfect fit for this event. Your blend of classical, pop/rock, and jazz genres will create a relaxed and classy atmosphere, enhancing the overall experience for our guests.\n\nThe Cool SoMa Gallery, with its spacious and minimalist design, provides an intimate setting flooded with natural light. It aligns perfectly with the ambiance we aim to create for the SF Artist Gathering.\n\nPlease let us know if you are available for this event. If not, we would appreciate any alternative recommendations you may have.\n\nThank you for your time and consideration. We look forward to hearing from you.\n\nBest regards,\n[Your Name]\n[Your Contact Information]"
+    },
+    "invitation": {
+      "invitation": {
+        "venue": "Cool SoMa Gallery",
+        "date": "August 16th, 2023"
+      }
+    },
+    "socialposts": "{\"post_content\": {\"twitter_post\": \"Get ready to relax and indulge at our classy Salon! Book your appointment now. #Salon #Relaxation #Classy\", \"instagram_post\": \"Indulge in a relaxed and classy experience at our Salon. Book your appointment today! #Salon #Relaxation #Classy\"}}",
+    "ReminderEmail": {
+      "email": "guests@example.com",
+      "subject": "Reminder: Upcoming Event at Cool SoMa Gallery",
+      "body": "Dear guests,\n\nWe hope this email finds you well. We would like to remind you about the upcoming event that will be hosted at Cool SoMa Gallery on August 16th, 2023.\n\nAs mentioned before, the event will be a wonderful opportunity to celebrate and connect with fellow art enthusiasts. We have planned an exciting evening filled with art exhibits, live music, and delicious refreshments.\n\nPlease mark your calendars and make sure to arrive at the venue on time. The event will start promptly at 7:00 PM and will continue until 10:00 PM.\n\nIf you have any questions or need further information, please do not hesitate to reach out to us.\n\nWe are looking forward to seeing you at the event!\n\nBest regards,\n[Your Name]\nEvent Planner"
+    },
+    "textConfirmation": {
+      "invitation": {
+        "venue": "Cool SoMa Gallery",
+        "date": "August 16th, 2023",
+        "time": "TBD",
+        "guests": "# of guests",
+        "live_music": true,
+        "catering": {
+          "food": "[object Object]",
+          "drinks": [
+            {
+              "name": "Old Fashioned",
+              "recipe": "2 oz bourbon or rye whiskey, 1 sugar cube, 2 dashes Angostura bitters, Orange twist, for garnish",
+              "description": "The Old Fashioned is a classic cocktail that exudes sophistication and elegance. Its smooth and balanced flavors make it a perfect choice for a relaxed yet classy event."
+            },
+            {
+              "name": "Gin Martini",
+              "recipe": "2.5 oz gin, 0.5 oz dry vermouth, Lemon twist or olive, for garnish",
+              "description": "The Gin Martini is a timeless and sophisticated cocktail. Its simplicity and clean flavors make it a favorite among those who appreciate a classic and refined drink."
+            },
+            {
+              "name": "Mojito",
+              "recipe": "2 oz white rum, 1 oz fresh lime juice, 2 teaspoons sugar, 6-8 fresh mint leaves, Club soda, to top, Lime wedge and mint sprig, for garnish",
+              "description": "The Mojito is a refreshing and vibrant cocktail that brings a touch of tropical relaxation to any event. Its combination of rum, lime, and mint creates a cool and invigorating drink."
+            },
+            {
+              "name": "Cosmopolitan",
+              "recipe": "1.5 oz vodka, 1 oz cranberry juice, 0.5 oz triple sec, 0.5 oz fresh lime juice, Lime twist, for garnish",
+              "description": "The Cosmopolitan is a sophisticated and stylish cocktail that gained popularity through its association with cosmopolitan urban lifestyles. Its vibrant pink color and tangy flavors make it a perfect choice for a classy event."
+            },
+            {
+              "name": "Whiskey Sour",
+              "recipe": "2 oz whiskey, 1 oz fresh lemon juice, 0.75 oz simple syrup, Lemon wheel and cherry, for garnish",
+              "description": "The Whiskey Sour is a classic cocktail with a perfect balance of sweet, sour, and strong flavors. Its timeless appeal and smooth taste make it a great choice for a relaxed yet classy atmosphere."
+            }
+          ]
+        }
+      }
+    },
+    "getSponsorPitchDeck": "Subject: Exciting Sponsorship Opportunity for an Exclusive Event at Cool SoMa Gallery\n\nDear [Potential Sponsor's Name],\n\nI hope this email finds you well. I am reaching out to you on behalf of [Event Host's Name], the organizer of an upcoming exclusive event at the renowned Cool SoMa Gallery. We believe that your business aligns perfectly with the event's theme and target audience, and we would like to offer you a unique sponsorship opportunity.\n\nEvent Details:\nDate: [Event Date]\nVenue: Cool SoMa Gallery, located in the heart of San Francisco's vibrant South of Market (SoMa) district\nTheme: Relaxed and classy\n\nThe event aims to bring together a select group of influential individuals, tastemakers, and professionals from various industries. It will provide an exceptional networking platform, offering sponsors like yourself the chance to connect with potential customers, showcase your brand, and gain valuable exposure.\n\nAs a sponsor, your business will benefit from prominent visibility throughout the event, including logo placement on event materials, recognition during announcements, and the opportunity to display your products or services. Additionally, you will receive exclusive access to the event attendees, allowing you to forge meaningful connections and generate new leads.\n\nWe have identified several categories of businesses that would be a perfect fit for this event. These categories include, but are not limited to:\n\n1. Fashion and Lifestyle:\n- Clothing and accessories brands\n- Beauty and wellness products\n- Luxury lifestyle services\n\n2. Technology and Innovation:\n- Mobile apps and software solutions\n- Gadgets and electronics\n- AI and machine learning companies\n\n3. Food and Beverage:\n- Artisanal food and beverage producers\n- Catering services\n- Craft breweries and wineries\n\n4. Entertainment and Media:\n- Music and entertainment platforms\n- Influencer marketing agencies\n- Film production companies\n\n5. Art and Design:\n- Art galleries and studios\n- Interior design firms\n- Graphic design and branding agencies\n\nWe believe that your company, [Potential Sponsor's Company Name], would be an excellent fit for this event, and we would be delighted to discuss the various sponsorship opportunities available to you. Please let us know if you are interested, and we will provide you with further details.\n\nThank you for considering this exciting opportunity. We look forward to the possibility of collaborating with you and creating a memorable event experience for all attendees.\n\nWarm regards,\n\n[Your Name]\n[Your Title]\n[Event Host's Name]",
+    "imagePrompt": "Design the perfect cover image for our event at the Cool SoMa Gallery, combining your relaxed and classy mood with the venue's undefined mood. Let your creativity flow and create a captivating image that reflects the essence of this unique event.",
+    "audioInvite": "\"Hey there! This is [Your Name], your friendly host for an upcoming event that I'm sure you won't want to miss. I wanted to personally invite you to a fabulous evening at the Cool SoMa Gallery on August 16th, 2023.\n\nWe're putting together an event that promises to be a perfect blend of relaxation and class. Picture yourself surrounded by stunning artwork, sipping on delicious cocktails, and mingling with some of the most interesting and creative minds in town.\n\nWhether you're an art enthusiast, a social butterfly, or simply looking for a memorable night out, this event is tailored just for you. The Cool SoMa Gallery provides the perfect backdrop for an evening of sophistication and enjoyment.\n\nSo mark your calendars and get ready to experience an unforgettable night on August 16th. Keep an eye out for the formal invitation with all the details coming your way soon.\n\nI can't wait to see you there and share this special evening together. Get ready for an event that will leave you feeling inspired and rejuvenated.\n\nUntil then, take care and stay fabulous!\"\n\n[Your Name]",
+    "ready": true
+  },
+  "healthy-owl-bite": {
+    "what": "SF Artist gathering",
+    "where": "San Francisco",
+    "when": "August 16th 2023",
+    "budget": "5000",
+    "mood": "Relaxed and classy",
+    "id": "healthy-owl-bite",
+    "venue": {
+      "name": "Art Gallery + Plant Store - Outer Richmond",
+      "id": "3",
+      "why": "This venue is perfect for an artist gathering due to its vibrant art gallery setting filled with natural daylight and adorned with live plants. It offers ample space suitable for standing cocktail events or classroom-style seating. Its location in San Francisco aligns with the event location and its price per hour fits within the budget. Its relaxed and artsy ambiance also matches the desired mood for the event.",
+      "metadata": {
+        "ID": "3",
+        "Venue Name": "Art Gallery + Plant Store - Outer Richmond ",
+        "City": "San Francisco",
+        "Neighbourhood": "Outer Richmond",
+        "Capacity": "80",
+        "Price per hour": "$95",
+        "Outside Food permissable": "Yes",
+        "In-house Parking": "Yes",
+        "Venue Manager": "Anna. B",
+        "Email": "",
+        "Phone Number": "",
+        "Mood": "This vibrant art gallery boasts high ceilings and is filled with natural daylight, thanks to its storefront windows. Its interior is adorned with plentiful live plants, minimalist furniture, and an array of artwork, creating an artsy and cozy ambiance. The venue is lit by modern LED track lights, set against the backdrop of a sealed concrete floor. It offers ample space suitable for standing cocktail events or classroom-style seating. The gallery maintains a connection to the street through its open storefront.",
+        "Venue URL": "https://www.splacer.co/venue/art-gallery-plant-store-outer-richmond",
+        "Venue Image\r": "https://res.cloudinary.com/splacer/image/upload/e_improve,f_auto,q_auto,g_auto,c_fill,dpr_2,w_1920,h_1080/v1/production/Splaces/018426/1_srpsuj.jpg\r"
+      }
+    },
+    "music": {
+      "name": "Sutro String Quartet",
+      "why": "The Sutro String Quartet would be a perfect fit for a relaxed and classy event in an art gallery and plant store setting. Their classical music performances would complement the sophisticated atmosphere of the venue, and their experience in performing at various events ensures a professional touch. The live instruments would add a unique and elegant touch to the event.",
+      "metadata": {
+        "ID": "2",
+        "Name": "Sutro String Quartet",
+        "Genre": "CLassical",
+        "Live Instrument use": "Yes",
+        "Price": "$1,200",
+        "Description": "Sutro String Quartet is one of the most sought-after San Francisco based ensembles for weddings, corporate events, and parties. The group performs both classical music, as well as original arrangements of popular contemporary songs, bringing a level of artistry and professionalism your guests are sure to notice!",
+        "Phone number": "",
+        "Email\r": "Wesley@sutroquartet.com.\r"
+      }
+    },
+    "food": {
+      "menu": [
+        "Tapas"
+      ],
+      "why": "Classic Catering has over 15 years of culinary and event planning experience. Their focus on exceptional service, fresh, artful food, and a stress-free host experience makes them an excellent choice for this event. Their tapas menu is suitable for a relaxed and classy gathering, allowing guests to enjoy a variety of dishes. The cost per person also fits within the event's budget.",
+      "metadata": {}
+    },
+    "barServer": {
+      "name": "On The Rocks Bartending & Serving",
+      "why": "With 17 years of experience, On The Rocks Bartending & Serving can provide a high level of professional service. They excel at making guests happy and strive to make sure the host/event planner can relax and enjoy the party. They offer to create a custom cocktail menu for the event, which can add a unique touch to the art gallery setting. Their service aligns with the relaxed and classy mood of the event.",
+      "metadata": {
+        "ID": "1",
+        "Bar server name": "On The Rocks Bartending & Serving",
+        "Years of experience": "17",
+        "About the bar server": "We excel at making guests happy, and strive to make sure the host/event planner can relax and enjoy the party. We'd love to create a custom cocktail menu for your event and help staff the party!",
+        "Price per hour": "$100",
+        "More details about the server\r": "https://www.thumbtack.com/ca/oakland/bartenders/mc-bartending-events/service/467696626414559243?service_pk=467696626414559243&project_pk=486709565968834592&lp_request_pk=486709565963542529&zip_code=94115&keyword_pk=102910114609294247&click_origin=pro%20list%2Fclick%20pro%20name&is_sponsored=false&utm_source=cma-google&utm_campaign=s-c-17693067489-140871286713-614000834145-kwd-25146543004-e---9031951-g---&utm_medium=cpc&gclid=CjwKCAjwyeujBhA5EiwA5WD7_b7vyoqtHYnU-S1vCYbtyp0Ikq9qWxe5QLUCZugjcRZTv0-iqllvexoC0GEQAvD_BwE&hideBack=true\r"
+      }
+    },
+    "drinks": "# Suggested Cocktails for Art Gallery + Plant Store - Outer Richmond Event\n\n## 1. Classic Gin and Tonic\n**Recipe**: \n- 2 oz Gin\n- 4 oz Tonic Water\n- Lime Wedge\n\n**Why it fits the mood**: The Gin and Tonic is a classic cocktail that exudes sophistication. It's light, refreshing, and perfect for a relaxed and classy event.\n\n## 2. Basil Mojito\n**Recipe**: \n- 2 oz White Rum\n- 1 oz Fresh Lime Juice\n- 2 tsp Sugar\n- 6 Fresh Basil Leaves\n- Soda Water\n\n**Why it fits the mood**: The Basil Mojito is a fun twist on a traditional cocktail. It's fresh and vibrant - just like the plant store setting. Plus, the basil adds a lovely green touch.\n\n## 3. Elderflower Martini\n**Recipe**: \n- 2 oz Vodka\n- 1 oz Elderflower Liqueur\n- 1 oz Fresh Lemon Juice\n- Lemon Twist\n\n**Why it fits the mood**: The Elderflower Martini is a refined and elegant cocktail. It's sweet, floral notes pair wonderfully with the art gallery atmosphere.\n\n## 4. Bourbon Old Fashioned\n**Recipe**: \n- 2 oz Bourbon\n- 1 Sugar Cube\n- 2-3 Dashes Angostura Bitters\n- Orange Twist\n\n**Why it fits the mood**: The Bourbon Old Fashioned is a timeless cocktail that adds a touch of class to any event. It's robust and full-bodied - a perfect match for the relaxed yet sophisticated mood.\n\n## 5. Lavender Collins\n**Recipe**: \n- 2 oz Gin\n- 1 oz Fresh Lemon Juice\n- 1 oz Lavender Simple Syrup\n- Soda Water\n- Lavender Sprig\n\n**Why it fits the mood**: The Lavender Collins is a delightful and aromatic cocktail. It's calming lavender notes and beautiful presentation make it a fitting choice for a relaxed and classy event."
+  },
+  "beautiful-falcon-crawl": {
+    "what": "SF Artist gathering",
+    "where": "San Francisco",
+    "when": "August 16th 2023",
+    "budget": "5000",
+    "mood": "Relaxed and classy",
+    "id": "beautiful-falcon-crawl",
+    "venue": {
+      "name": "Art Gallery + Plant Store - Outer Richmond",
+      "id": "3",
+      "why": "This venue is selected as it is located in the desired city of San Francisco and provides a relaxed and classy ambiance which aligns with the event's mood. It also allows outside food and has in-house parking. The capacity of 80 is suitable for the gathering and the cost fits within the budget.",
+      "metadata": {
+        "ID": "3",
+        "Venue Name": "Art Gallery + Plant Store - Outer Richmond ",
+        "City": "San Francisco",
+        "Neighbourhood": "Outer Richmond",
+        "Capacity": "80",
+        "Price per hour": "$95",
+        "Outside Food permissable": "Yes",
+        "In-house Parking": "Yes",
+        "Venue Manager": "Anna. B",
+        "Email": "",
+        "Phone Number": "",
+        "Mood": "This vibrant art gallery boasts high ceilings and is filled with natural daylight, thanks to its storefront windows. Its interior is adorned with plentiful live plants, minimalist furniture, and an array of artwork, creating an artsy and cozy ambiance. The venue is lit by modern LED track lights, set against the backdrop of a sealed concrete floor. It offers ample space suitable for standing cocktail events or classroom-style seating. The gallery maintains a connection to the street through its open storefront.",
+        "Venue URL": "https://www.splacer.co/venue/art-gallery-plant-store-outer-richmond",
+        "Venue Image\r": "https://res.cloudinary.com/splacer/image/upload/e_improve,f_auto,q_auto,g_auto,c_fill,dpr_2,w_1920,h_1080/v1/production/Splaces/018426/1_srpsuj.jpg\r"
+      }
+    },
+    "music": {
+      "name": "Amethyst Trio",
+      "why": "This group's blend of classical, pop/rock, and jazz genres will provide a relaxed yet classy atmosphere that complements the art gallery and plant store setting. Their diverse instrumentation including harp, violin, cello, piano, and flute will add a unique touch to the event. Also, their experience in different settings makes them adaptable to any event environment.",
+      "metadata": {
+        "ID": "0",
+        "Name": "Amethyst Trio",
+        "Genre": "Classical, poprock and jazz",
+        "Live Instrument use": "Yes",
+        "Price": "$400",
+        "Description": "an Francisco's acclaimed trio Amethyst offers a blend of harp, violin, cello, piano, and flute, skillfully traversing classical, pop/rock, and jazz genres. Experienced in film scores, MTV videos, and live tours, the trio is one of the Bay Area's most versatile professional groups. The pianist doubles as a harpist and flutist, ensuring diverse instrumentation. They provide high-quality amplification and accommodate special requests",
+        "Phone number": "(650)-430-5016",
+        "Email\r": "laragarner15@gmail.com or \r"
+      }
+    },
+    "food": {
+      "name": "Classic Catering",
+      "why": "Classic Catering is a perfect fit for this event because of their culinary and event planning experience. Their focus on exceptional service, fresh, artful food, and a stress-free host experience aligns with the relaxed and classy mood of the event. Additionally, their tapas menu allows for a variety of tastes to be catered to, ensuring all guests will find something they enjoy.",
+      "metadata": {
+        "ID": "1",
+        "Caterer Name": "Classic Catering",
+        "Food Type": "Tapas",
+        "Description": "Located in Pleasant Hill, California, Classic Catering brings 15+ years of culinary and event planning experience. We focus on exceptional service, fresh, artful food, and a stress-free host experience, aiming to provide a party experience that surpasses your investment.    ",
+        "Cost per person": "$20",
+        "Phone Number": "925.939.9224",
+        "Email\r": "tom@classiccater.com\r"
+      }
+    },
+    "barServer": {
+      "name": "On The Rocks Bartending & Serving",
+      "why": "With 17 years of experience, this bar service excels at making guests happy and allows the host to relax and enjoy the party. They can create a custom cocktail menu to fit the relaxed and classy mood of the event at the Art Gallery + Plant Store - Outer Richmond. Their price per hour is also within the budget for the event.",
+      "metadata": {
+        "ID": "1",
+        "Bar server name": "On The Rocks Bartending & Serving",
+        "Years of experience": "17",
+        "About the bar server": "We excel at making guests happy, and strive to make sure the host/event planner can relax and enjoy the party. We'd love to create a custom cocktail menu for your event and help staff the party!",
+        "Price per hour": "$100",
+        "More details about the server\r": "https://www.thumbtack.com/ca/oakland/bartenders/mc-bartending-events/service/467696626414559243?service_pk=467696626414559243&project_pk=486709565968834592&lp_request_pk=486709565963542529&zip_code=94115&keyword_pk=102910114609294247&click_origin=pro%20list%2Fclick%20pro%20name&is_sponsored=false&utm_source=cma-google&utm_campaign=s-c-17693067489-140871286713-614000834145-kwd-25146543004-e---9031951-g---&utm_medium=cpc&gclid=CjwKCAjwyeujBhA5EiwA5WD7_b7vyoqtHYnU-S1vCYbtyp0Ikq9qWxe5QLUCZugjcRZTv0-iqllvexoC0GEQAvD_BwE&hideBack=true\r"
+      }
+    },
+    "drinks": "# Suggested Cocktails for Art Gallery + Plant Store Event\n\n## 1. Elderflower Martini\n**Recipe:** \n- 2 ounces gin\n- 1 ounce elderflower liqueur\n- 1/2 ounce fresh squeezed lemon juice\n- Lemon twist, for garnish\n\n**Why it fits the mood:** The Elderflower Martini is a classy and sophisticated cocktail that pairs well with an art gallery setting. The floral notes of the elderflower liqueur also tie in nicely with the plant store aspect of the event.\n\n## 2. Basil Smash\n**Recipe:** \n- 2 parts gin\n- 1 part lemon juice\n- 1/2 part sugar syrup\n- Fresh basil leaves\n\n**Why it fits the mood:** The Basil Smash is a refreshing and relaxed cocktail that is perfect for a laid-back yet stylish event. The use of fresh basil leaves also gives a nod to the plant store environment.\n\n## 3. Classic Champagne Cocktail\n**Recipe:** \n- 1 sugar cube\n- 2 dashes of bitters\n- 20ml cognac\n- Top with champagne\n- Lemon twist, for garnish\n\n**Why it fits the mood:** Nothing says classy like a champagne cocktail. This timeless drink is perfect for a sophisticated art gallery setting, and the bubbly nature of the champagne adds a touch of light-hearted fun.\n\n## 4. Cucumber Mint Mojito\n**Recipe:** \n- 2 ounces white rum\n- 1 ounce fresh lime juice\n- 2 teaspoons sugar\n- 6 fresh mint leaves\n- 4 slices of cucumber\n- Club soda, to top\n\n**Why it fits the mood:** The Cucumber Mint Mojito is a refreshing and cool cocktail that's perfect for a relaxed event. The fresh cucumber and mint flavors also tie in nicely with the plant store aspect of the event.\n\n## 5. Lavender Collins\n**Recipe:** \n- 2 ounces gin\n- 1 ounce lavender simple syrup\n- 1 ounce fresh lemon juice\n- Club soda, to top\n- Lavender sprig, for garnish\n\n**Why it fits the mood:** The Lavender Collins is a floral and sophisticated cocktail that pairs well with an art gallery setting. The use of lavender also gives a nod to the plant store environment, making this cocktail a perfect fit for the event."
+  },
+  "strange-robin-listen": {
+    "what": "SF Artist gathering",
+    "where": "San Francisco",
+    "when": "August 16th 2023",
+    "budget": "5000",
+    "mood": "Relaxed and classy",
+    "id": "strange-robin-listen",
+    "venue": {
+      "name": "Art Gallery + Plant Store - Outer Richmond",
+      "id": "3",
+      "why": "This venue is suitable for the SF Artist gathering due to its high ceilings and natural daylight, creating a relaxed and classy atmosphere. It has a capacity of 80 people which is suitable for the event. It also allows outside food and has in-house parking which adds to the convenience. The venue is located in San Francisco which is the desired city for the event. The price per hour is $95 which is within the budget considering the event duration.",
+      "metadata": {
+        "ID": "3",
+        "Venue Name": "Art Gallery + Plant Store - Outer Richmond ",
+        "City": "San Francisco",
+        "Neighbourhood": "Outer Richmond",
+        "Capacity": "80",
+        "Price per hour": "$95",
+        "Outside Food permissable": "Yes",
+        "In-house Parking": "Yes",
+        "Venue Manager": "Anna. B",
+        "Email": "",
+        "Phone Number": "",
+        "Mood": "This vibrant art gallery boasts high ceilings and is filled with natural daylight, thanks to its storefront windows. Its interior is adorned with plentiful live plants, minimalist furniture, and an array of artwork, creating an artsy and cozy ambiance. The venue is lit by modern LED track lights, set against the backdrop of a sealed concrete floor. It offers ample space suitable for standing cocktail events or classroom-style seating. The gallery maintains a connection to the street through its open storefront.",
+        "Venue URL": "https://www.splacer.co/venue/art-gallery-plant-store-outer-richmond",
+        "Venue Image\r": "https://res.cloudinary.com/splacer/image/upload/e_improve,f_auto,q_auto,g_auto,c_fill,dpr_2,w_1920,h_1080/v1/production/Splaces/018426/1_srpsuj.jpg\r"
+      }
+    },
+    "music": {
+      "name": "Amethyst Trio",
+      "why": "Amethyst Trio's blend of classical, pop/rock, and jazz genres can provide a relaxed yet classy atmosphere suitable for an art gallery and plant store setting. Their diverse instrumentation, including harp, violin, cello, piano, and flute, will add a unique touch to the event. Their experience in film scores, MTV videos, and live tours ensures a professional and high-quality performance.",
+      "metadata": {
+        "ID": "0",
+        "Name": "Amethyst Trio",
+        "Genre": "Classical, poprock and jazz",
+        "Live Instrument use": "Yes",
+        "Price": "$400",
+        "Description": "an Francisco's acclaimed trio Amethyst offers a blend of harp, violin, cello, piano, and flute, skillfully traversing classical, pop/rock, and jazz genres. Experienced in film scores, MTV videos, and live tours, the trio is one of the Bay Area's most versatile professional groups. The pianist doubles as a harpist and flutist, ensuring diverse instrumentation. They provide high-quality amplification and accommodate special requests",
+        "Phone number": "(650)-430-5016",
+        "Email\r": "laragarner15@gmail.com or \r"
+      }
+    },
+    "food": {
+      "name": "Notre Ferme",
+      "why": "Notre Ferme, created by a Michelin star-earning chef, is perfect for this event as it celebrates local farmers and community connections, which aligns with the gathering of local SF artists. The finger foods offered will allow guests to enjoy the food while mingling and appreciating the art. Moreover, the chef's personal journey emphasizes sobriety, overcoming adversity, and giving back, which can resonate with the artists' own journeys and struggles. The cost per person is also within the budget for the event.",
+      "metadata": {
+        "ID": "0",
+        "Caterer Name": "Notre Ferme",
+        "Food Type": "Finger Foods",
+        "Description": "Notre Ferme, created by a Michelin star-earning chef, celebrates local farmers and community connections. The business fosters culinary education, while the chef's personal journey emphasizes sobriety, overcoming adversity, and giving back",
+        "Cost per person": "$14",
+        "Phone Number": "(530) 615-8198",
+        "Email\r": "a.notreferme@gmail.com\r"
+      }
+    },
+    "barServer": {
+      "name": "On The Rocks Bartending & Serving",
+      "why": "With 17 years of experience, they excel at making guests happy and strive to ensure the host/event planner can relax and enjoy the party. They can create a custom cocktail menu for the event, which aligns perfectly with the relaxed and classy mood of the Art Gallery + Plant Store event. Their service will add an extra touch of sophistication to the event.",
+      "metadata": {
+        "ID": "1",
+        "Bar server name": "On The Rocks Bartending & Serving",
+        "Years of experience": "17",
+        "About the bar server": "We excel at making guests happy, and strive to make sure the host/event planner can relax and enjoy the party. We'd love to create a custom cocktail menu for your event and help staff the party!",
+        "Price per hour": "$100",
+        "More details about the server\r": "https://www.thumbtack.com/ca/oakland/bartenders/mc-bartending-events/service/467696626414559243?service_pk=467696626414559243&project_pk=486709565968834592&lp_request_pk=486709565963542529&zip_code=94115&keyword_pk=102910114609294247&click_origin=pro%20list%2Fclick%20pro%20name&is_sponsored=false&utm_source=cma-google&utm_campaign=s-c-17693067489-140871286713-614000834145-kwd-25146543004-e---9031951-g---&utm_medium=cpc&gclid=CjwKCAjwyeujBhA5EiwA5WD7_b7vyoqtHYnU-S1vCYbtyp0Ikq9qWxe5QLUCZugjcRZTv0-iqllvexoC0GEQAvD_BwE&hideBack=true\r"
+      }
+    },
+    "drinks": "# Suggested Cocktails for Art Gallery & Plant Store Event\n\nThe following cocktails are designed to complement the relaxed and classy mood of the event. They combine sophistication with a hint of botanical inspiration, perfect for an art gallery and plant store setting.\n\n## 1. Classic Margarita\n\n**Ingredients:**\n- 2 oz Tequila\n- 1 oz Lime juice\n- 1 oz Cointreau\n- Salt for rimming\n- Lime wedge for garnish\n\n**Preparation:** Shake all ingredients with ice and strain into a salt-rimmed glass. Garnish with a lime wedge.\n\n**Why it fits:** The Classic Margarita is a timeless choice that brings a relaxed yet sophisticated vibe. The lime element also adds a touch of freshness, echoing the plant store environment.\n\n## 2. Lavender Martini\n\n**Ingredients:**\n- 2 oz Gin\n- 1/2 oz Lavender simple syrup\n- 1/2 oz Lemon juice\n- Lavender sprig for garnish\n\n**Preparation:** Shake all ingredients with ice and strain into a chilled martini glass. Garnish with a lavender sprig.\n\n**Why it fits:** The Lavender Martini is a classy and elegant cocktail. The addition of lavender not only provides a botanical touch but also complements the art gallery with its aesthetic appeal.\n\n## 3. Basil Mojito\n\n**Ingredients:**\n- 2 oz White rum\n- 1 oz Lime juice\n- 2 tsp Sugar\n- 6-8 Fresh basil leaves\n- Soda water\n- Lime slice and basil sprig for garnish\n\n**Preparation:** Muddle basil leaves and sugar in a glass. Add rum, lime juice, and ice. Top with soda water and stir. Garnish with a lime slice and basil sprig.\n\n**Why it fits:** The Basil Mojito is a refreshing and relaxed cocktail. The basil adds a unique twist to the traditional mojito, reflecting the creative and botanical aspects of the venue.\n\n## 4. Elderflower Collins\n\n**Ingredients:**\n- 2 oz Gin\n- 1 oz Lemon juice\n- 1 oz Elderflower liqueur\n- Soda water\n- Lemon slice and edible flower for garnish\n\n**Preparation:** Shake gin, lemon juice, and elderflower liqueur with ice. Strain into a glass filled with ice, top with soda water, and stir. Garnish with a lemon slice and an edible flower.\n\n**Why it fits:** The Elderflower Collins is a classy and sophisticated cocktail. The floral notes of elderflower liqueur resonate with the plant store atmosphere, while the presentation aligns with the art gallery's elegance.\n\n## 5. Rosemary Old Fashioned\n\n**Ingredients:**\n- 2 oz Bourbon\n- 1 Sugar cube\n- 2-3 dashes Angostura bitters\n- 1 Fresh rosemary sprig\n- Orange peel for garnish\n\n**Preparation:** Muddle sugar cube, bitters, and a rosemary sprig in a glass. Add bourbon and ice, and stir. Garnish with an orange peel.\n\n**Why it fits:** The Rosemary Old Fashioned is a sophisticated and relaxed cocktail. The rosemary adds a botanical touch, while the simplicity of the cocktail aligns with the relaxed mood of the event.",
+    "bookingRequest": {
+      "To": "Subject: Venue Booking for SF Artist Gathering ",
+      "Subject": "",
+      "Body": "Dear Anna B, \n\nI hope this email finds you well. I am writing on behalf of Strange Robin Listen, an event planning company. We are currently in the process of organizing an event titled \"SF Artist Gathering\", which is scheduled to take place on August 16th, 2023. \n\nWe are interested in booking your venue, \"Art Gallery + Plant Store - Outer Richmond\" for this event. The high ceilings and natural daylight of your venue perfectly complement the relaxed and classy mood we aim to create. Furthermore, the capacity to accommodate 80 people, the permission to bring outside food, and the availability of in-house parking make your venue a suitable choice for our gathering. \n\nThe event is planned to be a gathering of local artists in San Francisco, and we believe your venue's ambiance would provide an excellent backdrop for this event. We are also planning to have live music by the Amethyst Trio, and food catered by Notre Ferme. \n\nGiven the details, we would like to confirm the availability of your venue on the mentioned date. We are also interested in knowing if there are any additional charges or services that are not included in the hourly rate of $95. If the venue is not available on the requested date, we would appreciate it if you could provide us with alternative dates or similar venue options. \n\nThank you for considering our request. We look forward to hearing from you soon. \n\nBest Regards, \n\n[Your Name]\n[Your Contact Information]"
+    }
+  },
+  "smart-ostrich-look": {
+    "what": "SF Artist gathering",
+    "where": "San Francisco",
+    "when": "August 16th 2023",
+    "budget": "5000",
+    "mood": "Relaxed and classy",
+    "id": "smart-ostrich-look",
+    "venue": {
+      "name": "Art Gallery + Plant Store - Outer Richmond",
+      "id": "3",
+      "why": "This venue is chosen because it is located in San Francisco, and it fits the mood of 'Relaxed and classy'. The venue has a capacity of 80, which is sufficient for the event. The cost of the venue is within the budget. The venue allows outside food and has in-house parking, which are convenient for the event. The venue's ambiance with high ceilings, natural daylight, live plants, and artwork aligns with the mood of the event.",
+      "metadata": {
+        "ID": "3",
+        "Venue Name": "Art Gallery + Plant Store - Outer Richmond ",
+        "City": "San Francisco",
+        "Neighbourhood": "Outer Richmond",
+        "Capacity": "80",
+        "Price per hour": "$95",
+        "Outside Food permissable": "Yes",
+        "In-house Parking": "Yes",
+        "Venue Manager": "Anna. B",
+        "Email": "",
+        "Phone Number": "",
+        "Mood": "This vibrant art gallery boasts high ceilings and is filled with natural daylight, thanks to its storefront windows. Its interior is adorned with plentiful live plants, minimalist furniture, and an array of artwork, creating an artsy and cozy ambiance. The venue is lit by modern LED track lights, set against the backdrop of a sealed concrete floor. It offers ample space suitable for standing cocktail events or classroom-style seating. The gallery maintains a connection to the street through its open storefront.",
+        "Venue URL": "https://www.splacer.co/venue/art-gallery-plant-store-outer-richmond",
+        "Venue Image\r": "https://res.cloudinary.com/splacer/image/upload/e_improve,f_auto,q_auto,g_auto,c_fill,dpr_2,w_1920,h_1080/v1/production/Splaces/018426/1_srpsuj.jpg\r"
+      }
+    },
+    "music": {
+      "name": "Amethyst Trio",
+      "why": "The Amethyst Trio is a versatile group that can cater to a relaxed and classy vibe, as they can skillfully traverse classical, pop/rock, and jazz genres. Their use of diverse instruments like the harp, violin, cello, piano, and flute will add a unique touch to the event. Being experienced in film scores, MTV videos, and live tours, they can provide a professional and high-quality performance that will fit perfectly in an Art Gallery + Plant Store setting.",
+      "metadata": {
+        "ID": "0",
+        "Name": "Amethyst Trio",
+        "Genre": "Classical, poprock and jazz",
+        "Live Instrument use": "Yes",
+        "Price": "$400",
+        "Description": "an Francisco's acclaimed trio Amethyst offers a blend of harp, violin, cello, piano, and flute, skillfully traversing classical, pop/rock, and jazz genres. Experienced in film scores, MTV videos, and live tours, the trio is one of the Bay Area's most versatile professional groups. The pianist doubles as a harpist and flutist, ensuring diverse instrumentation. They provide high-quality amplification and accommodate special requests",
+        "Phone number": "(650)-430-5016",
+        "Email\r": "laragarner15@gmail.com or \r"
+      }
+    },
+    "food": {
+      "name": "Notre Ferme",
+      "why": "This catering service is chosen because it offers finger foods which are suitable for a relaxed and classy event like an artist gathering. The food is created by a Michelin star-earning chef, ensuring high quality and delicious food. The cost per person is within the budget. The business's emphasis on community connections and giving back aligns with the spirit of an artist gathering. The caterer's culinary education and personal journey could potentially inspire the artists at the event.",
+      "metadata": {
+        "ID": "0",
+        "Caterer Name": "Notre Ferme",
+        "Food Type": "Finger Foods",
+        "Description": "Notre Ferme, created by a Michelin star-earning chef, celebrates local farmers and community connections. The business fosters culinary education, while the chef's personal journey emphasizes sobriety, overcoming adversity, and giving back",
+        "Cost per person": "$14",
+        "Phone Number": "(530) 615-8198",
+        "Email\r": "a.notreferme@gmail.com\r"
+      }
+    },
+    "barServer": {
+      "name": "Hugo's bar service",
+      "why": "Hugo's bar service offers a tailored and high-quality experience which aligns with the relaxed and classy mood of the event. With 5 years of experience, they are confident in delivering beyond expectations. Their transition to independent work indicates flexibility, which could be beneficial for a unique venue like an art gallery and plant store. Furthermore, their price per hour is affordable considering the budget of the event.",
+      "metadata": {
+        "ID": "0",
+        "Bar server name": "Hugo's bar service",
+        "Years of experience": "5",
+        "About the bar server": "An experienced bartender offering tailored, top-shelf bar services for all events, from weddings to house parties. Ensures personalized, high-quality experience from cocktail design to efficient service. Transitioning to independent work, confident in delivering beyond expectations.",
+        "Price per hour": "$75",
+        "More details about the server\r": "https://www.thumbtack.com/ca/san-francisco/bartenders/hugos-bar-service/service/466227613170450437?service_pk=466227613170450437&project_pk=486709103408267283&lp_request_pk=486709103408676865&zip_code=94115&keyword_pk=102910114609294247&click_origin=pro%20list%2Fclick%20pro%20name&is_sponsored=false&utm_source=cma-google&utm_campaign=s-c-17693067489-140871286713-614000834145-kwd-25146543004-e---9031951-g---&utm_medium=cpc&gclid=CjwKCAjwyeujBhA5EiwA5WD7_b7vyoqtHYnU-S1vCYbtyp0Ikq9qWxe5QLUCZugjcRZTv0-iqllvexoC0GEQAvD_BwE&hideBack=true\r"
+      }
+    },
+    "drinks": "Here are some cocktail suggestions that would perfectly fit the relaxed and classy mood of an Art Gallery + Plant Store event in Outer Richmond.\n\n1. **Classic Margarita**\n   *Ingredients*: 2 oz Tequila, 1 oz Freshly squeezed lime juice, 1 oz Simple syrup, Lime wedge for garnish.\n   *Why it fits the mood*: This cocktail is a timeless classic that exudes sophistication. Its refreshing taste will keep the guests relaxed while they admire the art pieces.\n\n2. **Mojito**\n   *Ingredients*: 2 oz White rum, 1 oz Fresh lime juice, 2 tsp Sugar, 6 Fresh mint leaves, Soda Water, Mint sprig for garnish.\n   *Why it fits the mood*: The mojito is a light, refreshing cocktail that perfectly matches the plant store environment. The mint garnish adds a touch of greenery to the drink, making it visually appealing.\n\n3. **Old Fashioned**\n   *Ingredients*: 2 oz Bourbon or Rye whiskey, 1 Sugar cube, 2 dashes Angostura bitters, Few dashes plain water, Orange twist for garnish.\n   *Why it fits the mood*: This cocktail is a nod to the timeless elegance of the art gallery. Its rich, warm flavors will encourage guests to slow down and savor the moment.\n\n4. **French 75**\n   *Ingredients*: 2 oz Champagne, 1/2 oz Lemon juice, 1 oz Gin, 2 dashes Simple syrup, Lemon twist for garnish.\n   *Why it fits the mood*: The French 75 is a classy and elegant cocktail that fits perfectly with the sophisticated atmosphere of an art gallery. The bubbly champagne adds a festive touch to the event.\n\n5. **Garden Party**\n   *Ingredients*: 1 1/2 oz Gin, 3/4 oz Lemon juice, 3/4 oz Elderflower liqueur, 1/4 oz Simple syrup, 3 Cucumber slices, Mint sprig for garnish.\n   *Why it fits the mood*: This cocktail is inspired by the plant store setting. The cucumber and mint flavors provide a refreshing taste, while the gin and elderflower liqueur add a sophisticated twist.\n\nThese cocktails are not just delicious, but they also visually complement the aesthetic of an art gallery and plant store, enhancing the overall experience for the guests.",
+    "bookingRequest": {
+      "To": "Subject: Venue Booking Inquiry for SF Artist Gathering on August 16th, 2023 ",
+      "Subject": "",
+      "Body": "Dear Anna B,\n\nI hope this email finds you well. My name is [Your Name], and I am an event planner organizing an artist gathering in San Francisco. I am writing to inquire about the availability of your beautiful venue, Art Gallery + Plant Store - Outer Richmond, for our event.\n\nOur event, titled \"SF Artist Gathering,\" is scheduled for August 16th, 2023. We are planning for a relaxed and classy gathering of artists and art enthusiasts. We believe your venue, with its high ceilings, natural daylight, live plants, and artwork, perfectly fits the mood we want to create for our event. \n\nWe are expecting around 80 guests, which we understand is within the capacity of your venue. Also, we appreciate that your venue allows outside food and has in-house parking, which would be very convenient for our guests.\n\nBefore proceeding further, I would like to confirm if your venue is available on the mentioned date. If not, could you please suggest other possible dates around the same time? \n\nOnce we confirm the availability, I would love to discuss further details regarding the cost, setup, and other logistics. Our budget for the venue is around $5000, and we hope to work out a suitable arrangement within this budget.\n\nThank you for your time and consideration. I am looking forward to hearing from you soon.\n\nBest regards,\n\n[Your Name]\n[Your Contact Information]\n"
+    },
+    "getFoodBookingRequest": {
+      "To": "Subject: Catering Services for SF Artist Gathering on August 16th, 2023",
+      "Subject": "",
+      "Body": "Dear Notre Ferme Team,\n\nI hope this message finds you well. I am the event planner for an upcoming artist gathering in San Francisco, and I am reaching out to inquire about your catering services for the event. \n\nThe gathering is scheduled to take place on August 16th, 2023, at the Art Gallery + Plant Store in Outer Richmond. We anticipate a crowd of approximately 80 attendees. Given the relaxed and classy ambiance of the event, we believe your finger food offerings, created by a Michelin star-earning chef, would be the perfect fit. \n\nOur budget allows for a cost of $14 per person, which I understand aligns with your pricing. We appreciate your emphasis on community connections and giving back, as these values resonate with the spirit of our artist gathering.\n\nCould you please confirm your availability on this date and provide us with some menu options? If you are unavailable, we would appreciate any recommendations for alternative caterers who maintain a similar standard of quality and ethos.\n\nWe look forward to potentially working with you and showcasing your culinary expertise at our event. Please feel free to contact me should you require any further information.\n\nThank you for your time and consideration.\n\nBest Regards,\n\n[Your Name]\n[Your Contact Information]"
+    },
+    "BartenderBookingRequest": {
+      "To": "Subject: Booking and Availability Inquiry for SF Artist Gathering Event",
+      "Subject": "",
+      "Body": "Dear Hugo's Bar Service,\n\nI hope this message finds you well. My name is [Your Name] and I am an event planner currently organizing an event titled \"SF Artist Gathering\". The event is scheduled to take place on August 16th, 2023, in San Francisco at the Art Gallery + Plant Store in Outer Richmond. We expect a maximum of 80 guests.\n\nI am reaching out to you because your service aligns with the relaxed and classy mood we envision for our event. With your 5 years of experience and ability to deliver a tailored, high-quality experience, we believe you would be the perfect addition to our event.\n\nWe have a few cocktail suggestions that we believe would fit the event's vibe:\n\n1. Classic Margarita\n2. Mojito\n3. Old Fashioned\n4. French 75\n5. Garden Party\n\nYou can find the ingredients and reasons why we believe these cocktails fit the event's mood in the attached document. \n\nCould you please confirm your availability for this date and whether you would be able to accommodate these cocktail suggestions? If not, we would appreciate any alternatives you could recommend.\n\nYour service is listed at a rate of $75 per hour. Could you please provide an estimate for the total cost, assuming the event will last for approximately 6 hours?\n\nWe look forward to potentially working with you and creating an unforgettable experience for our guests.\n\nThank you for your time and consideration.\n\nBest regards,\n\n[Your Name]\n[Your Contact Information]"
+    },
+    "musicBookingRequest": {
+      "To": "Subject: Booking Inquiry for Amethyst Trio - SF Artist Gathering Event",
+      "Subject": "",
+      "Body": "Dear Amethyst Trio,\n\nI trust this email finds you well. My name is [Your Name], and I am an event planner organizing an artist gathering in San Francisco, California. I am writing to inquire about your availability to perform at our event on August 16th, 2023.\n\nThe event, titled \"SF Artist Gathering,\" is set to take place at the Art Gallery + Plant Store, located in the Outer Richmond neighborhood. The venue's relaxed and classy ambiance, complemented by high ceilings, natural daylight, live plants, and artwork, aligns perfectly with the mood we hope to create for our guests. We believe that your group's versatile music styles, ranging from classical to pop/rock and jazz, will add a unique touch to our event.\n\nAs a group that is experienced in film scores, MTV videos, and live tours, we are confident that your professional and high-quality performance will be a great fit for our event. We are particularly interested in your use of diverse instruments, such as the harp, violin, cello, piano, and flute.\n\nThe venue has a capacity of 80, and we anticipate a full house for the event. We understand from your information that your performance fee is $400, and we are prepared to meet this cost.\n\nCould you please confirm your availability for this date? If you are not available, could you kindly provide us with alternative dates or options?\n\nThank you for considering our request. We look forward to the possibility of having you perform at our event.\n\nBest Regards,\n\n[Your Name]\n[Your Contact Information]\n"
+    },
+    "invitation": {
+      "invitation": {
+        "event": "Art Gallery + Plant Store - Outer Richmond",
+        "date": "August 16th 2023",
+        "message": "You are cordially invited to join us at the Art Gallery + Plant Store - Outer Richmond on August 16th, 2023. Looking forward to your presence."
+      }
+    },
+    "socialposts": "Twitter Post:\n\"Get ready to vibe with art & nature at the same time! 🎨🌿 Join us at the Outer Richmond Art Gallery + Plant Store for a relaxed, classy evening. Art lovers and plant enthusiasts, this one's for you! #ArtMeetsNature #OuterRichmond #ChillVibes\"\n\nInstagram Post:\n\"Immerse yourself in a world where art meets nature. 🖼️🌵 The Outer Richmond Art Gallery + Plant Store is the place to be for a relaxed, classy get-together. Come, explore, and get inspired. Swipe left for a sneak peek. 👀 #ArtLovers #PlantLovers #ClassyEvenings #OuterRichmond\"",
+    "ReminderEmail": {
+      "To": "Subject: Reminder for the Upcoming Event at Art Gallery + Plant Store - Outer Richmond",
+      "Subject": "",
+      "Body": "Dear Guest,\n\nI hope this email finds you well. As your event planner, I am writing to remind you about the upcoming event that you have kindly RSVP'd to, scheduled to take place on August 16th, 2023.\n\nThe venue for this exciting gathering is the unique and vibrant Art Gallery + Plant Store, located in the picturesque neighborhood of Outer Richmond. We are confident that the eclectic mix of art and greenery will provide a refreshing and stimulating backdrop for our event.\n\nHere are a few important details for your convenience:\n\nVenue: Art Gallery + Plant Store, Outer Richmond\nDate: August 16, 2023\nArrival Time: To be confirmed\nDress Code: To be confirmed\n\nIn the coming weeks, we will be sharing more information about the event schedule, speakers, and other activities. We are looking forward to your participation in what promises to be a memorable occasion.\n\nIf you have any questions or require further information, please do not hesitate to get in touch. Your comfort and enjoyment are our utmost priority.\n\nThank you again for your positive response to our invitation. We are eagerly looking forward to welcoming you at the event.\n\nBest Regards,\n\n[Your Name]\n[Your Contact Information]\n[Your Position/Role]"
+    },
+    "textConfirmation": {
+      "invitation": {
+        "venue": "Art Gallery + Plant Store - Outer Richmond",
+        "date": "August 16th 2023",
+        "details": {
+          "food": "[object Object]",
+          "drinks": [
+            {
+              "name": "Classic Margarita",
+              "ingredients": "2 oz Tequila, 1 oz Freshly squeezed lime juice, 1 oz Simple syrup, Lime wedge for garnish",
+              "moodFit": "This cocktail is a timeless classic that exudes sophistication. Its refreshing taste will keep the guests relaxed while they admire the art pieces."
+            },
+            {
+              "name": "Mojito",
+              "ingredients": "2 oz White rum, 1 oz Fresh lime juice, 2 tsp Sugar, 6 Fresh mint leaves, Soda Water, Mint sprig for garnish",
+              "moodFit": "The mojito is a light, refreshing cocktail that perfectly matches the plant store environment. The mint garnish adds a touch of greenery to the drink, making it visually appealing."
+            },
+            {
+              "name": "Old Fashioned",
+              "ingredients": "2 oz Bourbon or Rye whiskey, 1 Sugar cube, 2 dashes Angostura bitters, Few dashes plain water, Orange twist for garnish",
+              "moodFit": "This cocktail is a nod to the timeless elegance of the art gallery. Its rich, warm flavors will encourage guests to slow down and savor the moment."
+            },
+            {
+              "name": "French 75",
+              "ingredients": "2 oz Champagne, 1/2 oz Lemon juice, 1 oz Gin, 2 dashes Simple syrup, Lemon twist for garnish",
+              "moodFit": "The French 75 is a classy and elegant cocktail that fits perfectly with the sophisticated atmosphere of an art gallery. The bubbly champagne adds a festive touch to the event."
+            },
+            {
+              "name": "Garden Party",
+              "ingredients": "1 1/2 oz Gin, 3/4 oz Lemon juice, 3/4 oz Elderflower liqueur, 1/4 oz Simple syrup, 3 Cucumber slices, Mint sprig for garnish",
+              "moodFit": "This cocktail is inspired by the plant store setting. The cucumber and mint flavors provide a refreshing taste, while the gin and elderflower liqueur add a sophisticated twist."
+            }
+          ],
+          "message": "These cocktails are not just delicious, but they also visually complement the aesthetic of an art gallery and plant store, enhancing the overall experience for the guests."
+        }
+      }
+    },
+    "getSponsorPitchDeck": "Subject: Unique Sponsorship Opportunity at the Art Gallery + Plant Store Event\n\nDear [Potential Sponsor],\n\nI hope this message finds you well. My name is [Your Name] and I am the Sponsorship Manager for an upcoming event at the Art Gallery + Plant Store in Outer Richmond. The event is set to be a relaxed and classy affair, attracting a diverse and cultured audience from our local community and beyond.\n\nThis presents a fantastic opportunity for your company to gain exposure, drive brand engagement, and connect with a highly targeted audience. As a sponsor, you would have the opportunity to showcase your products or services, as well as interact directly with potential customers.\n\nWe are currently seeking sponsors in the following categories:\n\n1. Art Supplies Companies: \n   - Blick Art Materials\n   - Michaels\n   - Faber-Castell\n\n2. Home Decor Brands:\n   - Crate & Barrel\n   - West Elm\n   - Pottery Barn\n\n3. Plant and Gardening Businesses:\n   - The Sill\n   - Bloomscape\n   - Gardener's Supply Company\n\n4. Local Restaurants and Cafes:\n   - Outerlands\n   - Cassava\n   - Bazaar Cafe\n\n5. Beverage Companies (Wine, Craft Beer, Non-Alcoholic Beverages):\n   - Barefoot Wine\n   - Anchor Brewing Company\n   - Health-Ade Kombucha\n\n6. Lifestyle and Wellness Brands:\n   - Lululemon\n   - Bath & Body Works\n   - The Body Shop\n\nIf you are interested in this sponsorship opportunity, I would be more than happy to provide further details and discuss how we can tailor the sponsorship package to meet your marketing objectives.\n\nThank you for considering this opportunity. I look forward to the possibility of partnering with you for this event.\n\nBest regards,\n\n[Your Name]\n[Your Contact Information]",
+    "imagePrompt": "Create a cover image that encapsulates the relaxed and classy mood, inspired by the unique blend of an Art Gallery and Plant Store situated in Outer Richmond. Incorporate elements that represent the venue's artistic and botanical features, while reflecting a calm and sophisticated ambiance to perfectly align with the user's mood. The venue mood may be undefined, but let's imagine it as a serene and stylish space where art meets nature.",
+    "audioInvite": "Hello there,\n\nI hope this message finds you well. This is [Your Name] and I am absolutely delighted to invite you to a special gathering at the Art Gallery and Plant Store in Outer Richmond.\n\nMark your calendars for August 16th, 2023. We're creating an atmosphere that's relaxed yet classy, perfect for mingling, appreciating art, and exploring a variety of beautiful plants.\n\nWe believe you'll enjoy this unique blend of nature and creativity. It's not just an event, it's an experience. So, come along, unwind, and let's make some splendid memories together.\n\nLooking forward to seeing you there. Please RSVP at your earliest convenience. \n\nTake care and have a great day!",
+    "ready": true
+  },
+  "angry-butterfly-run": {
+    "what": "VC and Portfolio companies strategy session",
+    "where": "San Francisco",
+    "when": "August 23rd 2023",
+    "budget": "5000",
+    "mood": "insightful, engaging, supportive and tons of fun",
+    "id": "angry-butterfly-run",
+    "venue": {
+      "name": "Creative SOMA Loft",
+      "id": "4",
+      "why": "This venue fits the event as it offers a creative and modern environment that can comfortably accommodate a large group. It has work stations for 10 and three large conference rooms for breakout groups, which is perfect for a strategy session. The venue also allows outside food, has in-house parking and falls within the budget. The modern decor and interior design will also contribute to the engaging and fun mood of the event.",
+      "metadata": {
+        "ID": "4",
+        "Venue Name": "Creative SOMA Loft",
+        "City": "San Francisco",
+        "Neighbourhood": "SOMA",
+        "Capacity": "100",
+        "Price per hour": "$375",
+        "Outside Food permissable": "Yes",
+        "In-house Parking": "Yes",
+        "Venue Manager": "Amy C.",
+        "Email": "",
+        "Phone Number": "",
+        "Mood": "Creative 2-story loft with exposed timber, sandblasted concrete walls, floor to ceiling glass, soaring ceilings, lantern skylights, designer furniture and postmodern cabinetry. A lot of shelves. Furniture. . Whiteboard and table. Perfect for company off-sites, private parties or media production with work stations for 10, three large conference rooms for breakout groups, and an elegant patio, living, dining and kitchen area for celebrating, team-building, networking or entertaining.Very modern decor and interior design. ",
+        "Venue URL": "https://www.splacer.co/venue/creative-soma-loft-full-building",
+        "Venue Image\r": "https://res.cloudinary.com/splacer/image/upload/e_improve,f_auto,q_auto,g_auto,c_fill,dpr_2,w_1920,h_1080/v1/production/Splaces/020986/917_Bryant_009_irgggg.jpg\r"
+      }
+    },
+    "music": {
+      "name": "Garuda Blue",
+      "why": "Being a premier jazz and party band from San Francisco, Garuda Blue would bring a high-quality, authentic music experience to the event. Their versatility and youthful vibe would contribute to the engaging and fun atmosphere of the event. They perform unique jazz arrangements and popular hits, which would provide an insightful and supportive environment for the attendees. Their exceptional professionalism, punctuality, and musicianship would ensure a smooth and enjoyable event.",
+      "metadata": {
+        "ID": "3",
+        "Name": "Garuda Blue",
+        "Genre": "Jazz",
+        "Live Instrument use": "",
+        "Price": "",
+        "Description": "Garuda Blue, a premier jazz and party band from San Francisco, delivers high-quality, authentic music for events including weddings and corporate functions. Known for their versatility and youthful vibe, they perform unique jazz arrangements and popular hits. They are a top choice for destination events, with performances nationwide and for clients like Google and Oracle. Their exceptional professionalism, punctuality, and musicianship stand out in the event entertainment industry.",
+        "Phone number": "(650) 576-6381",
+        "Email\r": "\r"
+      }
+    },
+    "food": {
+      "name": "Notre Ferme",
+      "why": "Notre Ferme's focus on local farmers and community connections aligns well with the event's supportive mood. Their finger foods are perfect for a strategy session where attendees might prefer to eat while discussing. The chef's personal journey of overcoming adversity and giving back could serve as an inspiring story for the event. Furthermore, their cost per person fits well within the event budget.",
+      "metadata": {
+        "ID": "0",
+        "Caterer Name": "Notre Ferme",
+        "Food Type": "Finger Foods",
+        "Description": "Notre Ferme, created by a Michelin star-earning chef, celebrates local farmers and community connections. The business fosters culinary education, while the chef's personal journey emphasizes sobriety, overcoming adversity, and giving back",
+        "Cost per person": "$14",
+        "Phone Number": "(530) 615-8198",
+        "Email\r": "a.notreferme@gmail.com\r"
+      }
+    },
+    "barServer": {
+      "name": "On The Rocks Bartending & Serving",
+      "why": "With 17 years of experience, On The Rocks Bartending & Serving has a proven track record of making guests happy and allowing the host to relax and enjoy the party. Their ability to create a custom cocktail menu will add a fun and engaging element to the event, aligning with the event's mood of being insightful, engaging, supportive and tons of fun. Their price per hour is also within the event's budget.",
+      "metadata": {
+        "ID": "1",
+        "Bar server name": "On The Rocks Bartending & Serving",
+        "Years of experience": "17",
+        "About the bar server": "We excel at making guests happy, and strive to make sure the host/event planner can relax and enjoy the party. We'd love to create a custom cocktail menu for your event and help staff the party!",
+        "Price per hour": "$100",
+        "More details about the server\r": "https://www.thumbtack.com/ca/oakland/bartenders/mc-bartending-events/service/467696626414559243?service_pk=467696626414559243&project_pk=486709565968834592&lp_request_pk=486709565963542529&zip_code=94115&keyword_pk=102910114609294247&click_origin=pro%20list%2Fclick%20pro%20name&is_sponsored=false&utm_source=cma-google&utm_campaign=s-c-17693067489-140871286713-614000834145-kwd-25146543004-e---9031951-g---&utm_medium=cpc&gclid=CjwKCAjwyeujBhA5EiwA5WD7_b7vyoqtHYnU-S1vCYbtyp0Ikq9qWxe5QLUCZugjcRZTv0-iqllvexoC0GEQAvD_BwE&hideBack=true\r"
+      }
+    },
+    "drinks": "# Suggested Cocktails for Creative SOMA Loft\n\n1. **Mojito**\n   - *Recipe*: 2 oz White rum, 1 oz Fresh lime juice, 2 tsp Sugar, 6 leaves of Mint, Soda Water\n   - *Why it fits the mood*: Mojito is a classic cocktail that's light and refreshing. Its sweetness and minty flavor make it a great drink for a fun and engaging event. It's also easy to make in large amounts, perfect for a supportive gathering.\n\n2. **Whiskey Sour**\n   - *Recipe*: 2 oz Bourbon, 3/4 oz Fresh lemon juice, 1/2 oz Sugar syrup, 1/2 oz Egg white, Cherry and lemon wedge for garnish\n   - *Why it fits the mood*: Whiskey Sour is a cocktail that's both sophisticated and easy to enjoy. Its balance of sweet and sour flavors makes it a great choice for an insightful event. Plus, the egg white adds a creamy texture that's sure to impress.\n\n3. **Cosmopolitan**\n   - *Recipe*: 1 1/2 oz Vodka Citron, 1 oz Cointreau, 1/2 oz Fresh lime juice, 1 dash Cranberry juice\n   - *Why it fits the mood*: The Cosmopolitan is a stylish and vibrant cocktail. Its bright color and sweet-tart flavor make it a perfect drink for a creative event. Plus, it's a cocktail that's sure to spark conversation.\n\n4. **Old Fashioned**\n   - *Recipe*: 2 oz Bourbon or Rye whiskey, 2 dashes Angostura bitters, 1 Sugar cube, Few dashes plain water\n   - *Why it fits the mood*: The Old Fashioned is a cocktail that's all about simplicity and quality. Its rich flavor and classic preparation make it a great choice for an event that values insight and engagement. It's a cocktail that encourages slow sipping and deep conversation.\n\n5. **Margarita**\n   - *Recipe*: 2 oz Silver Tequila, 1 oz Lime juice, 1 oz Cointreau, Salt for rimming the glass\n   - *Why it fits the mood*: The Margarita is a cocktail that's fun and versatile. Its balance of tart and sweet flavors makes it a great choice for a supportive and fun event. Plus, it's a cocktail that's easy to customize with different flavors, perfect for a creative event.",
+    "bookingRequest": {
+      "To": "Subject: Venue Booking Inquiry for VC and Portfolio Companies Strategy Session",
+      "Subject": "",
+      "Body": "Dear Amy C.,\n\nI hope this email finds you well. My name is [Your Name] and I am an event planner currently organizing a VC and Portfolio companies strategy session. I am reaching out to inquire about the availability of the Creative SOMA Loft for our event on August 23rd, 2023.\n\nThe Creative SOMA Loft caught our attention due to its modern and creative environment which perfectly aligns with the mood we are aiming for - insightful, engaging, supportive, and fun. The venue's capacity to comfortably accommodate a large group and its provision for work stations and conference rooms perfectly suits our needs for the strategy session. Additionally, the allowance for outside food, in-house parking, and the venue's price point are all in line with our requirements and budget.\n\nCould you kindly confirm if the venue is available for booking on the specified date? If not, could you please suggest some alternative dates or venues under your management that offer similar features and fall within the same price range?\n\nOnce we have the date and venue confirmed, I would love to discuss further details such as setup, any restrictions we should be aware of, and the steps necessary to finalize the booking. \n\nI look forward to hearing from you soon.\n\nBest regards,\n\n[Your Name]\n[Your Contact Information]"
+    },
+    "getFoodBookingRequest": {
+      "To": "Subject: Catering Booking for VC and Portfolio Companies Strategy Session",
+      "Subject": "",
+      "Body": "Dear Notre Ferme Team,\n\nI hope this message finds you well. My name is [Your Name], an event planner coordinating a strategy session for VC and Portfolio companies. I am reaching out to inquire about your catering services for our upcoming event.\n\nThe event is scheduled for August 23rd, 2023, and will be held at the Creative SOMA Loft in San Francisco. Given the venue's capacity, we are expecting around 100 attendees. The atmosphere of the event is intended to be engaging and fun, with a focus on creativity and innovation. \n\nWe are particularly interested in your catering services due to your focus on local farmers and community connections, which aligns well with the event's supportive mood. Your finger foods would be a perfect fit, as attendees might prefer to eat while discussing. Moreover, your cost per person fits well within our event budget.\n\nI am writing to confirm your availability for this date and to discuss the menu options. If you are unavailable or unable to cater for this number of attendees, could you please provide other options or recommendations?\n\nPlease feel free to contact me at [Your Contact Information] to discuss further details. I look forward to hearing from you soon.\n\nBest Regards,\n\n[Your Name]\n[Your Position]"
+    },
+    "BartenderBookingRequest": {
+      "To": "Subject: Booking and Availability Confirmation for Event on August 23rd, 2023",
+      "Subject": "",
+      "Body": "Dear \"On The Rocks Bartending & Serving\" Team,\n\nI hope this email finds you well. My name is [Your Name], and I am an event planner organizing a strategy session for a venture capital firm and their portfolio companies. The event is scheduled to take place in San Francisco at the Creative SOMA Loft on August 23rd, 2023.\n\nI am reaching out to confirm your availability for the aforementioned date. Your 17 years of experience and your ability to create custom cocktail menus align perfectly with the mood and theme of our event. We are particularly interested in the following cocktails for our event: Mojito, Whiskey Sour, Cosmopolitan, Old Fashioned, and Margarita. We believe these selections will add a fun, engaging, and supportive atmosphere to our event.\n\nThe venue allows outside food and beverages, and we have allocated a budget for your services at your stated rate of $100 per hour. \n\nPlease let us know if you are available on this date and if you can accommodate our cocktail preferences. If not, we would appreciate any alternatives or recommendations you may have.\n\nWe look forward to creating an insightful, engaging, and fun event with your team's expertise. If you have any questions, please do not hesitate to ask.\n\nThank you for considering our request. We look forward to your positive response.\n\nBest Regards,\n[Your Name]\n[Your Contact Information]"
+    },
+    "musicBookingRequest": {
+      "To": "Subject: Event Performance Inquiry for Garuda Blue on August 23rd, 2023",
+      "Subject": "",
+      "Body": "Dear Garuda Blue,\n\nI hope this message finds you well. My name is [Your Name], and I am an event planner organizing a strategy session for a Venture Capital firm and their portfolio companies. The event is scheduled to take place on August 23rd, 2023, at the Creative SOMA Loft in San Francisco.\n\nYour band, Garuda Blue, has been identified as a perfect fit for our event. Your unique jazz arrangements and popular hits, combined with your professional and punctual reputation, make you an ideal choice for our guests. We believe your performance will create an engaging and fun atmosphere that will enhance the overall experience.\n\nBefore we proceed with further arrangements, I would like to confirm your availability for the mentioned date. If you are available, could you please provide us with a quote for your services? In case you are not available, could you kindly suggest alternative dates or possibly recommend another band with a similar style?\n\nOnce we have confirmed the date and pricing, we can proceed with the necessary paperwork and logistics. Please feel free to contact me if you have any questions or need further information about the event.\n\nLooking forward to your positive response and the possibility of having Garuda Blue perform at our event.\n\nBest Regards,\n\n[Your Name]\n[Your Contact Information]"
+    },
+    "invitation": {
+      "invitation": {
+        "event": "Creative Gathering",
+        "date": "August 23rd 2023",
+        "venue": "Creative SOMA Loft",
+        "message": "We are delighted to invite you to our event at the Creative SOMA Loft on August 23rd, 2023. Please join us for an evening of creativity, networking, and fun. Your presence would make the event more special. Looking forward to seeing you."
+      }
+    },
+    "socialposts": "Twitter Post:\n\"Get ready to ignite your creativity at the Creative SOMA Loft! 🎨 Join us for a day of insightful chats, engaging activities, and a supportive community. Plus, a whole lot of fun! Don't miss out, save the date. #CreativeSOMALoft #FunLearning\"\n\nInstagram Post:\n\"Are you ready to spark your creativity? 🔥 We're inviting you to join us at the Creative SOMA Loft! Dive into engaging conversations, fun activities, and a supportive community that's all about boosting your creative energy. Don't miss out on this exciting event! Swipe left to see more. #CreativeSOMALoft #EngageAndInspire\"",
+    "ReminderEmail": {
+      "To": "Subject: Reminder: Exciting Event at Creative SOMA Loft on August 23rd, 2023",
+      "Subject": "",
+      "Body": "Dear Esteemed Guest,\n\nI trust this email finds you well. We are writing to remind you about the upcoming event at the Creative SOMA Loft on August 23rd, 2023. We are thrilled to host you and are eagerly looking forward to your presence.\n\nAs you know, the event promises to be an exciting mix of networking, learning, and entertainment. We have a fabulous lineup of speakers, engaging activities, and a wonderful menu that will cater to all tastes.\n\nHere are some key details:\n\nDate: August 23rd, 2023\nVenue: Creative SOMA Loft\nTime: To be announced\n\nPlease mark your calendar and make necessary arrangements to be there. We recommend arriving a bit early to get the most out of the event and to secure the best seating.\n\nAs we approach the event date, we will be sending you more information about the schedule, speakers, and other details. If you have any questions or need further information, please feel free to reach out to us.\n\nWe are excited about the event and we hope you are too. Your presence will certainly add value to the event and we can't wait to welcome you to the Creative SOMA Loft on August 23rd, 2023.\n\nThank you for your attention to this reminder. We look forward to seeing you soon.\n\nBest Regards,\n\n[Your Name]\n[Your Position]\n[Your Contact Information]"
+    },
+    "textConfirmation": {
+      "invitation": {
+        "venue": "Creative SOMA Loft",
+        "event_date": "August 23rd 2023",
+        "details": {
+          "food": "To be confirmed",
+          "drinks": [
+            {
+              "name": "Mojito",
+              "recipe": "2 oz White rum, 1 oz Fresh lime juice, 2 tsp Sugar, 6 leaves of Mint, Soda Water",
+              "mood": "Mojito is a classic cocktail that's light and refreshing. Its sweetness and minty flavor make it a great drink for a fun and engaging event. It's also easy to make in large amounts, perfect for a supportive gathering."
+            },
+            {
+              "name": "Whiskey Sour",
+              "recipe": "2 oz Bourbon, 3/4 oz Fresh lemon juice, 1/2 oz Sugar syrup, 1/2 oz Egg white, Cherry and lemon wedge for garnish",
+              "mood": "Whiskey Sour is a cocktail that's both sophisticated and easy to enjoy. Its balance of sweet and sour flavors makes it a great choice for an insightful event. Plus, the egg white adds a creamy texture that's sure to impress."
+            },
+            {
+              "name": "Cosmopolitan",
+              "recipe": "1 1/2 oz Vodka Citron, 1 oz Cointreau, 1/2 oz Fresh lime juice, 1 dash Cranberry juice",
+              "mood": "The Cosmopolitan is a stylish and vibrant cocktail. Its bright color and sweet-tart flavor make it a perfect drink for a creative event. Plus, it's a cocktail that's sure to spark conversation."
+            },
+            {
+              "name": "Old Fashioned",
+              "recipe": "2 oz Bourbon or Rye whiskey, 2 dashes Angostura bitters, 1 Sugar cube, Few dashes plain water",
+              "mood": "The Old Fashioned is a cocktail that's all about simplicity and quality. Its rich flavor and classic preparation make it a great choice for an event that values insight and engagement. It's a cocktail that encourages slow sipping and deep conversation."
+            },
+            {
+              "name": "Margarita",
+              "recipe": "2 oz Silver Tequila, 1 oz Lime juice, 1 oz Cointreau, Salt for rimming the glass",
+              "mood": "The Margarita is a cocktail that's fun and versatile. Its balance of tart and sweet flavors makes it a great choice for a supportive and fun event. Plus, it's a cocktail that's easy to customize with different flavors, perfect for a creative event."
+            }
+          ],
+          "live_music": "To be confirmed",
+          "number_of_guests": "To be confirmed",
+          "period_of_time": "To be confirmed"
+        }
+      }
+    },
+    "getSponsorPitchDeck": "Subject: Exciting Sponsorship Opportunity at Creative SOMA Loft Event\n\nDear [Potential Sponsor],\n\nI hope this message finds you well. I am writing to introduce a unique sponsorship opportunity for your esteemed company. We are hosting an event at the Creative SOMA Loft, a space known for its insightful and engaging atmosphere. \n\nThe event promises to be a vibrant mix of local creatives, entrepreneurs, and industry leaders. It is an excellent platform for your brand to gain exposure, foster relationships, and support the community. \n\nWe are reaching out to businesses in various categories, and your company is one of our top choices due to your commitment to innovation, community support, and quality. \n\nHere are the categories and companies we are reaching out to:\n\n1. Tech Companies: \n   - Google\n   - Microsoft\n   - Apple\n\n2. Food and Beverage Companies:\n   - Coca-Cola\n   - Starbucks\n   - Nestle\n\n3. Fashion Brands:\n   - Gucci\n   - Prada\n   - Louis Vuitton\n\n4. Automobile Companies:\n   - Tesla\n   - BMW\n   - Mercedes-Benz\n\n5. Media and Entertainment Companies:\n   - Netflix\n   - Disney\n   - Warner Bros\n\nWe believe that your brand aligns perfectly with our values and audience. As a sponsor, you will have an opportunity to showcase your products/services, engage with a diverse and dynamic community, and boost your brand’s visibility.\n\nWe would be thrilled to discuss this opportunity further and tailor a sponsorship package that best suits your brand's marketing objectives. \n\nLooking forward to your positive response.\n\nBest Regards,\n\n[Your Name]\n[Your Position]\n[Your Contact Information]",
+    "imagePrompt": "Design a cover image that captures the essence of the Creative SOMA Loft and reflects an insightful, engaging, supportive, and fun atmosphere. Even though the venue mood is undefined, feel free to use your creativity to depict a lively and vibrant space that aligns with the user's mood.",
+    "audioInvite": "Hello there,\n\nI hope this message finds you well. This is [Your Name], inviting you to a special gathering at Creative SOMA Loft on the 23rd of August, 2023. \n\nWe've planned an insightful and engaging evening, filled with stimulating conversations and supportive interactions. And of course, there will be plenty of fun thrown into the mix! \n\nWe believe your presence will add a unique touch to our gathering and we're really looking forward to seeing you there. \n\nSave the date and join us for a memorable night. More details will follow soon. \n\nThank you and talk to you soon. \n\n[Your Name]",
+    "ready": true
   }
 }
